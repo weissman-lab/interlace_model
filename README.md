@@ -27,6 +27,6 @@ Step 2: Extract Symptoms Information (`02_extract_symptoms.py`) - this file extr
 
 Step 3: Unstructured Data Processing (`03_vectorize_notes.py`) - this file vectorizes unstructured data using BioClinicalBERT. It is recommended to remove PHI from your text data prior to using this tool. Please note that you will need to update the paths for BioClinicalBERT to the location of the model. You can find more information about it here: https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT
 
-Step 4: Compile (`03_compile.qmd`) - this file merges the data files together, imputes missing data, and standardizes all data. The resulting output will be ready to be run through the model.
+Step 4: Compile (`04_compile.qmd`) - this file merges the data files together, imputes missing data, and standardizes all data. The resulting output will be ready to be run through the model.
 
-Step 5: Predict (`04_predict.py`) - this file reads in the neural network model and predicts on the dataset completed in step 4.
+Step 5: Predict (`05_predict.py`) - this file reads in the neural network model and predicts on the dataset completed in step 4.
