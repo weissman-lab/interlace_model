@@ -1,0 +1,501 @@
+pat_enc_csn_id,note_id,clean_note_text
+1,1,Patient was seen for annual wellness visit with back pain . patient is responding to treatment . dietary and lifestyle counseling provided .
+2,2,Patient presented for follow-up with headache . labs reviewed and discussed with patient . schedule outpatient follow-up .
+3,3,Patient was seen for annual wellness visit with weight loss . symptoms are stable . referral placed to specialist .
+4,4,Patient was seen for annual wellness visit with chest pain . symptoms are improving . monitor symptoms closely .
+5,5,Patient was evaluated in clinic with hypertension . symptoms are improving . dietary and lifestyle counseling provided .
+6,6,Patient was evaluated in clinic with anxiety . vitals within normal limits . no changes to treatment plan .
+7,7,Patient was evaluated in clinic with cough . condition remains unchanged . continue current management .
+8,8,Patient presented for follow-up with abdominal pain . no acute distress noted . continue current management .
+9,9,Patient was seen for annual wellness visit with chest pain . vitals within normal limits . dietary and lifestyle counseling provided .
+10,10,Patient was evaluated for acute complaint with abdominal pain . labs reviewed and discussed with patient . adjust medications .
+11,11,Patient presented for routine screening with upper respiratory infection . condition remains unchanged . dietary and lifestyle counseling provided .
+12,12,Patient was seen for medication refill with anxiety . patient is responding to treatment . monitor symptoms closely .
+13,13,Patient presented for follow-up with anxiety . labs reviewed and discussed with patient . schedule outpatient follow-up .
+14,14,Patient presented for follow-up with weight gain . labs reviewed and discussed with patient . order follow-up labs .
+15,15,Patient had a telehealth visit with shortness of breath . no acute distress noted . order follow-up labs .
+16,16,Patient was seen for chronic disease management with type 2 diabetes . patient is responding to treatment . no changes to treatment plan .
+17,17,Patient presented for follow-up with knee pain . no acute distress noted . order follow-up labs .
+18,18,Patient had a telehealth visit with weight loss . patient is responding to treatment . no changes to treatment plan .
+19,19,Patient had a telehealth visit with weight loss . patient is responding to treatment . referral placed to specialist .
+20,20,Patient was seen for annual wellness visit with fatigue . symptoms are stable . no changes to treatment plan .
+21,21,Patient was evaluated in clinic with shortness of breath . condition remains unchanged . continue current management .
+22,22,Patient was seen for medication refill with upper respiratory infection . symptoms are improving . schedule outpatient follow-up .
+23,23,Patient was evaluated for acute complaint with type 2 diabetes . labs reviewed and discussed with patient . order follow-up labs .
+24,24,Patient was seen for medication refill with abdominal pain . no acute distress noted . continue current management .
+25,25,Patient presented for routine screening with type 2 diabetes . patient is responding to treatment . dietary and lifestyle counseling provided .
+26,26,Patient presented for routine screening with type 2 diabetes . no acute distress noted . order follow-up labs .
+27,27,Patient was evaluated for acute complaint with upper respiratory infection . labs reviewed and discussed with patient . adjust medications .
+28,28,Patient was seen for chronic disease management with weight gain . no acute distress noted . dietary and lifestyle counseling provided .
+29,29,Patient had a telehealth visit with chest pain . symptoms are improving . monitor symptoms closely .
+30,30,Patient presented for routine screening with type 2 diabetes . patient is responding to treatment . adjust medications .
+31,31,Patient was seen for chronic disease management with type 2 diabetes . patient is responding to treatment . adjust medications .
+32,32,Patient was evaluated in clinic with weight gain . condition remains unchanged . dietary and lifestyle counseling provided .
+33,33,Patient presented for follow-up with anxiety . symptoms are stable . schedule outpatient follow-up .
+34,34,Patient presented for routine screening with type 2 diabetes . no acute distress noted . schedule outpatient follow-up .
+35,35,Patient was seen for chronic disease management with upper respiratory infection . symptoms are improving . dietary and lifestyle counseling provided .
+36,36,Patient was seen for medication refill with back pain . symptoms are stable . order follow-up labs .
+37,37,Patient presented for routine screening with abdominal pain . symptoms are stable . continue current management .
+38,38,Patient was seen for chronic disease management with hypertension . no acute distress noted . monitor symptoms closely .
+39,39,Patient was evaluated in clinic with headache . patient is responding to treatment . referral placed to specialist .
+40,40,Patient was seen for medication refill with back pain . symptoms are stable . order follow-up labs .
+41,41,Patient had a telehealth visit with hypertension . labs reviewed and discussed with patient . no changes to treatment plan .
+42,42,Patient was seen for chronic disease management with upper respiratory infection . patient is responding to treatment . adjust medications .
+43,43,Patient was evaluated in clinic with fatigue . symptoms are improving . referral placed to specialist .
+44,44,Patient had a telehealth visit with cough . symptoms are improving . dietary and lifestyle counseling provided .
+45,45,Patient presented for routine screening with back pain . condition remains unchanged . adjust medications .
+46,46,Patient was evaluated for acute complaint with upper respiratory infection . vitals within normal limits . continue current management .
+47,47,Patient was seen for chronic disease management with chest pain . symptoms are improving . monitor symptoms closely .
+48,48,Patient was evaluated in clinic with fatigue . patient is responding to treatment . monitor symptoms closely .
+49,49,Patient was evaluated for acute complaint with type 2 diabetes . symptoms are stable . continue current management .
+50,50,Patient was seen for medication refill with back pain . no acute distress noted . referral placed to specialist .
+51,51,Patient was evaluated in clinic with back pain . no acute distress noted . no changes to treatment plan .
+52,52,Patient was seen for annual wellness visit with type 2 diabetes . labs reviewed and discussed with patient . order follow-up labs .
+53,53,Patient presented for follow-up with anxiety . condition remains unchanged . monitor symptoms closely .
+54,54,Patient was evaluated in clinic with chest pain . labs reviewed and discussed with patient . order follow-up labs .
+55,55,Patient was evaluated for acute complaint with weight gain . vitals within normal limits . monitor symptoms closely .
+56,56,Patient was seen for chronic disease management with depression . symptoms are improving . dietary and lifestyle counseling provided .
+57,57,Patient was seen for medication refill with shortness of breath . patient is responding to treatment . schedule outpatient follow-up .
+58,58,Patient was seen for annual wellness visit with depression . vitals within normal limits . schedule outpatient follow-up .
+59,59,Patient presented for follow-up with upper respiratory infection . no acute distress noted . dietary and lifestyle counseling provided .
+60,60,Patient presented for follow-up with weight gain . symptoms are improving . monitor symptoms closely .
+61,61,Patient presented for routine screening with depression . patient is responding to treatment . continue current management .
+62,62,Patient was evaluated for acute complaint with chest pain . labs reviewed and discussed with patient . schedule outpatient follow-up .
+63,63,Patient was seen for medication refill with fatigue . vitals within normal limits . monitor symptoms closely .
+64,64,Patient was seen for medication refill with anxiety . labs reviewed and discussed with patient . schedule outpatient follow-up .
+65,65,Patient had a telehealth visit with fatigue . vitals within normal limits . monitor symptoms closely .
+66,66,Patient had a telehealth visit with shortness of breath . symptoms are stable . continue current management .
+67,67,Patient was seen for medication refill with hypertension . patient is responding to treatment . order follow-up labs .
+68,68,Patient was seen for chronic disease management with headache . no acute distress noted . no changes to treatment plan .
+69,69,Patient was evaluated in clinic with upper respiratory infection . symptoms are improving . referral placed to specialist .
+70,70,Patient was seen for chronic disease management with fatigue . symptoms are improving . adjust medications .
+71,71,Patient had a telehealth visit with knee pain . vitals within normal limits . continue current management .
+72,72,Patient was seen for medication refill with cough . condition remains unchanged . continue current management .
+73,73,Patient had a telehealth visit with fatigue . labs reviewed and discussed with patient . dietary and lifestyle counseling provided .
+74,74,Patient was seen for annual wellness visit with cough . symptoms are stable . adjust medications .
+75,75,Patient presented for follow-up with headache . patient is responding to treatment . adjust medications .
+76,76,Patient presented for routine screening with depression . symptoms are improving . schedule outpatient follow-up .
+77,77,Patient was evaluated for acute complaint with weight loss . no acute distress noted . schedule outpatient follow-up .
+78,78,Patient was seen for medication refill with shortness of breath . symptoms are improving . referral placed to specialist .
+79,79,Patient was seen for medication refill with fatigue . patient is responding to treatment . referral placed to specialist .
+80,80,Patient presented for follow-up with type 2 diabetes . patient is responding to treatment . referral placed to specialist .
+81,81,Patient had a telehealth visit with anxiety . symptoms are improving . no changes to treatment plan .
+82,82,Patient presented for routine screening with headache . symptoms are stable . monitor symptoms closely .
+83,83,Patient was evaluated for acute complaint with abdominal pain . labs reviewed and discussed with patient . no changes to treatment plan .
+84,84,Patient presented for follow-up with knee pain . vitals within normal limits . no changes to treatment plan .
+85,85,Patient had a telehealth visit with knee pain . symptoms are stable . dietary and lifestyle counseling provided .
+86,86,Patient presented for follow-up with fatigue . condition remains unchanged . continue current management .
+87,87,Patient was seen for annual wellness visit with headache . vitals within normal limits . continue current management .
+88,88,Patient was seen for annual wellness visit with shortness of breath . condition remains unchanged . order follow-up labs .
+89,89,Patient was seen for chronic disease management with type 2 diabetes . patient is responding to treatment . order follow-up labs .
+90,90,Patient was seen for annual wellness visit with knee pain . vitals within normal limits . continue current management .
+91,91,Patient was evaluated for acute complaint with type 2 diabetes . symptoms are improving . continue current management .
+92,92,Patient presented for routine screening with chest pain . labs reviewed and discussed with patient . order follow-up labs .
+93,93,Patient presented for follow-up with upper respiratory infection . labs reviewed and discussed with patient . no changes to treatment plan .
+94,94,Patient presented for follow-up with shortness of breath . symptoms are improving . no changes to treatment plan .
+95,95,Patient had a telehealth visit with headache . condition remains unchanged . order follow-up labs .
+96,96,Patient was seen for annual wellness visit with shortness of breath . labs reviewed and discussed with patient . adjust medications .
+97,97,Patient was evaluated for acute complaint with type 2 diabetes . symptoms are improving . adjust medications .
+98,98,Patient presented for routine screening with weight loss . labs reviewed and discussed with patient . order follow-up labs .
+99,99,Patient presented for routine screening with fatigue . condition remains unchanged . order follow-up labs .
+100,100,Patient had a telehealth visit with shortness of breath . symptoms are improving . monitor symptoms closely .
+101,101,Patient presented for routine screening with abdominal pain . no acute distress noted . order follow-up labs .
+102,102,Patient was seen for annual wellness visit with type 2 diabetes . vitals within normal limits . adjust medications .
+103,103,Patient was evaluated in clinic with type 2 diabetes . vitals within normal limits . monitor symptoms closely .
+104,104,Patient had a telehealth visit with abdominal pain . symptoms are stable . referral placed to specialist .
+105,105,Patient was seen for medication refill with abdominal pain . condition remains unchanged . no changes to treatment plan .
+106,106,Patient was seen for annual wellness visit with hypertension . condition remains unchanged . order follow-up labs .
+107,107,Patient was seen for annual wellness visit with cough . symptoms are improving . monitor symptoms closely .
+108,108,Patient had a telehealth visit with depression . symptoms are stable . order follow-up labs .
+109,109,Patient was seen for annual wellness visit with hypertension . no acute distress noted . order follow-up labs .
+110,110,Patient was seen for medication refill with cough . vitals within normal limits . schedule outpatient follow-up .
+111,111,Patient was evaluated in clinic with depression . symptoms are improving . referral placed to specialist .
+112,112,Patient was evaluated in clinic with cough . symptoms are improving . schedule outpatient follow-up .
+113,113,Patient had a telehealth visit with anxiety . vitals within normal limits . no changes to treatment plan .
+114,114,Patient was seen for chronic disease management with chest pain . symptoms are stable . schedule outpatient follow-up .
+115,115,Patient was evaluated for acute complaint with hypertension . vitals within normal limits . order follow-up labs .
+116,116,Patient presented for routine screening with shortness of breath . condition remains unchanged . no changes to treatment plan .
+117,117,Patient was evaluated for acute complaint with weight loss . vitals within normal limits . continue current management .
+118,118,Patient was seen for chronic disease management with depression . symptoms are stable . dietary and lifestyle counseling provided .
+119,119,Patient presented for routine screening with hypertension . vitals within normal limits . referral placed to specialist .
+120,120,Patient was evaluated in clinic with cough . symptoms are stable . dietary and lifestyle counseling provided .
+121,121,Patient was seen for medication refill with headache . symptoms are stable . monitor symptoms closely .
+122,122,Patient presented for follow-up with headache . symptoms are improving . referral placed to specialist .
+123,123,Patient was seen for medication refill with chest pain . vitals within normal limits . referral placed to specialist .
+124,124,Patient was evaluated in clinic with cough . vitals within normal limits . monitor symptoms closely .
+125,125,Patient was evaluated in clinic with cough . labs reviewed and discussed with patient . no changes to treatment plan .
+126,126,Patient presented for follow-up with back pain . symptoms are stable . adjust medications .
+127,127,Patient presented for follow-up with headache . labs reviewed and discussed with patient . no changes to treatment plan .
+128,128,Patient presented for routine screening with cough . condition remains unchanged . referral placed to specialist .
+129,129,Patient was evaluated for acute complaint with upper respiratory infection . vitals within normal limits . no changes to treatment plan .
+130,130,Patient was seen for medication refill with back pain . no acute distress noted . dietary and lifestyle counseling provided .
+131,131,Patient was seen for chronic disease management with hypertension . condition remains unchanged . no changes to treatment plan .
+132,132,Patient presented for routine screening with fatigue . no acute distress noted . monitor symptoms closely .
+133,133,Patient was seen for chronic disease management with back pain . vitals within normal limits . schedule outpatient follow-up .
+134,134,Patient presented for follow-up with weight loss . vitals within normal limits . order follow-up labs .
+135,135,Patient was seen for chronic disease management with type 2 diabetes . vitals within normal limits . order follow-up labs .
+136,136,Patient was seen for chronic disease management with shortness of breath . symptoms are improving . no changes to treatment plan .
+137,137,Patient was seen for chronic disease management with back pain . symptoms are stable . referral placed to specialist .
+138,138,Patient was evaluated for acute complaint with back pain . labs reviewed and discussed with patient . order follow-up labs .
+139,139,Patient was evaluated in clinic with weight loss . labs reviewed and discussed with patient . dietary and lifestyle counseling provided .
+140,140,Patient was seen for chronic disease management with anxiety . no acute distress noted . dietary and lifestyle counseling provided .
+141,141,Patient presented for follow-up with upper respiratory infection . symptoms are improving . order follow-up labs .
+142,142,Patient was seen for medication refill with back pain . patient is responding to treatment . continue current management .
+143,143,Patient was seen for chronic disease management with depression . vitals within normal limits . continue current management .
+144,144,Patient was evaluated in clinic with type 2 diabetes . symptoms are stable . monitor symptoms closely .
+145,145,Patient was seen for medication refill with depression . vitals within normal limits . referral placed to specialist .
+146,146,Patient presented for follow-up with weight gain . condition remains unchanged . adjust medications .
+147,147,Patient presented for follow-up with fatigue . condition remains unchanged . referral placed to specialist .
+148,148,Patient had a telehealth visit with type 2 diabetes . symptoms are stable . continue current management .
+149,149,Patient was seen for chronic disease management with weight gain . symptoms are improving . continue current management .
+150,150,Patient was evaluated in clinic with type 2 diabetes . patient is responding to treatment . referral placed to specialist .
+151,151,Patient presented for routine screening with depression . symptoms are improving . monitor symptoms closely .
+152,152,Patient was seen for chronic disease management with upper respiratory infection . no acute distress noted . monitor symptoms closely .
+153,153,Patient was seen for medication refill with depression . patient is responding to treatment . continue current management .
+154,154,Patient had a telehealth visit with back pain . condition remains unchanged . schedule outpatient follow-up .
+155,155,Patient presented for routine screening with chest pain . symptoms are improving . continue current management .
+156,156,Patient was seen for annual wellness visit with fatigue . patient is responding to treatment . order follow-up labs .
+157,157,Patient was seen for medication refill with back pain . symptoms are improving . adjust medications .
+158,158,Patient was evaluated in clinic with knee pain . labs reviewed and discussed with patient . monitor symptoms closely .
+159,159,Patient presented for routine screening with fatigue . symptoms are stable . schedule outpatient follow-up .
+160,160,Patient had a telehealth visit with cough . no acute distress noted . no changes to treatment plan .
+161,161,Patient presented for routine screening with depression . no acute distress noted . adjust medications .
+162,162,Patient was evaluated in clinic with abdominal pain . symptoms are stable . dietary and lifestyle counseling provided .
+163,163,Patient had a telehealth visit with weight gain . symptoms are improving . schedule outpatient follow-up .
+164,164,Patient had a telehealth visit with depression . no acute distress noted . dietary and lifestyle counseling provided .
+165,165,Patient was seen for medication refill with fatigue . vitals within normal limits . referral placed to specialist .
+166,166,Patient had a telehealth visit with hypertension . symptoms are improving . referral placed to specialist .
+167,167,Patient was seen for chronic disease management with fatigue . condition remains unchanged . continue current management .
+168,168,Patient was evaluated for acute complaint with anxiety . labs reviewed and discussed with patient . continue current management .
+169,169,Patient was evaluated in clinic with back pain . patient is responding to treatment . continue current management .
+170,170,Patient had a telehealth visit with chest pain . patient is responding to treatment . adjust medications .
+171,171,Patient was seen for annual wellness visit with depression . vitals within normal limits . schedule outpatient follow-up .
+172,172,Patient presented for routine screening with abdominal pain . condition remains unchanged . adjust medications .
+173,173,Patient was seen for annual wellness visit with upper respiratory infection . symptoms are stable . dietary and lifestyle counseling provided .
+174,174,Patient was seen for medication refill with hypertension . vitals within normal limits . referral placed to specialist .
+175,175,Patient was evaluated in clinic with back pain . patient is responding to treatment . schedule outpatient follow-up .
+176,176,Patient presented for follow-up with type 2 diabetes . condition remains unchanged . adjust medications .
+177,177,Patient was seen for chronic disease management with depression . symptoms are stable . no changes to treatment plan .
+178,178,Patient was seen for medication refill with type 2 diabetes . vitals within normal limits . referral placed to specialist .
+179,179,Patient was evaluated in clinic with back pain . vitals within normal limits . dietary and lifestyle counseling provided .
+180,180,Patient was evaluated for acute complaint with cough . symptoms are stable . order follow-up labs .
+181,181,Patient was evaluated for acute complaint with weight gain . symptoms are improving . monitor symptoms closely .
+182,182,Patient was seen for chronic disease management with shortness of breath . symptoms are stable . dietary and lifestyle counseling provided .
+183,183,Patient was seen for chronic disease management with weight gain . vitals within normal limits . adjust medications .
+184,184,Patient was evaluated in clinic with cough . vitals within normal limits . referral placed to specialist .
+185,185,Patient was evaluated for acute complaint with depression . symptoms are improving . referral placed to specialist .
+186,186,Patient was evaluated for acute complaint with back pain . no acute distress noted . adjust medications .
+187,187,Patient presented for follow-up with hypertension . no acute distress noted . dietary and lifestyle counseling provided .
+188,188,Patient was evaluated in clinic with cough . condition remains unchanged . adjust medications .
+189,189,Patient was seen for medication refill with weight gain . patient is responding to treatment . continue current management .
+190,190,Patient was seen for annual wellness visit with back pain . symptoms are improving . order follow-up labs .
+191,191,Patient was seen for chronic disease management with type 2 diabetes . patient is responding to treatment . referral placed to specialist .
+192,192,Patient presented for follow-up with chest pain . no acute distress noted . continue current management .
+193,193,Patient was seen for annual wellness visit with knee pain . condition remains unchanged . dietary and lifestyle counseling provided .
+194,194,Patient presented for routine screening with upper respiratory infection . patient is responding to treatment . continue current management .
+195,195,Patient was seen for annual wellness visit with knee pain . symptoms are improving . adjust medications .
+196,196,Patient was seen for chronic disease management with weight gain . symptoms are improving . dietary and lifestyle counseling provided .
+197,197,Patient presented for follow-up with shortness of breath . symptoms are improving . dietary and lifestyle counseling provided .
+198,198,Patient presented for routine screening with headache . condition remains unchanged . schedule outpatient follow-up .
+199,199,Patient presented for routine screening with knee pain . labs reviewed and discussed with patient . monitor symptoms closely .
+200,200,Patient was seen for medication refill with knee pain . symptoms are stable . continue current management .
+201,201,Patient presented for follow-up with weight loss . labs reviewed and discussed with patient . dietary and lifestyle counseling provided .
+202,202,Patient was evaluated in clinic with shortness of breath . vitals within normal limits . monitor symptoms closely .
+203,203,Patient was seen for medication refill with depression . condition remains unchanged . schedule outpatient follow-up .
+204,204,Patient presented for routine screening with knee pain . patient is responding to treatment . dietary and lifestyle counseling provided .
+205,205,Patient presented for routine screening with shortness of breath . vitals within normal limits . schedule outpatient follow-up .
+206,206,Patient was seen for chronic disease management with abdominal pain . symptoms are improving . dietary and lifestyle counseling provided .
+207,207,Patient was seen for annual wellness visit with weight loss . labs reviewed and discussed with patient . monitor symptoms closely .
+208,208,Patient was evaluated for acute complaint with weight gain . symptoms are improving . adjust medications .
+209,209,Patient was seen for medication refill with depression . patient is responding to treatment . no changes to treatment plan .
+210,210,Patient was seen for chronic disease management with type 2 diabetes . patient is responding to treatment . continue current management .
+211,211,Patient presented for routine screening with type 2 diabetes . no acute distress noted . order follow-up labs .
+212,212,Patient presented for follow-up with abdominal pain . symptoms are stable . schedule outpatient follow-up .
+213,213,Patient was seen for medication refill with abdominal pain . patient is responding to treatment . no changes to treatment plan .
+214,214,Patient was evaluated for acute complaint with abdominal pain . labs reviewed and discussed with patient . no changes to treatment plan .
+215,215,Patient was evaluated for acute complaint with depression . condition remains unchanged . schedule outpatient follow-up .
+216,216,Patient was seen for chronic disease management with cough . vitals within normal limits . referral placed to specialist .
+217,217,Patient was evaluated for acute complaint with chest pain . labs reviewed and discussed with patient . referral placed to specialist .
+218,218,Patient presented for follow-up with type 2 diabetes . symptoms are improving . monitor symptoms closely .
+219,219,Patient was evaluated for acute complaint with upper respiratory infection . condition remains unchanged . referral placed to specialist .
+220,220,Patient was seen for annual wellness visit with anxiety . labs reviewed and discussed with patient . order follow-up labs .
+221,221,Patient was seen for chronic disease management with fatigue . no acute distress noted . monitor symptoms closely .
+222,222,Patient was seen for medication refill with weight gain . vitals within normal limits . no changes to treatment plan .
+223,223,Patient was seen for medication refill with fatigue . condition remains unchanged . no changes to treatment plan .
+224,224,Patient was seen for chronic disease management with knee pain . symptoms are stable . order follow-up labs .
+225,225,Patient had a telehealth visit with cough . patient is responding to treatment . adjust medications .
+226,226,Patient had a telehealth visit with upper respiratory infection . patient is responding to treatment . adjust medications .
+227,227,Patient presented for routine screening with shortness of breath . labs reviewed and discussed with patient . no changes to treatment plan .
+228,228,Patient had a telehealth visit with weight gain . symptoms are stable . no changes to treatment plan .
+229,229,Patient was seen for chronic disease management with hypertension . vitals within normal limits . dietary and lifestyle counseling provided .
+230,230,Patient presented for follow-up with chest pain . no acute distress noted . schedule outpatient follow-up .
+231,231,Patient was evaluated in clinic with upper respiratory infection . no acute distress noted . dietary and lifestyle counseling provided .
+232,232,Patient presented for routine screening with back pain . no acute distress noted . schedule outpatient follow-up .
+233,233,Patient was seen for medication refill with weight loss . symptoms are stable . schedule outpatient follow-up .
+234,234,Patient was seen for chronic disease management with hypertension . patient is responding to treatment . adjust medications .
+235,235,Patient was seen for medication refill with upper respiratory infection . vitals within normal limits . no changes to treatment plan .
+236,236,Patient was evaluated for acute complaint with upper respiratory infection . symptoms are stable . order follow-up labs .
+237,237,Patient was seen for annual wellness visit with anxiety . patient is responding to treatment . order follow-up labs .
+238,238,Patient was seen for annual wellness visit with weight loss . symptoms are stable . adjust medications .
+239,239,Patient presented for follow-up with knee pain . symptoms are improving . order follow-up labs .
+240,240,Patient was evaluated in clinic with chest pain . patient is responding to treatment . order follow-up labs .
+241,241,Patient was seen for chronic disease management with shortness of breath . labs reviewed and discussed with patient . monitor symptoms closely .
+242,242,Patient presented for routine screening with hypertension . vitals within normal limits . schedule outpatient follow-up .
+243,243,Patient was seen for chronic disease management with weight gain . symptoms are improving . adjust medications .
+244,244,Patient was evaluated for acute complaint with fatigue . condition remains unchanged . order follow-up labs .
+245,245,Patient was seen for annual wellness visit with weight gain . symptoms are improving . dietary and lifestyle counseling provided .
+246,246,Patient was evaluated in clinic with weight loss . symptoms are stable . schedule outpatient follow-up .
+247,247,Patient presented for follow-up with depression . no acute distress noted . order follow-up labs .
+248,248,Patient was evaluated for acute complaint with weight gain . symptoms are improving . adjust medications .
+249,249,Patient was seen for chronic disease management with knee pain . patient is responding to treatment . schedule outpatient follow-up .
+250,250,Patient presented for follow-up with fatigue . symptoms are stable . referral placed to specialist .
+251,251,Patient presented for follow-up with upper respiratory infection . labs reviewed and discussed with patient . dietary and lifestyle counseling provided .
+252,252,Patient was seen for chronic disease management with chest pain . vitals within normal limits . schedule outpatient follow-up .
+253,253,Patient was seen for medication refill with hypertension . no acute distress noted . monitor symptoms closely .
+254,254,Patient presented for routine screening with hypertension . patient is responding to treatment . adjust medications .
+255,255,Patient was seen for medication refill with knee pain . labs reviewed and discussed with patient . monitor symptoms closely .
+256,256,Patient presented for follow-up with hypertension . patient is responding to treatment . monitor symptoms closely .
+257,257,Patient presented for routine screening with chest pain . symptoms are improving . schedule outpatient follow-up .
+258,258,Patient presented for follow-up with hypertension . condition remains unchanged . adjust medications .
+259,259,Patient was seen for annual wellness visit with anxiety . vitals within normal limits . monitor symptoms closely .
+260,260,Patient was seen for medication refill with weight gain . vitals within normal limits . monitor symptoms closely .
+261,261,Patient presented for routine screening with chest pain . labs reviewed and discussed with patient . monitor symptoms closely .
+262,262,Patient presented for follow-up with back pain . condition remains unchanged . dietary and lifestyle counseling provided .
+263,263,Patient had a telehealth visit with weight loss . symptoms are improving . referral placed to specialist .
+264,264,Patient presented for routine screening with upper respiratory infection . patient is responding to treatment . referral placed to specialist .
+265,265,Patient was seen for medication refill with upper respiratory infection . no acute distress noted . dietary and lifestyle counseling provided .
+266,266,Patient was seen for medication refill with shortness of breath . vitals within normal limits . continue current management .
+267,267,Patient was evaluated in clinic with weight gain . symptoms are improving . continue current management .
+268,268,Patient was evaluated in clinic with type 2 diabetes . patient is responding to treatment . order follow-up labs .
+269,269,Patient was seen for medication refill with depression . condition remains unchanged . schedule outpatient follow-up .
+270,270,Patient was evaluated for acute complaint with fatigue . labs reviewed and discussed with patient . order follow-up labs .
+271,271,Patient presented for follow-up with fatigue . patient is responding to treatment . order follow-up labs .
+272,272,Patient was seen for chronic disease management with back pain . symptoms are stable . no changes to treatment plan .
+273,273,Patient was seen for annual wellness visit with cough . patient is responding to treatment . adjust medications .
+274,274,Patient was evaluated in clinic with headache . symptoms are improving . no changes to treatment plan .
+275,275,Patient was evaluated in clinic with weight loss . condition remains unchanged . continue current management .
+276,276,Patient presented for routine screening with shortness of breath . vitals within normal limits . monitor symptoms closely .
+277,277,Patient was seen for annual wellness visit with depression . symptoms are improving . referral placed to specialist .
+278,278,Patient was seen for annual wellness visit with upper respiratory infection . no acute distress noted . continue current management .
+279,279,Patient was evaluated in clinic with chest pain . symptoms are improving . referral placed to specialist .
+280,280,Patient was seen for annual wellness visit with cough . vitals within normal limits . adjust medications .
+281,281,Patient presented for routine screening with weight loss . no acute distress noted . adjust medications .
+282,282,Patient was evaluated in clinic with fatigue . patient is responding to treatment . schedule outpatient follow-up .
+283,283,Patient was evaluated in clinic with back pain . labs reviewed and discussed with patient . referral placed to specialist .
+284,284,Patient was seen for chronic disease management with hypertension . symptoms are stable . monitor symptoms closely .
+285,285,Patient was seen for medication refill with weight loss . symptoms are stable . continue current management .
+286,286,Patient was evaluated in clinic with chest pain . symptoms are stable . schedule outpatient follow-up .
+287,287,Patient presented for follow-up with back pain . patient is responding to treatment . monitor symptoms closely .
+288,288,Patient was seen for chronic disease management with depression . vitals within normal limits . order follow-up labs .
+289,289,Patient presented for routine screening with weight loss . vitals within normal limits . order follow-up labs .
+290,290,Patient was evaluated for acute complaint with cough . no acute distress noted . adjust medications .
+291,291,Patient was seen for annual wellness visit with knee pain . vitals within normal limits . adjust medications .
+292,292,Patient presented for follow-up with upper respiratory infection . labs reviewed and discussed with patient . referral placed to specialist .
+293,293,Patient presented for routine screening with weight loss . labs reviewed and discussed with patient . monitor symptoms closely .
+294,294,Patient presented for routine screening with weight loss . no acute distress noted . continue current management .
+295,295,Patient was evaluated for acute complaint with type 2 diabetes . vitals within normal limits . no changes to treatment plan .
+296,296,Patient presented for routine screening with back pain . vitals within normal limits . adjust medications .
+297,297,Patient had a telehealth visit with back pain . no acute distress noted . order follow-up labs .
+298,298,Patient had a telehealth visit with shortness of breath . symptoms are improving . order follow-up labs .
+299,299,Patient had a telehealth visit with shortness of breath . symptoms are stable . adjust medications .
+300,300,Patient was seen for medication refill with type 2 diabetes . symptoms are stable . monitor symptoms closely .
+301,301,Patient was seen for medication refill with fatigue . patient is responding to treatment . continue current management .
+302,302,Patient was seen for medication refill with back pain . labs reviewed and discussed with patient . order follow-up labs .
+303,303,Patient was seen for medication refill with knee pain . condition remains unchanged . no changes to treatment plan .
+304,304,Patient was evaluated in clinic with headache . vitals within normal limits . monitor symptoms closely .
+305,305,Patient presented for routine screening with abdominal pain . vitals within normal limits . monitor symptoms closely .
+306,306,Patient was seen for chronic disease management with back pain . symptoms are improving . order follow-up labs .
+307,307,Patient presented for routine screening with depression . labs reviewed and discussed with patient . referral placed to specialist .
+308,308,Patient had a telehealth visit with depression . symptoms are stable . no changes to treatment plan .
+309,309,Patient was evaluated in clinic with weight loss . vitals within normal limits . adjust medications .
+310,310,Patient was seen for annual wellness visit with shortness of breath . condition remains unchanged . order follow-up labs .
+311,311,Patient was evaluated in clinic with type 2 diabetes . condition remains unchanged . schedule outpatient follow-up .
+312,312,Patient was seen for medication refill with shortness of breath . vitals within normal limits . monitor symptoms closely .
+313,313,Patient was seen for annual wellness visit with fatigue . patient is responding to treatment . schedule outpatient follow-up .
+314,314,Patient presented for follow-up with knee pain . condition remains unchanged . order follow-up labs .
+315,315,Patient was seen for chronic disease management with cough . symptoms are improving . monitor symptoms closely .
+316,316,Patient was seen for annual wellness visit with chest pain . patient is responding to treatment . monitor symptoms closely .
+317,317,Patient had a telehealth visit with depression . vitals within normal limits . adjust medications .
+318,318,Patient was seen for chronic disease management with anxiety . no acute distress noted . continue current management .
+319,319,Patient presented for follow-up with cough . vitals within normal limits . schedule outpatient follow-up .
+320,320,Patient presented for routine screening with chest pain . labs reviewed and discussed with patient . continue current management .
+321,321,Patient presented for follow-up with chest pain . vitals within normal limits . dietary and lifestyle counseling provided .
+322,322,Patient was seen for annual wellness visit with back pain . symptoms are improving . dietary and lifestyle counseling provided .
+323,323,Patient had a telehealth visit with weight loss . symptoms are improving . dietary and lifestyle counseling provided .
+324,324,Patient was evaluated for acute complaint with weight loss . symptoms are stable . order follow-up labs .
+325,325,Patient was evaluated in clinic with anxiety . patient is responding to treatment . continue current management .
+326,326,Patient was seen for medication refill with chest pain . labs reviewed and discussed with patient . referral placed to specialist .
+327,327,Patient presented for follow-up with hypertension . labs reviewed and discussed with patient . continue current management .
+328,328,Patient presented for routine screening with type 2 diabetes . vitals within normal limits . continue current management .
+329,329,Patient had a telehealth visit with back pain . symptoms are stable . order follow-up labs .
+330,330,Patient presented for routine screening with knee pain . no acute distress noted . adjust medications .
+331,331,Patient was seen for medication refill with depression . patient is responding to treatment . order follow-up labs .
+332,332,Patient was evaluated in clinic with anxiety . patient is responding to treatment . continue current management .
+333,333,Patient was evaluated for acute complaint with upper respiratory infection . condition remains unchanged . no changes to treatment plan .
+334,334,Patient was seen for annual wellness visit with upper respiratory infection . patient is responding to treatment . adjust medications .
+335,335,Patient was seen for medication refill with weight loss . patient is responding to treatment . dietary and lifestyle counseling provided .
+336,336,Patient presented for follow-up with upper respiratory infection . patient is responding to treatment . monitor symptoms closely .
+337,337,Patient presented for follow-up with shortness of breath . symptoms are improving . schedule outpatient follow-up .
+338,338,Patient was evaluated for acute complaint with chest pain . condition remains unchanged . no changes to treatment plan .
+339,339,Patient had a telehealth visit with headache . symptoms are improving . schedule outpatient follow-up .
+340,340,Patient was evaluated in clinic with weight gain . no acute distress noted . order follow-up labs .
+341,341,Patient had a telehealth visit with depression . symptoms are stable . referral placed to specialist .
+342,342,Patient presented for routine screening with abdominal pain . symptoms are stable . referral placed to specialist .
+343,343,Patient was evaluated for acute complaint with shortness of breath . patient is responding to treatment . monitor symptoms closely .
+344,344,Patient was seen for chronic disease management with anxiety . no acute distress noted . continue current management .
+345,345,Patient presented for routine screening with chest pain . labs reviewed and discussed with patient . referral placed to specialist .
+346,346,Patient had a telehealth visit with knee pain . condition remains unchanged . monitor symptoms closely .
+347,347,Patient was evaluated in clinic with hypertension . patient is responding to treatment . schedule outpatient follow-up .
+348,348,Patient was evaluated for acute complaint with weight loss . vitals within normal limits . order follow-up labs .
+349,349,Patient was evaluated for acute complaint with chest pain . symptoms are stable . schedule outpatient follow-up .
+350,350,Patient was evaluated in clinic with weight gain . symptoms are stable . schedule outpatient follow-up .
+351,351,Patient was seen for medication refill with weight gain . labs reviewed and discussed with patient . dietary and lifestyle counseling provided .
+352,352,Patient was seen for annual wellness visit with knee pain . condition remains unchanged . continue current management .
+353,353,Patient had a telehealth visit with hypertension . symptoms are stable . continue current management .
+354,354,Patient had a telehealth visit with cough . vitals within normal limits . dietary and lifestyle counseling provided .
+355,355,Patient was evaluated in clinic with weight gain . symptoms are stable . dietary and lifestyle counseling provided .
+356,356,Patient was seen for chronic disease management with hypertension . symptoms are improving . order follow-up labs .
+357,357,Patient was evaluated in clinic with chest pain . symptoms are improving . referral placed to specialist .
+358,358,Patient was seen for annual wellness visit with hypertension . no acute distress noted . monitor symptoms closely .
+359,359,Patient had a telehealth visit with back pain . vitals within normal limits . referral placed to specialist .
+360,360,Patient presented for routine screening with type 2 diabetes . vitals within normal limits . order follow-up labs .
+361,361,Patient was seen for medication refill with cough . symptoms are improving . referral placed to specialist .
+362,362,Patient was evaluated in clinic with shortness of breath . symptoms are improving . referral placed to specialist .
+363,363,Patient presented for follow-up with knee pain . symptoms are improving . continue current management .
+364,364,Patient was seen for medication refill with abdominal pain . symptoms are improving . monitor symptoms closely .
+365,365,Patient had a telehealth visit with upper respiratory infection . vitals within normal limits . referral placed to specialist .
+366,366,Patient was seen for chronic disease management with headache . no acute distress noted . adjust medications .
+367,367,Patient was evaluated in clinic with hypertension . patient is responding to treatment . continue current management .
+368,368,Patient presented for routine screening with cough . symptoms are improving . continue current management .
+369,369,Patient was seen for annual wellness visit with shortness of breath . vitals within normal limits . continue current management .
+370,370,Patient was seen for medication refill with weight loss . symptoms are stable . no changes to treatment plan .
+371,371,Patient presented for follow-up with knee pain . patient is responding to treatment . dietary and lifestyle counseling provided .
+372,372,Patient was seen for medication refill with weight gain . vitals within normal limits . monitor symptoms closely .
+373,373,Patient presented for follow-up with fatigue . symptoms are improving . continue current management .
+374,374,Patient was seen for annual wellness visit with anxiety . no acute distress noted . schedule outpatient follow-up .
+375,375,Patient was seen for chronic disease management with depression . labs reviewed and discussed with patient . adjust medications .
+376,376,Patient was evaluated in clinic with weight loss . symptoms are improving . order follow-up labs .
+377,377,Patient was evaluated for acute complaint with type 2 diabetes . labs reviewed and discussed with patient . continue current management .
+378,378,Patient had a telehealth visit with back pain . no acute distress noted . continue current management .
+379,379,Patient had a telehealth visit with weight gain . vitals within normal limits . monitor symptoms closely .
+380,380,Patient was evaluated for acute complaint with type 2 diabetes . condition remains unchanged . continue current management .
+381,381,Patient presented for routine screening with knee pain . patient is responding to treatment . continue current management .
+382,382,Patient had a telehealth visit with hypertension . no acute distress noted . order follow-up labs .
+383,383,Patient was seen for medication refill with knee pain . vitals within normal limits . monitor symptoms closely .
+384,384,Patient was evaluated in clinic with type 2 diabetes . patient is responding to treatment . dietary and lifestyle counseling provided .
+385,385,Patient was seen for chronic disease management with shortness of breath . no acute distress noted . continue current management .
+386,386,Patient was evaluated for acute complaint with shortness of breath . symptoms are improving . adjust medications .
+387,387,Patient was evaluated for acute complaint with abdominal pain . condition remains unchanged . monitor symptoms closely .
+388,388,Patient was seen for medication refill with chest pain . no acute distress noted . referral placed to specialist .
+389,389,Patient was seen for medication refill with cough . vitals within normal limits . schedule outpatient follow-up .
+390,390,Patient was seen for medication refill with upper respiratory infection . symptoms are stable . monitor symptoms closely .
+391,391,Patient was seen for chronic disease management with headache . labs reviewed and discussed with patient . monitor symptoms closely .
+392,392,Patient presented for routine screening with type 2 diabetes . no acute distress noted . continue current management .
+393,393,Patient was seen for chronic disease management with knee pain . symptoms are stable . referral placed to specialist .
+394,394,Patient was evaluated in clinic with headache . symptoms are improving . schedule outpatient follow-up .
+395,395,Patient was seen for medication refill with abdominal pain . symptoms are stable . dietary and lifestyle counseling provided .
+396,396,Patient was seen for annual wellness visit with back pain . symptoms are improving . monitor symptoms closely .
+397,397,Patient was evaluated for acute complaint with knee pain . no acute distress noted . monitor symptoms closely .
+398,398,Patient presented for follow-up with fatigue . labs reviewed and discussed with patient . continue current management .
+399,399,Patient was seen for annual wellness visit with anxiety . no acute distress noted . monitor symptoms closely .
+400,400,Patient presented for follow-up with fatigue . condition remains unchanged . no changes to treatment plan .
+401,401,Patient was evaluated in clinic with cough . vitals within normal limits . order follow-up labs .
+402,402,Patient presented for routine screening with hypertension . vitals within normal limits . no changes to treatment plan .
+403,403,Patient had a telehealth visit with hypertension . labs reviewed and discussed with patient . monitor symptoms closely .
+404,404,Patient was seen for annual wellness visit with anxiety . no acute distress noted . referral placed to specialist .
+405,405,Patient was evaluated for acute complaint with abdominal pain . symptoms are stable . continue current management .
+406,406,Patient presented for routine screening with fatigue . labs reviewed and discussed with patient . monitor symptoms closely .
+407,407,Patient had a telehealth visit with hypertension . labs reviewed and discussed with patient . schedule outpatient follow-up .
+408,408,Patient was evaluated in clinic with anxiety . symptoms are improving . monitor symptoms closely .
+409,409,Patient was seen for chronic disease management with fatigue . patient is responding to treatment . monitor symptoms closely .
+410,410,Patient presented for routine screening with upper respiratory infection . symptoms are improving . dietary and lifestyle counseling provided .
+411,411,Patient presented for routine screening with back pain . symptoms are stable . schedule outpatient follow-up .
+412,412,Patient was seen for medication refill with chest pain . symptoms are improving . dietary and lifestyle counseling provided .
+413,413,Patient presented for routine screening with type 2 diabetes . patient is responding to treatment . adjust medications .
+414,414,Patient was seen for medication refill with weight gain . no acute distress noted . order follow-up labs .
+415,415,Patient presented for routine screening with upper respiratory infection . vitals within normal limits . order follow-up labs .
+416,416,Patient was seen for chronic disease management with cough . no acute distress noted . dietary and lifestyle counseling provided .
+417,417,Patient was seen for medication refill with abdominal pain . vitals within normal limits . adjust medications .
+418,418,Patient was evaluated in clinic with upper respiratory infection . no acute distress noted . dietary and lifestyle counseling provided .
+419,419,Patient was evaluated in clinic with fatigue . labs reviewed and discussed with patient . adjust medications .
+420,420,Patient presented for follow-up with back pain . symptoms are improving . monitor symptoms closely .
+421,421,Patient was seen for medication refill with headache . no acute distress noted . dietary and lifestyle counseling provided .
+422,422,Patient presented for routine screening with abdominal pain . patient is responding to treatment . schedule outpatient follow-up .
+423,423,Patient presented for routine screening with knee pain . condition remains unchanged . continue current management .
+424,424,Patient was seen for annual wellness visit with upper respiratory infection . symptoms are stable . order follow-up labs .
+425,425,Patient was seen for chronic disease management with weight loss . no acute distress noted . order follow-up labs .
+426,426,Patient presented for routine screening with weight gain . symptoms are stable . monitor symptoms closely .
+427,427,Patient was evaluated in clinic with depression . vitals within normal limits . dietary and lifestyle counseling provided .
+428,428,Patient was seen for annual wellness visit with chest pain . vitals within normal limits . no changes to treatment plan .
+429,429,Patient was evaluated in clinic with fatigue . patient is responding to treatment . referral placed to specialist .
+430,430,Patient was seen for chronic disease management with depression . no acute distress noted . monitor symptoms closely .
+431,431,Patient was evaluated in clinic with back pain . vitals within normal limits . no changes to treatment plan .
+432,432,Patient was evaluated in clinic with abdominal pain . vitals within normal limits . continue current management .
+433,433,Patient was seen for annual wellness visit with headache . patient is responding to treatment . dietary and lifestyle counseling provided .
+434,434,Patient was seen for chronic disease management with weight gain . symptoms are stable . monitor symptoms closely .
+435,435,Patient was evaluated in clinic with back pain . no acute distress noted . no changes to treatment plan .
+436,436,Patient presented for follow-up with cough . symptoms are improving . adjust medications .
+437,437,Patient presented for routine screening with fatigue . condition remains unchanged . no changes to treatment plan .
+438,438,Patient presented for routine screening with abdominal pain . vitals within normal limits . dietary and lifestyle counseling provided .
+439,439,Patient presented for follow-up with abdominal pain . patient is responding to treatment . referral placed to specialist .
+440,440,Patient was seen for medication refill with headache . patient is responding to treatment . monitor symptoms closely .
+441,441,Patient presented for routine screening with abdominal pain . condition remains unchanged . dietary and lifestyle counseling provided .
+442,442,Patient was evaluated for acute complaint with weight loss . no acute distress noted . order follow-up labs .
+443,443,Patient was seen for medication refill with type 2 diabetes . vitals within normal limits . adjust medications .
+444,444,Patient presented for follow-up with chest pain . symptoms are stable . schedule outpatient follow-up .
+445,445,Patient was evaluated for acute complaint with depression . no acute distress noted . continue current management .
+446,446,Patient was evaluated for acute complaint with weight loss . labs reviewed and discussed with patient . monitor symptoms closely .
+447,447,Patient was seen for medication refill with knee pain . patient is responding to treatment . order follow-up labs .
+448,448,Patient had a telehealth visit with back pain . no acute distress noted . order follow-up labs .
+449,449,Patient was seen for medication refill with fatigue . no acute distress noted . continue current management .
+450,450,Patient was evaluated in clinic with chest pain . patient is responding to treatment . schedule outpatient follow-up .
+451,451,Patient was evaluated in clinic with upper respiratory infection . symptoms are stable . schedule outpatient follow-up .
+452,452,Patient was seen for medication refill with type 2 diabetes . labs reviewed and discussed with patient . monitor symptoms closely .
+453,453,Patient was evaluated for acute complaint with weight gain . patient is responding to treatment . order follow-up labs .
+454,454,Patient presented for routine screening with headache . symptoms are improving . schedule outpatient follow-up .
+455,455,Patient was seen for medication refill with cough . vitals within normal limits . adjust medications .
+456,456,Patient was seen for chronic disease management with anxiety . condition remains unchanged . dietary and lifestyle counseling provided .
+457,457,Patient was evaluated in clinic with upper respiratory infection . symptoms are stable . dietary and lifestyle counseling provided .
+458,458,Patient was seen for chronic disease management with knee pain . condition remains unchanged . no changes to treatment plan .
+459,459,Patient was seen for medication refill with shortness of breath . symptoms are improving . schedule outpatient follow-up .
+460,460,Patient presented for follow-up with chest pain . no acute distress noted . continue current management .
+461,461,Patient presented for routine screening with type 2 diabetes . condition remains unchanged . adjust medications .
+462,462,Patient was seen for medication refill with cough . symptoms are improving . no changes to treatment plan .
+463,463,Patient was seen for chronic disease management with back pain . condition remains unchanged . no changes to treatment plan .
+464,464,Patient had a telehealth visit with cough . vitals within normal limits . referral placed to specialist .
+465,465,Patient was evaluated for acute complaint with upper respiratory infection . symptoms are stable . order follow-up labs .
+466,466,Patient was evaluated in clinic with hypertension . no acute distress noted . adjust medications .
+467,467,Patient presented for follow-up with hypertension . patient is responding to treatment . continue current management .
+468,468,Patient was seen for annual wellness visit with cough . no acute distress noted . adjust medications .
+469,469,Patient was seen for medication refill with upper respiratory infection . no acute distress noted . dietary and lifestyle counseling provided .
+470,470,Patient was evaluated in clinic with weight gain . condition remains unchanged . dietary and lifestyle counseling provided .
+471,471,Patient was seen for chronic disease management with shortness of breath . patient is responding to treatment . continue current management .
+472,472,Patient was seen for annual wellness visit with type 2 diabetes . vitals within normal limits . no changes to treatment plan .
+473,473,Patient was seen for chronic disease management with chest pain . vitals within normal limits . dietary and lifestyle counseling provided .
+474,474,Patient was seen for medication refill with abdominal pain . patient is responding to treatment . order follow-up labs .
+475,475,Patient was seen for chronic disease management with anxiety . condition remains unchanged . schedule outpatient follow-up .
+476,476,Patient had a telehealth visit with anxiety . symptoms are improving . schedule outpatient follow-up .
+477,477,Patient was evaluated for acute complaint with back pain . labs reviewed and discussed with patient . no changes to treatment plan .
+478,478,Patient had a telehealth visit with knee pain . symptoms are stable . referral placed to specialist .
+479,479,Patient was evaluated for acute complaint with weight gain . no acute distress noted . referral placed to specialist .
+480,480,Patient was evaluated for acute complaint with back pain . symptoms are stable . adjust medications .
+481,481,Patient had a telehealth visit with depression . symptoms are stable . order follow-up labs .
+482,482,Patient had a telehealth visit with shortness of breath . patient is responding to treatment . no changes to treatment plan .
+483,483,Patient presented for routine screening with abdominal pain . patient is responding to treatment . continue current management .
+484,484,Patient was seen for medication refill with cough . labs reviewed and discussed with patient . schedule outpatient follow-up .
+485,485,Patient was seen for chronic disease management with headache . condition remains unchanged . continue current management .
+486,486,Patient was seen for chronic disease management with type 2 diabetes . labs reviewed and discussed with patient . continue current management .
+487,487,Patient presented for follow-up with abdominal pain . symptoms are improving . no changes to treatment plan .
+488,488,Patient presented for routine screening with weight loss . labs reviewed and discussed with patient . adjust medications .
+489,489,Patient was evaluated for acute complaint with weight loss . no acute distress noted . continue current management .
+490,490,Patient presented for follow-up with anxiety . symptoms are stable . referral placed to specialist .
+491,491,Patient had a telehealth visit with depression . symptoms are stable . adjust medications .
+492,492,Patient was seen for chronic disease management with cough . no acute distress noted . monitor symptoms closely .
+493,493,Patient presented for follow-up with type 2 diabetes . condition remains unchanged . no changes to treatment plan .
+494,494,Patient was seen for chronic disease management with weight gain . labs reviewed and discussed with patient . dietary and lifestyle counseling provided .
+495,495,Patient had a telehealth visit with knee pain . symptoms are stable . order follow-up labs .
+496,496,Patient presented for routine screening with type 2 diabetes . symptoms are stable . schedule outpatient follow-up .
+497,497,Patient was evaluated in clinic with weight gain . vitals within normal limits . continue current management .
+498,498,Patient was seen for annual wellness visit with abdominal pain . vitals within normal limits . adjust medications .
+499,499,Patient had a telehealth visit with type 2 diabetes . patient is responding to treatment . monitor symptoms closely .
+500,500,Patient was seen for chronic disease management with shortness of breath . symptoms are improving . continue current management .

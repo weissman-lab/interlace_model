@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+joblib
+transformers
+pyarrow
+spacy
+pandasql
+pymetamap
+networkx
+pyjanitor
+pathlib

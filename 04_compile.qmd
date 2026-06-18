@@ -1,0 +1,102 @@
+---
+title: "INTERLACE - Compile Final Analytic File"
+author: "Weissman Lab"
+date: June 2026
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: lumen
+    embed-resources: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(data.table)
+library(table1)
+library(ggplot2)
+library(arrow)
+library(dplyr)
+
+DATA_DIR <- "data/"
+```
+
+# Load Data
+
+```{r load-data}
+demographics_dt <- fread(paste0(DATA_DIR, "demographics.csv"))
+icd_feats_dt <- fread(paste0(DATA_DIR, "icd_features.csv"))
+labs_dt <- fread(paste0(DATA_DIR, "lab_results.csv"))
+meds_dt <- fread(paste0(DATA_DIR, "meds.csv"))
+docvecs_dt <- fread(paste0(DATA_DIR, "embedded_BioClinicalBERT.csv"))
+prior_sxs_dt <- fread(paste0(DATA_DIR, "findings_previous.csv"))
+index_sxs_dt <- fread(paste0(DATA_DIR, "findings_index.csv"))
+utilization_dt <- fread(paste0(DATA_DIR, "utilization.csv"))
+prior_vitals_dt <- fread(paste0(DATA_DIR, "prior_vitals.csv"))
+index_vitals_dt <- fread(paste0(DATA_DIR, "current_visit_vitals.csv"))
+```
+
+# Clean Up Column Names
+```{r clean-colnames}
+#Helper Function to Add Prefix
+clean_up_cols <- function(colm, prefix) {return(ifelse(colm == 'pat_enc_csn_id', 'pat_enc_csn_id', paste0(prefix, colm)))}
+
+setnames(icd_feats_dt, c('pat_enc_csn_id', sapply(names(icd_feats_dt)[-1], \(dxname) paste0('prior_dx_', dxname))))
+setnames(labs_dt, names(labs_dt), sapply(names(labs_dt), \(x) clean_up_cols(x,'lab_')))
+setnames(meds_dt, names(meds_dt), sapply(names(meds_dt), \(x) clean_up_cols(x,'med_')))
+setnames(prior_sxs_dt, names(prior_sxs_dt), sapply(names(prior_sxs_dt), \(x) clean_up_cols(x,'prior_sxs_')))
+setnames(index_sxs_dt, names(index_sxs_dt), sapply(names(index_sxs_dt), \(x) clean_up_cols(x,'index_sxs_')))
+setnames(utilization_dt, names(utilization_dt), sapply(names(utilization_dt), \(x) clean_up_cols(x,'util_')))
+setnames(prior_vitals_dt, names(prior_vitals_dt), sapply(names(prior_vitals_dt), \(x) clean_up_cols(x,'prior_vitals_')))
+setnames(index_vitals_dt, names(index_vitals_dt), sapply(names(index_vitals_dt), \(x) clean_up_cols(x,'index_vitals_')))
+```
+
+## Merge
+
+```{r merge}
+final_X_dt <- demographics_dt %>% full_join(icd_feats_dt, by = "pat_enc_csn_id") %>% 
+                                  full_join(labs_dt, by = "pat_enc_csn_id") %>%
+                                  full_join(meds_dt, by = "pat_enc_csn_id") %>%
+                                  full_join(docvecs_dt, by = "pat_enc_csn_id") %>%
+                                  full_join(prior_sxs_dt, by = "pat_enc_csn_id") %>%
+                                  full_join(index_sxs_dt, by = "pat_enc_csn_id") %>%
+                                  full_join(utilization_dt, by = "pat_enc_csn_id") %>%
+                                  full_join(prior_vitals_dt, by = "pat_enc_csn_id") %>%
+                                  full_join(index_vitals_dt, by = "pat_enc_csn_id")
+```
+
+## Check for Missingness
+
+```{r missingness}
+complete.cases(final_X_dt) |> table()
+```
+
+## Standardize
+
+Use the transformation dictionary in the `resources/` folder.
+
+```{r standardize}
+transformations_dt <- fread('resources/transformation_dictionary.csv')
+feature_names <- names(final_X_dt)
+feature_names <- feature_names[!feature_names == 'pat_enc_csn_id']
+continuous_feature_names <- grep('_vitals_|pat_age|^docvec|^lab_', feature_names, ignore.case = TRUE, value = TRUE)
+
+for (fname in continuous_feature_names) {
+  val_mean <- transformations_dt[continuous_feature_names == fname]$val_mean
+  val_sd <- transformations_dt[continuous_feature_names == fname]$val_sd
+  if (val_sd > 0) { #this is a double check, shouldn't be any like this
+    set(final_X_dt, j = fname, value = (final_X_dt[[fname]] - val_mean) / val_sd)
+  } else {
+    set(final_X_dt, j = fname, value = final_X_dt[[fname]] ) #if non-zero variance, just leave as is
+  }
+}
+```
+
+## Save
+
+```{r save}
+final_X_dt[, pat_enc_csn_id := NULL]
+fwrite(final_X_dt, paste0(DATA_DIR, "final_X_dt.csv"))
+```

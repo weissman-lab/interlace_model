@@ -1,0 +1,1749 @@
+icd_code,icd_description,frequency,do_not_miss,in_top_1000,dx_category
+I10,Essential (primary) hypertension,1185255,1,1,Hypertension
+E78.2,Mixed hyperlipidemia,360113,,1,Dyslipidemia
+E11.9,Type 2 diabetes mellitus without complications,294622,1,1,Diabetes
+I25.10,Athscl heart disease of native coronary artery w/o ang pctrs,286979,1,1,Coronary artery disease
+E78.00,"Pure hypercholesterolemia, unspecified",256151,,1,Dyslipidemia
+E78.5,"Hyperlipidemia, unspecified",253383,,1,Dyslipidemia
+I48.0,Paroxysmal atrial fibrillation,189041,1,1,Atrial fibrillation
+C61,Malignant neoplasm of prostate,187472,,1,Prostate cancer
+K21.9,Gastro-esophageal reflux disease without esophagitis,144896,,1,GERD
+I48.91,Unspecified atrial fibrillation,144300,1,1,Atrial fibrillation
+E03.9,"Hypothyroidism, unspecified",132296,1,1,Hypothyroidism
+N18.30,"Chronic kidney disease, stage 3 unspecified",127484,1,1,Chronic kidney disease
+G89.29,Other chronic pain,118434,,1,Chronic pain
+G47.33,Obstructive sleep apnea (adult) (pediatric),110432,,1,Sleep apnea
+M81.0,Age-related osteoporosis w/o current pathological fracture,95776,,1,Osteoporosis
+R06.02,Shortness of breath,93375,,1,Shortness of breath
+D64.9,"Anemia, unspecified",92689,1,1,Anemia
+C90.00,Multiple myeloma not having achieved remission,86352,1,1,Multiple myeloma
+E55.9,"Vitamin D deficiency, unspecified",84289,,1,Vitamin D deficiency
+R05.9,"Cough, unspecified",79431,,1,Cough
+R73.03,Prediabetes,73931,,1,Diabetes
+I35.0,Nonrheumatic aortic (valve) stenosis,70380,1,1,Nonrheumatic valve disorder
+J44.9,"Chronic obstructive pulmonary disease, unspecified",69639,,1,COPD
+I73.9,"Peripheral vascular disease, unspecified",68493,,1,Peripheral vascular disease
+R53.83,Other fatigue,66932,,1,Fatigue
+M25.561,Pain in right knee,65787,,1,Knee pain
+R42,Dizziness and giddiness,62614,,1,Dizziness
+M25.562,Pain in left knee,61698,,1,Knee pain
+R79.89,Other specified abnormal findings of blood chemistry,61559,,1,Abnormal blood chemistry result
+M85.80,"Oth disrd of bone density and structure, unspecified site",61232,,1,Osteoporosis
+C34.90,Malignant neoplasm of unsp part of unsp bronchus or lung,60806,1,1,Lung cancer
+M54.50,"Low back pain, unspecified",59889,,1,Back pain
+N39.0,"Urinary tract infection, site not specified",59872,1,1,Urinary tract infection
+R06.09,Other forms of dyspnea,57810,,1,Shortness of breath
+H25.13,"Age-related nuclear cataract, bilateral",55669,,1,Cataract
+F41.1,Generalized anxiety disorder,55193,1,1,Anxiety
+I34.0,Nonrheumatic mitral (valve) insufficiency,54700,,1,Nonrheumatic valve disorder
+D63.1,Anemia in chronic kidney disease,54688,1,1,Anemia
+R60.0,Localized edema,54671,,1,Edema
+R00.2,Palpitations,54296,,1,Palpitations
+F32.A,"Depression, unspecified",53534,1,1,Depression
+N18.9,"Chronic kidney disease, unspecified",53485,1,1,Chronic kidney disease
+I48.19,Other persistent atrial fibrillation,53438,,1,Atrial fibrillation
+C50.919,Malignant neoplasm of unsp site of unspecified female breast,52885,,1,Breast cancer
+C79.51,Secondary malignant neoplasm of bone,52701,,1,Bone cancer
+E03.8,Other specified hypothyroidism,52182,1,1,Hypothyroidism
+R97.20,Elevated prostate specific antigen [PSA],50964,,1,Prostate abnormality
+I48.20,"Chronic atrial fibrillation, unspecified",50911,1,1,Atrial fibrillation
+R92.8,Oth abn and inconclusive findings on dx imaging of breast,50226,,1,Abnormal imaging of breast
+L57.0,Actinic keratosis,48889,,1,Actinic keratosis
+I50.9,"Heart failure, unspecified",48732,1,1,Heart failure
+I50.22,Chronic systolic (congestive) heart failure,48545,1,1,Heart failure
+R91.1,Solitary pulmonary nodule,47846,,1,Pulmonary nodule
+I63.9,"Cerebral infarction, unspecified",47017,1,1,Stroke
+R73.01,Impaired fasting glucose,46532,,1,Diabetes
+R91.8,Other nonspecific abnormal finding of lung field,46160,,1,Lung field abnormality
+R55,Syncope and collapse,44370,1,1,Syncope
+E66.9,"Obesity, unspecified",44329,,1,Obesity
+C91.10,Chronic lymphocytic leuk of B-cell type not achieve remis,43155,,1,Leukemia
+D48.5,Neoplasm of uncertain behavior of skin,42477,1,1,Skin neoplasm
+R07.89,Other chest pain,42400,,1,Chest pain
+R07.9,"Chest pain, unspecified",42125,,1,Chest pain
+N18.4,"Chronic kidney disease, stage 4 (severe)",41821,1,1,Chronic kidney disease
+C50.912,Malignant neoplasm of unspecified site of left female breast,41750,,1,Breast cancer
+D69.6,"Thrombocytopenia, unspecified",41526,,1,Thrombocytopenia
+R63.4,Abnormal weight loss,40969,,1,Weight loss
+G20,Parkinson's disease,40300,,1,Parkinson's disease
+T45.1X5A,"Adverse effect of antineoplastic and immunosup drugs, init",40024,1,1,Adverse effect of drug
+F41.9,"Anxiety disorder, unspecified",39660,1,1,Anxiety
+R41.3,Other amnesia,39554,,1,Memory loss
+N40.0,Benign prostatic hyperplasia without lower urinry tract symp,39425,,1,Benign prostatic enlargment
+N40.1,Benign prostatic hyperplasia with lower urinary tract symp,38869,,1,Benign prostatic enlargment
+D46.9,"Myelodysplastic syndrome, unspecified",38825,,1,Leukemia
+C50.911,Malignant neoplasm of unsp site of right female breast,38287,,1,Breast cancer
+N18.6,End stage renal disease,37715,1,1,Chronic kidney disease
+H90.3,"Sensorineural hearing loss, bilateral",37513,,1,Hearing loss
+D50.0,Iron deficiency anemia secondary to blood loss (chronic),37458,1,1,Iron deficiency
+I25.5,Ischemic cardiomyopathy,37241,1,1,Cardiomyopathy
+G47.00,"Insomnia, unspecified",37200,,1,Insomnia
+R60.9,"Edema, unspecified",37153,,1,Edema
+E53.8,Deficiency of other specified B group vitamins,35868,1,1,Vitamin B deficiency
+I42.9,"Cardiomyopathy, unspecified",35711,1,1,Cardiomyopathy
+E11.65,Type 2 diabetes mellitus with hyperglycemia,35700,1,1,Diabetes
+R10.9,Unspecified abdominal pain,35461,,1,Abdominal pain
+C73,Malignant neoplasm of thyroid gland,35197,1,1,Thyroid cancer
+M25.551,Pain in right hip,35052,,1,Hip pain
+M54.2,Cervicalgia,34962,,1,Neck pain
+R19.7,"Diarrhea, unspecified",34737,,1,Diarrhea
+I50.32,Chronic diastolic (congestive) heart failure,34546,1,1,Heart failure
+E11.8,Type 2 diabetes mellitus with unspecified complications,34425,1,1,Diabetes
+R35.0,Frequency of micturition,34400,,1,Urinary symptoms
+I47.1,Supraventricular tachycardia,34336,,1,Supraventricular tachycardia
+R09.89,Oth symptoms and signs involving the circ and resp systems,34238,,1,Signs and symptoms of the circulatory and respiratory system
+D50.9,"Iron deficiency anemia, unspecified",34091,1,1,Iron deficiency
+D50.8,Other iron deficiency anemias,33920,1,1,Anemia
+I49.5,Sick sinus syndrome,33878,1,1,Sick sinus syndrome
+C18.9,"Malignant neoplasm of colon, unspecified",33878,,1,Colon cancer
+N20.0,Calculus of kidney,33861,1,1,Kidney stone
+I49.3,Ventricular premature depolarization,33651,1,1,Premature cardiac depolarization
+R73.09,Other abnormal glucose,33458,,1,Diabetes
+R73.9,"Hyperglycemia, unspecified",33342,,1,Diabetes
+M54.9,"Dorsalgia, unspecified",32091,,1,Back pain
+C25.9,"Malignant neoplasm of pancreas, unspecified",32078,1,1,Pancreatic cancer
+E04.1,Nontoxic single thyroid nodule,32054,1,1,Thyroid abnormality
+R69,"Illness, unspecified",31894,,1,Nonspecific illness
+M17.11,"Unilateral primary osteoarthritis, right knee",31829,,1,Osteoarthritis
+C34.91,Malignant neoplasm of unsp part of right bronchus or lung,31491,1,1,Lung cancer
+M54.16,"Radiculopathy, lumbar region",31030,1,1,Radiculopathy
+M25.552,Pain in left hip,30660,,1,Hip pain
+L82.1,Other seborrheic keratosis,30178,,1,Seborrheic keratosis
+C54.1,Malignant neoplasm of endometrium,29956,1,1,Endometrial cancer
+M17.0,Bilateral primary osteoarthritis of knee,29861,,1,Osteoarthritis
+C56.9,Malignant neoplasm of unspecified ovary,29538,,1,Ovarian cancer
+E03.4,Atrophy of thyroid (acquired),29483,1,1,Hypothyroidism
+M25.511,Pain in right shoulder,29432,,1,Shoulder pain
+C78.7,Secondary malig neoplasm of liver and intrahepatic bile duct,29054,,1,Liver cancer
+I27.20,"Pulmonary hypertension, unspecified",28575,1,1,Pulmonary hypertension
+H26.9,Unspecified cataract,28058,,1,Cataract
+C92.00,"Acute myeloblastic leukemia, not having achieved remission",27926,,1,Leukemia
+M17.12,"Unilateral primary osteoarthritis, left knee",27834,,1,Osteoarthritis
+M15.9,"Polyosteoarthritis, unspecified",27648,,1,Osteoarthritis
+I42.8,Other cardiomyopathies,27633,1,1,Cardiomyopathy
+N17.9,"Acute kidney failure, unspecified",27604,1,1,Acute kidney failure
+C67.9,"Malignant neoplasm of bladder, unspecified",27555,,1,Bladder cancer
+I71.40,"Abdominal aortic aneurysm, without rupture, unspecified",27317,1,1,Aortic aneurysm
+I47.29,Other ventricular tachycardia,26813,,1,Ventricular tachycardia
+J84.9,"Interstitial pulmonary disease, unspecified",26598,,1,Interstitial lung disease
+I35.1,Nonrheumatic aortic (valve) insufficiency,26163,1,1,Nonrheumatic valve disorder
+I87.2,Venous insufficiency (chronic) (peripheral),26086,,1,Chronic venous insufficiency
+R26.9,Unspecified abnormalities of gait and mobility,26051,,1,Abnormal gait
+M25.512,Pain in left shoulder,25892,,1,Shoulder pain
+C22.0,Liver cell carcinoma,25813,,1,Liver cancer
+R94.31,Abnormal electrocardiogram [ECG] [EKG],25794,,1,Abnormal electrocardiogram
+E66.01,Morbid (severe) obesity due to excess calories,25675,,1,Obesity
+E87.6,Hypokalemia,25670,1,1,Hypokalemia
+I48.92,Unspecified atrial flutter,25585,,1,Atrial flutter
+R51.9,"Headache, unspecified",25449,,1,Headache
+C34.11,"Malignant neoplasm of upper lobe, right bronchus or lung",24892,1,1,Lung cancer
+I35.9,"Nonrheumatic aortic valve disorder, unspecified",24447,1,1,Nonrheumatic valve disorder
+M48.061,"Spinal stenosis, lumbar region without neurogenic claud",24446,,1,Spinal stenosis
+D47.2,Monoclonal gammopathy,24330,,1,Monoclonal gammopathy
+R53.81,Other malaise,24092,,1,Malaise
+K59.00,"Constipation, unspecified",24019,,1,Constipation
+M79.89,Other specified soft tissue disorders,24001,,1,Soft tissue abnormality
+R06.00,"Dyspnea, unspecified",23989,,1,Shortness of breath
+I26.99,Other pulmonary embolism without acute cor pulmonale,23907,1,1,Pulmonary embolism
+J18.9,"Pneumonia, unspecified organism",23813,1,1,Pneumonia
+E86.0,Dehydration,23768,1,1,Dehydration
+G62.9,"Polyneuropathy, unspecified",23637,1,1,Neuropathy
+R30.0,Dysuria,23556,,1,Urinary symptoms
+M19.90,"Unspecified osteoarthritis, unspecified site",23519,,1,Osteoarthritis
+R00.1,"Bradycardia, unspecified",23503,,1,Bradycardia
+J06.9,"Acute upper respiratory infection, unspecified",23476,,1,Acute URI
+E83.42,Hypomagnesemia,23204,1,1,Abnormal magnesium level
+C43.9,"Malignant melanoma of skin, unspecified",23062,,1,Skin cancer
+E04.2,Nontoxic multinodular goiter,23061,1,1,Thyroid abnormality
+I65.23,Occlusion and stenosis of bilateral carotid arteries,22867,,1,Carotid stenosis
+F17.200,"Nicotine dependence, unspecified, uncomplicated",22832,,1,Nicotine dependence
+M47.816,"Spondylosis w/o myelopathy or radiculopathy, lumbar region",22756,,1,Spondylosis
+M48.062,"Spinal stenosis, lumbar region with neurogenic claudication",22756,,1,Spinal stenosis
+C34.92,Malignant neoplasm of unsp part of left bronchus or lung,22723,1,1,Lung cancer
+R13.10,"Dysphagia, unspecified",22622,,1,Dysphagia
+G45.9,"Transient cerebral ischemic attack, unspecified",22547,1,1,Transient ischemic attack
+E78.49,Other hyperlipidemia,22424,,1,Dyslipidemia
+E11.22,Type 2 diabetes mellitus w diabetic chronic kidney disease,22364,1,1,Diabetes
+R31.9,"Hematuria, unspecified",22325,,1,Hematuria
+W19.XXXA,"Unspecified fall, initial encounter",22318,,1,Fall
+R35.1,Nocturia,21874,,1,Urinary symptoms
+I44.7,"Left bundle-branch block, unspecified",21461,,1,Left bundle-branch block
+I25.2,Old myocardial infarction,21167,1,1,Myocardial infarction
+R21,Rash and other nonspecific skin eruption,20988,,1,Rash
+E87.1,Hypo-osmolality and hyponatremia,20948,1,1,Hypo-osmolar hyponatremia
+R93.89,Abnormal findings on dx imaging of oth body structures,20921,,1,Abnormal imaging
+R33.9,"Retention of urine, unspecified",20919,1,1,Urinary retention
+M10.9,"Gout, unspecified",20918,1,1,Gout
+K74.60,Unspecified cirrhosis of liver,20716,,1,Liver cirrhosis
+C34.12,"Malignant neoplasm of upper lobe, left bronchus or lung",20696,1,1,Lung cancer
+C79.31,Secondary malignant neoplasm of brain,20415,,1,Brain cancer
+C64.9,"Malignant neoplasm of unsp kidney, except renal pelvis",20321,,1,Kidney cancer
+E11.69,Type 2 diabetes mellitus with other specified complication,20230,1,1,Diabetes
+R80.9,"Proteinuria, unspecified",20138,,1,Proteinuria
+E87.5,Hyperkalemia,19990,,1,Hyperkalemia
+M25.50,Pain in unspecified joint,19712,,1,Joint paint
+R29.898,Oth symptoms and signs involving the musculoskeletal system,19607,,1,Musculoskeletal pain
+C20,Malignant neoplasm of rectum,19601,,1,Rectal cancer
+N95.2,Postmenopausal atrophic vaginitis,19545,,1,Atrophic vaginitis
+R52,"Pain, unspecified",19478,,1,Pain
+H52.4,Presbyopia,19428,,1,Presbyopia
+N28.9,"Disorder of kidney and ureter, unspecified",19285,,1,Disorder of kidney and ureter
+R09.02,Hypoxemia,19026,1,1,Hypoxemia
+N13.8,Other obstructive and reflux uropathy,18778,,1,Urinary obstruction
+D70.1,Agranulocytosis secondary to cancer chemotherapy,18710,,1,Neutropenia
+N52.9,"Male erectile dysfunction, unspecified",18376,,1,Erectile dysfunction
+J45.20,"Mild intermittent asthma, uncomplicated",18359,,1,Asthma
+M06.9,"Rheumatoid arthritis, unspecified",18357,,1,Rheumatoid arthritis
+F02.80,"Dem in oth dis classd elswhr,unsp sev,w/o beh/psych/mood/anx",18274,1,1,Dementia
+L57.8,Oth skin changes due to chr expsr to nonionizing radiation,18105,,1,Radiation related skin changes
+J90,"Pleural effusion, not elsewhere classified",18099,1,1,Pleural effusion
+I11.9,Hypertensive heart disease without heart failure,17859,1,1,Hypertension
+H43.813,"Vitreous degeneration, bilateral",17700,,1,Vitreous degeneration
+D84.9,"Immunodeficiency, unspecified",17405,,1,Immunodeficiency disorder
+N28.89,Other specified disorders of kidney and ureter,17396,,1,Disorder of kidney and ureter
+J45.909,"Unspecified asthma, uncomplicated",17323,,1,Asthma
+R53.1,Weakness,17323,,1,Weakness
+L30.9,"Dermatitis, unspecified",17313,,1,Rash
+I51.9,"Heart disease, unspecified",17233,,1,Heart disease
+N39.41,Urge incontinence,17104,,1,Urinary symptoms
+G35,Multiple sclerosis,16999,1,1,Multiple sclerosis
+J32.0,Chronic maxillary sinusitis,16784,1,1,Chronic sinusitis
+R10.13,Epigastric pain,16513,,1,Abdominal pain
+E83.52,Hypercalcemia,16479,1,1,Abnormal calcium level
+C50.411,Malig neoplm of upper-outer quadrant of right female breast,16294,,1,Breast cancer
+R39.15,Urgency of urination,16288,,1,Urinary symptoms
+I77.9,"Disorder of arteries and arterioles, unspecified",16276,,1,Arterial disorder
+R31.29,Other microscopic hematuria,16215,,1,Hematuria
+I45.10,Unspecified right bundle-branch block,16150,,1,Right bundle-branch block
+B18.2,Chronic viral hepatitis C,16110,1,1,Viral hepatitis
+I71.20,"Thoracic aortic aneurysm, without rupture, unspecified",15961,1,1,Aortic anneurysm
+I44.2,"Atrioventricular block, complete",15860,,1,Atrioventricular block
+R09.82,Postnasal drip,15846,,1,Post-nasal drip
+D23.9,"Other benign neoplasm of skin, unspecified",15789,,1,Benign skin neoplasm
+R11.0,Nausea,15747,,1,Nausea
+I50.30,Unspecified diastolic (congestive) heart failure,15672,1,1,Heart failure
+R20.2,Paresthesia of skin,15421,,1,Sensory abnormality
+K21.00,"Gastro-esophageal reflux dis with esophagitis, without bleed",15402,,1,GERD
+I65.29,Occlusion and stenosis of unspecified carotid artery,15383,,1,Carotid stenosis
+R26.89,Other abnormalities of gait and mobility,15342,,1,Abnormal gait
+C83.30,"Diffuse large B-cell lymphoma, unspecified site",15329,,1,Lymphoma
+I48.21,Permanent atrial fibrillation,15291,1,1,Atrial fibrillation
+C50.412,Malig neoplasm of upper-outer quadrant of left female breast,15273,,1,Breast cancer
+M79.605,Pain in left leg,15254,,1,Leg pain
+N18.2,"Chronic kidney disease, stage 2 (mild)",15209,1,1,Chronic kidney disease
+C71.9,"Malignant neoplasm of brain, unspecified",15145,,1,Brain cancer
+R50.9,"Fever, unspecified",15123,1,1,Fever
+R20.0,Anesthesia of skin,15100,,1,Sensory abnormality
+R74.8,Abnormal levels of other serum enzymes,15051,,1,Abnormal levels of other serum enzymes
+J31.0,Chronic rhinitis,15049,,1,Chronic rhinitis
+C34.31,"Malignant neoplasm of lower lobe, right bronchus or lung",15036,1,1,Lung cancer
+M79.604,Pain in right leg,14977,,1,Leg pain
+R49.0,Dysphonia,14880,,1,Dysphonia
+R03.0,"Elevated blood-pressure reading, w/o diagnosis of htn",14781,,1,Hypertension
+M79.671,Pain in right foot,14656,,1,Ankle and foot pain
+E11.21,Type 2 diabetes mellitus with diabetic nephropathy,14580,1,1,Diabetes
+J30.1,Allergic rhinitis due to pollen,14575,,1,Allergic rhinitis
+M81.8,Other osteoporosis without current pathological fracture,14439,,1,Osteoporosis
+M79.672,Pain in left foot,14368,,1,Ankle and foot pain
+M51.36,"Other intervertebral disc degeneration, lumbar region",14269,,1,Degenerative disc disease
+E78.1,Pure hyperglyceridemia,14183,,1,Dyslipidemia
+I77.810,Thoracic aortic ectasia,14145,,1,Aortic ectasia
+B20,Human immunodeficiency virus [HIV] disease,14069,1,1,HIV
+M89.9,"Disorder of bone, unspecified",14057,,1,Disorder of bone
+I05.9,"Rheumatic mitral valve disease, unspecified",14047,,1,Rheumatic valve disease
+H61.23,"Impacted cerumen, bilateral",14007,,1,Impacted cerumen
+E89.0,Postprocedural hypothyroidism,13996,,1,Hypothyroidism
+I51.7,Cardiomegaly,13990,,1,Cardiomegaly
+M54.12,"Radiculopathy, cervical region",13986,1,1,Radiculopathy
+R00.0,"Tachycardia, unspecified",13933,,1,Tachycardia
+C80.1,"Malignant (primary) neoplasm, unspecified",13836,,1,Cancer
+E21.3,"Hyperparathyroidism, unspecified",13830,1,1,Hyperparathyroidism
+N18.5,"Chronic kidney disease, stage 5",13713,1,1,Chronic kidney disease
+G47.30,"Sleep apnea, unspecified",13624,,1,Sleep apnea
+R93.1,Abnormal findings on dx imaging of heart and cor circ,13470,,1,Coronary artery disease
+C15.9,"Malignant neoplasm of esophagus, unspecified",13389,,1,Esophageal cancer
+R01.1,"Cardiac murmur, unspecified",13282,,1,Cardiac murmur
+N63.0,Unspecified lump in unspecified breast,13262,,1,Breast lump
+J32.2,Chronic ethmoidal sinusitis,13025,1,1,Chronic sinusitis
+H40.003,"Preglaucoma, unspecified, bilateral",12997,,1,Glaucoma
+M54.41,"Lumbago with sciatica, right side",12982,,1,Radiculopathy
+I47.20,"Ventricular tachycardia, unspecified",12946,,1,Ventricular tachycardia
+J47.9,"Bronchiectasis, uncomplicated",12861,,1,Bronchiectasis
+I21.4,Non-ST elevation (NSTEMI) myocardial infarction,12847,1,1,Myocardial infarction
+R41.82,"Altered mental status, unspecified",12845,,1,Altered mental status
+C90.02,Multiple myeloma in relapse,12837,1,1,Multiple myeloma
+C01,Malignant neoplasm of base of tongue,12719,,1,Tongue cancer
+M62.81,Muscle weakness (generalized),12717,,1,Muscle weakness
+L40.9,"Psoriasis, unspecified",12633,,1,Psoriasis
+I82.409,Acute embolism and thombos unsp deep vn unsp lower extremity,12624,1,1,Venous thromboembolism
+I42.0,Dilated cardiomyopathy,12568,1,1,Cardiomyopathy
+D86.9,"Sarcoidosis, unspecified",12567,,1,Sarcoidosis
+R26.81,Unsteadiness on feet,12553,,1,Abnormal gait
+J44.1,Chronic obstructive pulmonary disease w (acute) exacerbation,12459,,1,COPD
+K92.2,"Gastrointestinal hemorrhage, unspecified",12437,1,1,Hemorrhage
+I51.89,Other ill-defined heart diseases,12352,,1,Heart disease
+H40.9,Unspecified glaucoma,12305,,1,Glaucoma
+M35.3,Polymyalgia rheumatica,12298,1,1,Polymyalgia rheumatica
+M16.11,"Unilateral primary osteoarthritis, right hip",12274,,1,Osteoarthritis
+R73.02,Impaired glucose tolerance (oral),12263,,1,Diabetes
+L82.0,Inflamed seborrheic keratosis,12221,,1,Seborrheic keratosis
+C49.9,"Malignant neoplasm of connective and soft tissue, unsp",12189,,1,Soft tissue cancer
+C25.0,Malignant neoplasm of head of pancreas,12123,1,1,Pancreatic cancer
+H91.90,"Unspecified hearing loss, unspecified ear",12004,1,1,Hearing loss
+J20.9,"Acute bronchitis, unspecified",11921,1,1,Bronchitis
+R31.0,Gross hematuria,11911,,1,Hematuria
+I50.20,Unspecified systolic (congestive) heart failure,11907,1,1,Heart failure
+I89.0,"Lymphedema, not elsewhere classified",11884,,1,Lymphedema
+R18.8,Other ascites,11879,,1,Ascites
+G89.3,Neoplasm related pain (acute) (chronic),11829,,1,Pain
+J45.30,"Mild persistent asthma, uncomplicated",11823,,1,Asthma
+R56.9,Unspecified convulsions,11795,,1,Seizure
+L29.9,"Pruritus, unspecified",11774,,1,Itching
+A41.9,"Sepsis, unspecified organism",11743,1,1,Sepsis
+M54.42,"Lumbago with sciatica, left side",11730,,1,Radiculopathy
+J43.8,Other emphysema,11679,,1,Emphysema
+J43.2,Centrilobular emphysema,11645,,1,Emphysema
+E11.40,"Type 2 diabetes mellitus with diabetic neuropathy, unsp",11513,1,1,Diabetes
+H40.013,"Open angle with borderline findings, low risk, bilateral",11466,,1,Glaucoma
+C90.01,Multiple myeloma in remission,11407,1,1,Multiple myeloma
+R11.2,"Nausea with vomiting, unspecified",11407,,1,Nausea
+M10.00,"Idiopathic gout, unspecified site",11342,1,1,Gout
+J45.40,"Moderate persistent asthma, uncomplicated",11301,,1,Asthma
+J30.89,Other allergic rhinitis,11280,,1,Allergic rhinitis
+R05.3,Chronic cough,11225,,1,Chronic cough
+J32.1,Chronic frontal sinusitis,11216,1,1,Chronic sinusitis
+E11.42,Type 2 diabetes mellitus with diabetic polyneuropathy,11127,1,1,Diabetes
+M51.37,"Other intervertebral disc degeneration, lumbosacral region",11122,,1,Degenerative disc disease
+R14.0,Abdominal distension (gaseous),11027,,1,Abdominal distension
+R94.39,Abnormal result of other cardiovascular function study,11000,,1,Abnormal results of cardiovascular function study
+J43.9,"Emphysema, unspecified",10979,,1,Emphysema
+C22.1,Intrahepatic bile duct carcinoma,10974,,1,Liver cancer
+G31.84,Mild cognitive impairment of uncertain or unknown etiology,10961,,1,Cognitive impairment
+R59.0,Localized enlarged lymph nodes,10936,,1,Enlarged lymph nodes
+F03.90,"Unsp dementia, unsp severity, without beh/psych/mood/anx",10854,,1,Dementia
+K76.0,"Fatty (change of) liver, not elsewhere classified",10818,,1,Fatty liver
+H25.12,"Age-related nuclear cataract, left eye",10810,,1,Cataract
+E66.3,Overweight,10803,,1,Obesity
+C84.09,"Mycosis fungoides, extranodal and solid organ sites",10782,1,1,Lymphoma
+H35.363,"Drusen (degenerative) of macula, bilateral",10667,,1,Macular drusen
+M16.12,"Unilateral primary osteoarthritis, left hip",10664,,1,Osteoarthritis
+N64.4,Mastodynia,10629,,1,Breast pain
+D64.81,Anemia due to antineoplastic chemotherapy,10609,1,1,Anemia due to chemotherapy
+M79.10,"Myalgia, unspecified site",10575,,1,Myalgia
+N32.81,Overactive bladder,10574,,1,Urinary symptoms
+E05.90,"Thyrotoxicosis, unsp without thyrotoxic crisis or storm",10554,1,1,Hyperthyroidism
+R10.32,Left lower quadrant pain,10520,,1,Abdominal pain
+J34.89,Other specified disorders of nose and nasal sinuses,10510,,1,Disorder of nose and nasal sinuses
+C34.32,"Malignant neoplasm of lower lobe, left bronchus or lung",10501,1,1,Lung cancer
+G25.0,Essential tremor,10498,,1,Tremor
+I48.3,Typical atrial flutter,10496,1,1,Atrial flutter
+J30.9,"Allergic rhinitis, unspecified",10476,,1,Allergic rhinitis
+R26.2,"Difficulty in walking, not elsewhere classified",10414,,1,Abnormal gait
+R09.81,Nasal congestion,10356,,1,Nasal congestion
+H25.11,"Age-related nuclear cataract, right eye",10347,,1,Cataract
+T14.8XXA,"Other injury of unspecified body region, initial encounter",10255,,1,Injury
+D22.9,"Melanocytic nevi, unspecified",10253,,1,Melanocytic nevi
+I50.23,Acute on chronic systolic (congestive) heart failure,10236,1,1,Heart failure
+J32.3,Chronic sphenoidal sinusitis,10213,1,1,Chronic sinusitis
+M79.641,Pain in right hand,10203,,1,Hand pain
+H04.123,Dry eye syndrome of bilateral lacrimal glands,10175,,1,Dry eye syndrome
+M47.812,"Spondylosis w/o myelopathy or radiculopathy, cervical region",10075,,1,Spondylosis
+C79.49,Secondary malignant neoplasm of oth parts of nervous system,10058,,1,Nervous system cancer
+C83.38,"Diffuse large B-cell lymphoma, lymph nodes of multiple sites",10050,,1,Lymphoma
+G25.81,Restless legs syndrome,9945,,1,Restless legs syndrome
+R13.12,"Dysphagia, oropharyngeal phase",9920,,1,Dysphagia
+J30.2,Other seasonal allergic rhinitis,9908,,1,Allergic rhinitis
+E88.81,Metabolic syndrome,9706,,1,Metabolic syndrome
+I34.1,Nonrheumatic mitral (valve) prolapse,9696,,1,Nonrheumatic valve disorder
+D80.1,Nonfamilial hypogammaglobulinemia,9674,,1,Hypogammaglobulinemia
+D45,Polycythemia vera,9648,,1,Leukemia
+R25.1,"Tremor, unspecified",9643,,1,Tremor
+M54.40,"Lumbago with sciatica, unspecified side",9566,,1,Radiculopathy
+R10.31,Right lower quadrant pain,9484,,1,Abdominal pain
+H35.3290,"Exudative age-related mclr degn, unsp, stage unspecified",9432,,1,Macular degeneration
+G30.1,Alzheimer's disease with late onset,9431,,1,Alzheimer's disease
+C18.2,Malignant neoplasm of ascending colon,9392,,1,Colon cancer
+N39.3,Stress incontinence (female) (male),9381,,1,Urinary symptoms
+M35.00,"Sjogren syndrome, unspecified",9374,,1,Sjogren syndrome
+N28.1,"Cyst of kidney, acquired",9329,,1,Renal cyst
+N95.0,Postmenopausal bleeding,9321,,1,Postmenopausal bleeding
+I25.118,Athscl heart disease of native cor art w oth ang pctrs,9285,1,1,Coronary artery disease
+D12.6,"Benign neoplasm of colon, unspecified",9212,,1,Benign colonic neoplasm
+K63.5,Polyp of colon,9190,,1,Colon polyp
+C85.90,"Non-Hodgkin lymphoma, unspecified, unspecified site",9158,,1,Lymphoma
+R10.2,Pelvic and perineal pain,9158,,1,Pelvic pain
+I49.1,Atrial premature depolarization,9124,1,1,Premature cardiac depolarization
+M79.7,Fibromyalgia,9044,,1,Fibromyalgia
+H93.13,"Tinnitus, bilateral",9041,,1,Tinnitus
+M79.642,Pain in left hand,9033,,1,Hand pain
+F41.8,Other specified anxiety disorders,8982,1,1,Anxiety
+R76.8,Other specified abnormal immunological findings in serum,8955,,1,Abnormal laboratory results
+E11.3299,"Type 2 diab with mild nonp rtnop without macular edema, unsp",8911,1,1,Diabetes
+I25.83,Coronary atherosclerosis due to lipid rich plaque,8896,1,1,Coronary artery disease
+K52.9,"Noninfective gastroenteritis and colitis, unspecified",8884,,1,Noninfective gastroenteritis and colitis
+D64.89,Other specified anemias,8869,1,1,Anemia
+I07.1,Rheumatic tricuspid insufficiency,8836,,1,Rheumatic valve disease
+N30.00,Acute cystitis without hematuria,8779,1,1,Urinary tract infection
+G89.4,Chronic pain syndrome,8777,,1,Chronic pain
+M25.569,Pain in unspecified knee,8776,,1,Knee pain
+R25.2,Cramp and spasm,8732,,1,Musculoskeletal pain
+C67.8,Malignant neoplasm of overlapping sites of bladder,8717,,1,Bladder cancer
+H02.889,"Meibomian gland dysfunction of unsp, unspecified eyelid",8697,,1,Meibomian gland dysfunction
+C78.00,Secondary malignant neoplasm of unspecified lung,8679,1,1,Lung cancer
+E29.1,Testicular hypofunction,8639,,1,Testicular hypofunction
+I12.9,Hypertensive chronic kidney disease w stg 1-4/unsp chr kdny,8614,1,1,Hypertension
+C7A.8,Other malignant neuroendocrine tumors,8593,,1,Malignant neuroendocrine tumor
+R06.83,Snoring,8554,,1,Snoring
+J32.9,"Chronic sinusitis, unspecified",8553,1,1,Chronic sinusitis
+C79.52,Secondary malignant neoplasm of bone marrow,8542,,1,Bone marrow neoplasm
+D61.818,Other pancytopenia,8524,1,1,Pancytopenia
+R22.1,"Localized swelling, mass and lump, neck",8521,,1,"Localized swelling, mass and lump of skin"
+C85.80,"Oth types of non-Hodgkin lymphoma, unspecified site",8518,,1,Lymphoma
+L81.4,Other melanin hyperpigmentation,8497,,1,Skin hyperpigmentation
+D32.9,"Benign neoplasm of meninges, unspecified",8460,,1,Benign central nervous system neoplasm
+A31.0,Pulmonary mycobacterial infection,8408,1,1,Mycobacterial disease
+C92.01,"Acute myeloblastic leukemia, in remission",8369,,1,Leukemia
+R10.84,Generalized abdominal pain,8367,,1,Abdominal pain
+R10.11,Right upper quadrant pain,8336,,1,Abdominal pain
+K44.9,Diaphragmatic hernia without obstruction or gangrene,8318,,1,Hernia
+F51.01,Primary insomnia,8294,,1,Insomnia
+D72.829,"Elevated white blood cell count, unspecified",8250,,1,Leukocytosis
+C68.9,"Malignant neoplasm of urinary organ, unspecified",8244,,1,Bladder cancer
+H52.13,"Myopia, bilateral",8228,,1,Myopia
+I95.1,Orthostatic hypotension,8197,1,1,Orthostatic hypotension
+F32.89,Other specified depressive episodes,8178,1,1,Depression
+K59.09,Other constipation,8162,,1,Constipation
+H40.1131,"Primary open-angle glaucoma, bilateral, mild stage",8157,,1,Glaucoma
+S09.90XA,"Unspecified injury of head, initial encounter",8143,,1,Head injury
+D69.3,Immune thrombocytopenic purpura,8073,,1,Thrombocytopenia
+K86.2,Cyst of pancreas,8072,,1,Pancreatic cyst
+I25.84,Coronary atherosclerosis due to calcified coronary lesion,8071,1,1,Coronary artery disease
+I25.119,Athscl heart disease of native cor art w unsp ang pctrs,8060,1,1,Coronary artery disease
+R41.89,Oth symptoms and signs w cognitive functions and awareness,8058,1,1,Cognitive impairment
+H52.203,"Unspecified astigmatism, bilateral",8057,,1,Astigmatism
+K75.81,Nonalcoholic steatohepatitis (NASH),8006,,1,Nonalcoholic steatohepatitis
+C18.7,Malignant neoplasm of sigmoid colon,7972,,1,Colon cancer
+I11.0,Hypertensive heart disease with heart failure,7921,1,1,Hypertension
+K92.1,Melena,7862,,1,Melena
+C15.5,Malignant neoplasm of lower third of esophagus,7849,,1,Esophageal cancer
+K40.90,"Unil inguinal hernia, w/o obst or gangr, not spcf as recur",7840,,1,Hernia
+H91.93,"Unspecified hearing loss, bilateral",7816,,1,Hearing loss
+E85.81,Light chain (AL) amyloidosis,7794,,1,Amyloidosis
+C16.9,"Malignant neoplasm of stomach, unspecified",7773,,1,Stomach cancer
+C50.011,"Malignant neoplasm of nipple and areola, right female breast",7746,,1,Breast cancer
+J40,"Bronchitis, not specified as acute or chronic",7738,,1,Bronchitis
+J84.112,Idiopathic pulmonary fibrosis,7730,,1,Pulmonary fibrosis
+M54.6,Pain in thoracic spine,7717,,1,Back pain
+R39.9,Unsp symptoms and signs involving the genitourinary system,7690,,1,Urinary symptoms
+R04.0,Epistaxis,7682,,1,Epistaxis
+R06.2,Wheezing,7677,,1,Wheezing
+I71.21,"Aneurysm of the ascending aorta, without rupture",7667,1,1,Aortic anneurysm
+E06.3,Autoimmune thyroiditis,7665,1,1,Thyroiditis
+R78.81,Bacteremia,7665,,1,Bacteremia
+D63.8,Anemia in other chronic diseases classified elsewhere,7652,1,1,Autoimmune thyroiditis
+U07.1,COVID-19,7624,,1,COVID-19
+L98.9,"Disorder of the skin and subcutaneous tissue, unspecified",7602,,1,Soft tissue abnormality
+K22.70,Barrett's esophagus without dysplasia,7585,,1,Barrett's esophagus
+N25.81,Secondary hyperparathyroidism of renal origin,7585,,1,Hyperparathyroidism
+R07.2,Precordial pain,7532,,1,Chest pain
+F33.1,"Major depressive disorder, recurrent, moderate",7518,1,1,Depression
+M19.011,"Primary osteoarthritis, right shoulder",7517,,1,Osteoarthritis
+I50.33,Acute on chronic diastolic (congestive) heart failure,7515,1,1,Heart failure
+M48.02,"Spinal stenosis, cervical region",7462,,1,Spinal stenosis
+K86.89,Other specified diseases of pancreas,7446,,1,Pancreatic disease
+K62.5,Hemorrhage of anus and rectum,7445,,1,Anorectal hemorrhage
+J34.2,Deviated nasal septum,7443,,1,Deviated nasal septum
+L71.9,"Rosacea, unspecified",7429,,1,Rosacea
+R29.6,Repeated falls,7409,,1,Fall
+K11.7,Disturbances of salivary secretion,7393,,1,Disturbances of salivary secretion
+K58.9,Irritable bowel syndrome without diarrhea,7376,,1,Irritable bowel syndrome
+C45.0,Mesothelioma of pleura,7356,,1,Mesothelioma
+D05.12,Intraductal carcinoma in situ of left breast,7304,,1,Breast cancer
+D47.3,Essential (hemorrhagic) thrombocythemia,7237,,1,Thrombocytosis
+R07.81,Pleurodynia,7225,,1,Chest pain
+M54.17,"Radiculopathy, lumbosacral region",7156,1,1,Radiculopathy
+J84.10,"Pulmonary fibrosis, unspecified",7140,,1,Pulmonary fibrosis
+E78.9,"Disorder of lipoprotein metabolism, unspecified",7109,,1,Dyslipidemia
+H35.81,Retinal edema,7080,,1,Retinal edema
+I31.39,Other pericardial effusion (noninflammatory),7046,,1,Pericardial effusion
+H40.033,"Anatomical narrow angle, bilateral",7042,,1,Glaucoma
+J32.8,Other chronic sinusitis,7033,1,1,Chronic sinusitis
+M79.18,"Myalgia, other site",7027,,1,Myalgia
+R77.8,Other specified abnormalities of plasma proteins,7002,,1,Abnormal laboratory results
+I95.9,"Hypotension, unspecified",6995,1,1,Hypotension
+I44.0,"Atrioventricular block, first degree",6964,,1,Atrioventricular block
+M51.26,"Other intervertebral disc displacement, lumbar region",6963,,1,Intervertebral disc displacement
+E11.00,Type 2 diab w hyprosm w/o nonket hyprgly-hypros coma (NKHHC),6942,1,1,Diabetes
+C43.59,Malignant melanoma of other part of trunk,6915,,1,Skin cancer
+D05.11,Intraductal carcinoma in situ of right breast,6915,,1,Breast cancer
+L21.9,"Seborrheic dermatitis, unspecified",6872,,1,Seborrhea
+I42.2,Other hypertrophic cardiomyopathy,6819,1,1,Cardiomyopathy
+K74.69,Other cirrhosis of liver,6815,,1,Liver cirrhosis
+M79.2,"Neuralgia and neuritis, unspecified",6809,,1,Neuralgia and neuritis
+M25.571,Pain in right ankle and joints of right foot,6806,,1,Ankle and foot pain
+I43,Cardiomyopathy in diseases classified elsewhere,6796,,1,Cardiomyopathy
+G40.909,"Epilepsy, unsp, not intractable, without status epilepticus",6774,,1,Epilepsy
+M25.572,Pain in left ankle and joints of left foot,6741,,1,Ankle and foot pain
+M53.3,"Sacrococcygeal disorders, not elsewhere classified",6714,,1,Sacrococcygeal disorders
+J02.9,"Acute pharyngitis, unspecified",6713,,1,Acute pharyngitis
+B35.1,Tinea unguium,6687,,1,Ringworm
+F11.90,"Opioid use, unspecified, uncomplicated",6687,,1,Opioid use
+T86.20,Unspecified complication of heart transplant,6547,,1,Transplant complication
+I49.9,"Cardiac arrhythmia, unspecified",6529,1,1,Cardiac arrhythmia
+D72.819,"Decreased white blood cell count, unspecified",6528,,1,Leukopenia
+H53.2,Diplopia,6526,,1,Diplopia
+E85.4,Organ-limited amyloidosis,6519,,1,Amyloidosis
+I67.1,"Cerebral aneurysm, nonruptured",6492,1,1,Cerebral aneurysm
+C09.9,"Malignant neoplasm of tonsil, unspecified",6464,,1,Tonsil cancer
+E66.09,Other obesity due to excess calories,6447,,1,Obesity
+J98.4,Other disorders of lung,6445,,1,Disorder of lung
+H40.1132,"Primary open-angle glaucoma, bilateral, moderate stage",6430,,1,Glaucoma
+C50.111,Malignant neoplasm of central portion of right female breast,6415,,1,Breast cancer
+R63.0,Anorexia,6414,,1,Anorexia
+C76.0,"Malignant neoplasm of head, face and neck",6413,1,1,Head and neck cancer
+I50.42,Chronic combined systolic and diastolic hrt fail,6404,1,1,Heart failure
+D63.0,Anemia in neoplastic disease,6395,1,1,Anemia
+C50.812,Malignant neoplasm of ovrlp sites of left female breast,6384,,1,Breast cancer
+J01.00,"Acute maxillary sinusitis, unspecified",6368,1,1,Acute sinusitis
+C88.0,Waldenstrom macroglobulinemia,6358,,1,Lymphoma
+I45.2,Bifascicular block,6344,,1,Fascicular block
+D3A.8,Other benign neuroendocrine tumors,6337,,1,Benign neuroendocrine tumor
+L90.5,Scar conditions and fibrosis of skin,6327,,1,Scar
+C50.112,Malignant neoplasm of central portion of left female breast,6322,,1,Breast cancer
+C92.10,"Chronic myeloid leuk, BCR/ABL-positive, not achieve remis",6317,,1,Leukemia
+E04.9,"Nontoxic goiter, unspecified",6282,1,1,Thyroid abnormality
+E21.0,Primary hyperparathyroidism,6272,1,1,Hyperparathyroidism
+N81.4,"Uterovaginal prolapse, unspecified",6264,,1,Uterovaginal prolapse
+I65.21,Occlusion and stenosis of right carotid artery,6237,,1,Coronary artery disease
+D35.2,Benign neoplasm of pituitary gland,6229,,1,Benign pituatary neoplasm
+H52.03,"Hypermetropia, bilateral",6193,,1,Hypermetropia
+K57.32,Dvtrcli of lg int w/o perforation or abscess w/o bleeding,6191,1,1,Diverticulitis
+M19.012,"Primary osteoarthritis, left shoulder",6166,,1,Osteoarthritis
+C50.811,Malignant neoplasm of ovrlp sites of right female breast,6110,,1,Breast cancer
+E43,Unspecified severe protein-calorie malnutrition,6107,,1,Protein-calorie malnutrition
+R68.89,Other general symptoms and signs,6067,,1,General signs and symptoms
+Y99.8,Other external cause status,6063,,1,External cause of morbidity
+K57.30,Dvrtclos of lg int w/o perforation or abscess w/o bleeding,6062,1,1,Diverticulosis
+I25.810,Atherosclerosis of CABG w/o angina pectoris,6054,1,1,Coronary artery disease
+L08.9,"Local infection of the skin and subcutaneous tissue, unsp",6050,,1,Skin and soft-tissue infection
+H43.811,"Vitreous degeneration, right eye",5987,,1,Vitreous degeneration
+R32,Unspecified urinary incontinence,5980,,1,Urinary symptoms
+M47.817,"Spondyls w/o myelopathy or radiculopathy, lumbosacr region",5969,,1,Spondylosis
+R19.5,Other fecal abnormalities,5922,,1,Abnormal feces
+C34.01,Malignant neoplasm of right main bronchus,5918,1,1,Lung cancer
+D49.0,Neoplasm of unspecified behavior of digestive system,5913,1,1,Digestive system cancer
+C64.1,"Malignant neoplasm of right kidney, except renal pelvis",5912,,1,Kidney cancer
+E03.2,Hypothyroidism due to meds and oth exogenous substances,5907,1,1,Hypothyroidism
+R10.30,"Lower abdominal pain, unspecified",5899,,1,Abdominal pain
+N39.46,Mixed incontinence,5893,,1,Mixed incontinence
+E83.110,Hereditary hemochromatosis,5883,,1,Hemochromatosis
+M62.838,Other muscle spasm,5862,,1,Musculoskeletal pain
+I36.1,Nonrheumatic tricuspid (valve) insufficiency,5828,,1,Nonrheumatic valve disorder
+I15.1,Hypertension secondary to other renal disorders,5820,1,1,Hypertension
+C44.92,"Squamous cell carcinoma of skin, unspecified",5804,,1,Skin cancer
+H53.8,Other visual disturbances,5789,,1,Visual disturbance
+Y93.89,"Activity, other specified",5784,,1,External cause of morbidity
+I65.22,Occlusion and stenosis of left carotid artery,5776,,1,Carotid artery stenosis
+N95.1,Menopausal and female climacteric states,5749,,1,Menopause
+E05.00,Thyrotoxicosis w diffuse goiter w/o thyrotoxic crisis,5736,1,1,Hyperthyroidism
+R74.01,Elevation of levels of liver transaminase levels,5729,,1,Abnormal levels of other serum enzymes
+G70.00,Myasthenia gravis without (acute) exacerbation,5724,,1,Myasthenia gravis
+R63.5,Abnormal weight gain,5694,,1,Weight gain
+F33.2,"Major depressv disorder, recurrent severe w/o psych features",5693,1,1,Depression
+L43.9,"Lichen planus, unspecified",5673,,1,Lichen planus
+M25.559,Pain in unspecified hip,5671,,1,Hip pain
+C64.2,"Malignant neoplasm of left kidney, except renal pelvis",5665,,1,Kidney cancer
+L85.3,Xerosis cutis,5644,,1,Dry skin
+E11.29,Type 2 diabetes mellitus w oth diabetic kidney complication,5613,1,1,Diabetes
+M05.79,Rheu arthritis w rheu factor mult site w/o org/sys involv,5591,,1,Rheumatoid arthritis
+M54.5,Low back pain,5554,,1,Back pain
+H04.129,Dry eye syndrome of unspecified lacrimal gland,5536,,1,Dry eyes
+K76.9,"Liver disease, unspecified",5525,,1,Liver disease
+C91.00,Acute lymphoblastic leukemia not having achieved remission,5520,,1,Leukemia
+H01.00A,"Unspecified blepharitis right eye, upper and lower eyelids",5495,,1,Blepharitis
+M85.89,"Oth disrd of bone density and structure, multiple sites",5483,,1,Osteoporosis
+K56.609,"Unsp intestnl obst, unsp as to partial versus complete obst",5469,,1,Intestinal obstruction
+G56.03,"Carpal tunnel syndrome, bilateral upper limbs",5468,,1,Carpal tunnel syndrome
+H01.00B,"Unspecified blepharitis left eye, upper and lower eyelids",5454,,1,Blepharitis
+F43.21,Adjustment disorder with depressed mood,5442,1,1,Adjustment disorder
+D68.59,Other primary thrombophilia,5430,,1,Thrombophilia
+F17.210,"Nicotine dependence, cigarettes, uncomplicated",5413,,1,Nicotine dependence
+D51.0,Vitamin B12 defic anemia due to intrinsic factor deficiency,5367,1,1,Vitamin B12 deficiency
+C56.3,Malignant neoplasm of bilateral ovaries,5365,,1,Ovarian cancer
+I70.0,Atherosclerosis of aorta,5331,1,1,Atherosclerosis
+G30.9,"Alzheimer's disease, unspecified",5330,,1,Alzheimer's disease
+F02.818,"Dem in oth dis classd elswhr, unsp sev, with oth beh distrb",5320,,1,Dementia
+D47.1,Chronic myeloproliferative disease,5289,,1,Leukemia
+D75.81,Myelofibrosis,5273,,1,Myelofibrosis
+R92.2,Inconclusive mammogram,5267,,1,Inconclusive mammogram
+I20.8,Other forms of angina pectoris,5265,,1,Angina
+R82.90,Unspecified abnormal findings in urine,5260,,1,Abnormal laboratory results
+H40.1133,"Primary open-angle glaucoma, bilateral, severe stage",5259,,1,Glaucoma
+M25.531,Pain in right wrist,5252,,1,Wrist pain
+C55,"Malignant neoplasm of uterus, part unspecified",5239,,1,Uterine cancer
+R41.0,"Disorientation, unspecified",5223,1,1,Disorientation
+D70.9,"Neutropenia, unspecified",5218,,1,Neutropenia
+C34.00,Malignant neoplasm of unspecified main bronchus,5215,1,1,Lung cancer
+M25.532,Pain in left wrist,5205,,1,Wrist pain
+R13.19,Other dysphagia,5194,,1,Dysphagia
+J01.90,"Acute sinusitis, unspecified",5188,1,1,Acute sinusitis
+M94.9,"Disorder of cartilage, unspecified",5188,,1,Disorder of cartilage
+I48.4,Atypical atrial flutter,5187,,1,Atrial flutter
+T38.0X5A,"Adverse effect of glucocort/synth analog, init",5181,1,1,Adverse effect of drug
+L40.8,Other psoriasis,5174,,1,Psoriasis
+M31.6,Other giant cell arteritis,5165,1,1,Vasculitis
+L65.9,"Nonscarring hair loss, unspecified",5148,,1,Hair loss
+I44.1,"Atrioventricular block, second degree",5143,,1,Atrioventricular block
+Q23.1,Congenital insufficiency of aortic valve,5125,,1,Nonrheumatic valve disorder
+D75.839,"Thrombocytosis, unspecified",5119,,1,Thrombocytosis
+H43.812,"Vitreous degeneration, left eye",5098,,1,Vitreous degeneration
+M32.9,"Systemic lupus erythematosus, unspecified",5092,,1,Systemic lupus erythematosus
+R19.4,Change in bowel habit,5085,,1,Change in bowel habit
+C93.10,Chronic myelomonocytic leukemia not achieve remission,5077,,1,Leukemia
+C21.0,"Malignant neoplasm of anus, unspecified",5065,,1,Anal cancer
+H40.053,"Ocular hypertension, bilateral",5062,,1,Glaucoma
+L03.90,"Cellulitis, unspecified",5059,1,1,Cellulitis
+G12.21,Amyotrophic lateral sclerosis,5055,,1,Amyotrophic lateral sclerosis
+Y92.89,Oth places as the place of occurrence of the external cause,5045,,1,External cause of morbidity
+M34.9,"Systemic sclerosis, unspecified",5006,,1,Systemic sclerosis
+Y84.2,"Radiolog proc/radiothrpy cause abn react/compl, w/o misadvnt",4999,,1,Reaction to radiological procedure
+H61.21,"Impacted cerumen, right ear",4997,,1,Impacted cerumen
+G47.9,"Sleep disorder, unspecified",4988,,1,Sleep disorder
+D70.8,Other neutropenia,4968,,1,Neutropenia
+R53.82,"Chronic fatigue, unspecified",4967,,1,Fatigue
+F31.9,"Bipolar disorder, unspecified",4966,1,1,Bipolar disorder
+N89.8,Other specified noninflammatory disorders of vagina,4966,,1,Vaginal abnormality
+F01.50,"Vascular dementia, unsp severity, without beh/psych/mood/anx",4929,,1,Dementia
+H40.1130,"Primary open-angle glaucoma, bilateral, stage unspecified",4925,,1,Glaucoma
+R05.8,Other specified cough,4918,,1,Cough
+C78.6,Secondary malignant neoplasm of retroperiton and peritoneum,4908,,1,Peritoneal cancer
+M54.31,"Sciatica, right side",4902,,1,Sciatica
+M86.9,"Osteomyelitis, unspecified",4879,1,1,Osteomyelitis
+G62.0,Drug-induced polyneuropathy,4878,1,1,Neuropathy
+S06.5XAA,"Traum subdr hem with LOC status unknown, initial encounter",4860,,1,Intracranial injury
+L40.50,"Arthropathic psoriasis, unspecified",4849,,1,Psoriasis
+I67.89,Other cerebrovascular disease,4817,,1,Cerebrovascular disease
+J38.3,Other diseases of vocal cords,4812,,1,Vocal cord disease
+D33.3,Benign neoplasm of cranial nerves,4807,1,1,Benign brain neoplasm
+B19.20,Unspecified viral hepatitis C without hepatic coma,4763,1,1,Viral hepatitis
+I25.9,"Chronic ischemic heart disease, unspecified",4761,1,1,Coronary artery disease
+H25.013,"Cortical age-related cataract, bilateral",4755,,1,Cataract
+C85.99,"Non-Hodgkin lymphoma, unsp, extranodal and solid organ sites",4732,,1,Lymphoma
+C34.2,"Malignant neoplasm of middle lobe, bronchus or lung",4721,1,1,Lung cancer
+E10.9,Type 1 diabetes mellitus without complications,4699,1,1,Diabetes
+M50.30,"Other cervical disc degeneration, unsp cervical region",4688,,1,Cervical disc degeneration
+M54.32,"Sciatica, left side",4678,,1,Sciatica
+J43.1,Panlobular emphysema,4674,,1,Emphysema
+D51.8,Other vitamin B12 deficiency anemias,4669,1,1,Vitamin B12 deficiency
+E87.70,"Fluid overload, unspecified",4654,,1,Fluid overload
+M47.12,"Other spondylosis with myelopathy, cervical region",4651,1,1,Spondylosis
+G60.9,"Hereditary and idiopathic neuropathy, unspecified",4650,1,1,Neuropathy
+J42,Unspecified chronic bronchitis,4638,,1,Bronchitis
+I27.0,Primary pulmonary hypertension,4631,1,1,Pulmonary hypertension
+E79.0,Hyperuricemia w/o signs of inflam arthrit and tophaceous dis,4620,,1,Hyperuricemia
+I27.82,Chronic pulmonary embolism,4611,,1,Pulmonary embolism
+I38,"Endocarditis, valve unspecified",4610,,1,Endocarditis
+R20.9,Unspecified disturbances of skin sensation,4567,,1,Sensory abnormality
+N18.1,"Chronic kidney disease, stage 1",4558,1,1,Chronic kidney disease
+C50.212,Malig neoplasm of upper-inner quadrant of left female breast,4555,,1,Breast cancer
+C50.012,"Malignant neoplasm of nipple and areola, left female breast",4538,,1,Breast cancer
+C06.9,"Malignant neoplasm of mouth, unspecified",4537,,1,Mouth cancer
+F51.04,Psychophysiologic insomnia,4531,,1,Insomnia
+R15.9,Full incontinence of feces,4527,,1,Fecal incontinence
+R19.00,"Intra-abd and pelvic swelling, mass and lump, unsp site",4518,,1,"Intra-abdominal and pelvic swelling, mass and lump"
+H40.019,"Open angle with borderline findings, low risk, unsp eye",4517,,1,Glaucoma
+I20.9,"Angina pectoris, unspecified",4514,,1,Angina
+R53.0,Neoplastic (malignant) related fatigue,4512,,1,Fatigue
+G50.0,Trigeminal neuralgia,4497,,1,Trigeminal neuralgia
+I49.8,Other specified cardiac arrhythmias,4496,1,1,Cardiac arrhythmia
+C83.00,"Small cell B-cell lymphoma, unspecified site",4493,,1,Lymphoma
+M43.16,"Spondylolisthesis, lumbar region",4492,,1,Spondylolisthesis
+C32.9,"Malignant neoplasm of larynx, unspecified",4486,1,1,Laryngeal cancer
+G56.01,"Carpal tunnel syndrome, right upper limb",4484,,1,Carpal tunnel syndrome
+M16.0,Bilateral primary osteoarthritis of hip,4482,,1,Osteoarthritis
+G61.81,Chronic inflammatory demyelinating polyneuritis,4481,1,1,Neuropathy
+I51.3,"Intracardiac thrombosis, not elsewhere classified",4481,,1,Cardiac thrombosis
+K43.9,Ventral hernia without obstruction or gangrene,4460,,1,Hernia
+M43.10,"Spondylolisthesis, site unspecified",4456,,1,Spondylolisthesis
+M25.519,Pain in unspecified shoulder,4449,,1,Shoulder pain
+M17.10,"Unilateral primary osteoarthritis, unspecified knee",4444,,1,Osteoarthritis
+E11.621,Type 2 diabetes mellitus with foot ulcer,4409,1,1,Diabetes
+H90.6,"Mixed conductive and sensorineural hearing loss, bilateral",4403,,1,Hearing loss
+H35.371,"Puckering of macula, right eye",4397,,1,Macular disease
+N13.30,Unspecified hydronephrosis,4379,,1,Hydronephrosis
+I73.00,Raynaud's syndrome without gangrene,4358,,1,Raynaud's syndrome
+H90.5,Unspecified sensorineural hearing loss,4326,1,1,Hearing loss
+W57.XXXA,"Bit/stung by nonvenom insect & oth nonvenom arthropods, init",4324,,1,Bug bite
+M48.00,"Spinal stenosis, site unspecified",4308,,1,Spinal stenosis
+H35.30,Unspecified macular degeneration,4304,,1,Macular degeneration
+E08.00,Diab d/t undrl cond w hyprosm w/o nonket hyprgly-hypros coma,4289,1,1,Diabetes
+C07,Malignant neoplasm of parotid gland,4288,,1,Parotid cancer
+I35.8,Other nonrheumatic aortic valve disorders,4283,1,1,Nonrheumatic valve disorder
+H35.372,"Puckering of macula, left eye",4278,,1,Macular puckering
+D75.1,Secondary polycythemia,4274,,1,Secondary polycythemia
+B02.9,Zoster without complications,4243,1,1,Herpes zoster
+K80.20,Calculus of gallbladder w/o cholecystitis w/o obstruction,4225,,1,Gallstone
+R19.8,Oth symptoms and signs involving the dgstv sys and abdomen,4218,,1,Gastrointestinal symptom
+R16.0,"Hepatomegaly, not elsewhere classified",4213,,1,Hepatomegaly
+B18.1,Chronic viral hepatitis B without delta-agent,4198,1,1,Viral hepatitis
+C44.311,Basal cell carcinoma of skin of nose,4193,1,1,Basal cell carcinoma
+K43.2,Incisional hernia without obstruction or gangrene,4192,,1,Hernia
+C25.1,Malignant neoplasm of body of pancreas,4183,1,1,Pancreatic cancer
+R29.3,Abnormal posture,4167,,1,Abnormal posture
+E07.9,"Disorder of thyroid, unspecified",4166,1,1,Thyroid abnormality
+C82.90,"Follicular lymphoma, unspecified, unspecified site",4166,,1,Lymphoma
+G47.10,"Hypersomnia, unspecified",4163,,1,Hypersomnia
+M47.26,"Other spondylosis with radiculopathy, lumbar region",4158,1,1,Spondylosis
+C44.91,"Basal cell carcinoma of skin, unspecified",4140,1,1,Basal cell carcinoma
+C43.4,Malignant melanoma of scalp and neck,4057,,1,Skin cancer
+I82.401,Acute embolism and thombos unsp deep veins of r low extrem,4047,1,1,Venous thromboembolism
+M79.602,Pain in left arm,4000,,1,Arm pain
+B37.0,Candidal stomatitis,3971,,1,Candidiasis
+C02.9,"Malignant neoplasm of tongue, unspecified",3968,,1,Tongue cancer
+W19.XXXD,"Unspecified fall, subsequent encounter",3967,,1,Fall
+H52.223,"Regular astigmatism, bilateral",3965,,1,Astigmatism
+N63.20,"Unspecified lump in the left breast, unspecified quadrant",3951,,1,Breast lump
+L59.8,"Oth disrd of the skin, subcu related to radiation",3950,,1,Radiation dermatitis
+M72.2,Plantar fascial fibromatosis,3949,,1,Plantar fasciitis
+I74.3,Embolism and thrombosis of arteries of the lower extremities,3948,,1,Arterial embolism and thrombosis
+K57.92,"Dvtrcli of intest, part unsp, w/o perf or abscess w/o bleed",3947,1,1,Diverticulitis
+E87.20,"Acidosis, unspecified",3938,1,1,Acidosis
+L03.116,Cellulitis of left lower limb,3919,1,1,Cellulitis
+E87.8,"Oth disorders of electrolyte and fluid balance, NEC",3919,,1,Electrolyte imbalance
+C7B.8,Other secondary neuroendocrine tumors,3912,,1,Neuroendocrine tumor
+N81.12,"Cystocele, lateral",3910,,1,Cystocele
+E11.51,Type 2 diabetes w diabetic peripheral angiopath w/o gangrene,3904,1,1,Diabetes
+R61,Generalized hyperhidrosis,3888,,1,Excessive sweating
+L03.115,Cellulitis of right lower limb,3874,1,1,Cellulitis
+R12,Heartburn,3868,,1,Heartburn
+K63.89,Other specified diseases of intestine,3860,,1,Intestinal disease
+F39,Unspecified mood [affective] disorder,3855,1,1,Mood disorder
+I67.9,"Cerebrovascular disease, unspecified",3851,,1,Cerebrovascular disease
+E83.51,Hypocalcemia,3846,1,1,Abnormal calcium level
+C44.42,Squamous cell carcinoma of skin of scalp and neck,3842,,1,Skin cancer
+R27.0,"Ataxia, unspecified",3832,,1,Ataxia
+D69.59,Other secondary thrombocytopenia,3824,,1,Thrombocytopenia
+H61.22,"Impacted cerumen, left ear",3824,,1,Impacted cerumen
+G95.9,"Disease of spinal cord, unspecified",3815,,1,Spinal cord disease
+L72.3,Sebaceous cyst,3814,,1,Skin cyst
+N18.3,"Chronic kidney disease, stage 3 (moderate)",3805,,1,Chronic kidney disease
+F32.9,"Major depressive disorder, single episode, unspecified",3784,1,1,Depression
+M79.601,Pain in right arm,3784,,1,Arm pain
+C50.211,Malig neoplm of upper-inner quadrant of right female breast,3769,,1,Breast cancer
+H35.369,"Drusen (degenerative) of macula, unspecified eye",3760,,1,Macular drusen
+T50.905A,"Adverse effect of unsp drug/meds/biol subst, init",3760,,1,Adverse effect of drug
+R59.9,"Enlarged lymph nodes, unspecified",3755,,1,Enlarged lymph nodes
+C09.0,Malignant neoplasm of tonsillar fossa,3754,,1,Tonsil cancer
+I82.90,Acute embolism and thrombosis of unspecified vein,3751,1,1,Venous thromboembolism
+F41.0,Panic disorder [episodic paroxysmal anxiety],3735,1,1,Panic disorder
+I82.402,Acute embolism and thombos unsp deep veins of l low extrem,3726,1,1,Venous thromboembolism
+I48.11,Longstanding persistent atrial fibrillation,3704,1,1,Atrial fibrillation
+L30.4,Erythema intertrigo,3698,,1,Intertrigo
+C79.9,Secondary malignant neoplasm of unspecified site,3688,,1,Secondary neoplasm
+C95.00,Acute leukemia of unsp cell type not achieve remission,3683,,1,Leukemia
+E85.9,"Amyloidosis, unspecified",3678,,1,Amyloidosis
+K29.70,"Gastritis, unspecified, without bleeding",3675,,1,Gastritis
+J33.9,"Nasal polyp, unspecified",3667,,1,Nasal polyp
+E09.9,Drug or chemical induced diabetes mellitus w/o complications,3661,1,1,Diabetes
+K11.8,Other diseases of salivary glands,3660,,1,Salivary gland disease
+G40.109,"Local-rel symptc epi w simp prt seiz,not ntrct, w/o stat epi",3659,,1,Epilepsy
+M19.071,"Primary osteoarthritis, right ankle and foot",3653,,1,Osteoarthritis
+C78.01,Secondary malignant neoplasm of right lung,3638,1,1,Lung cancer
+D23.5,Other benign neoplasm of skin of trunk,3637,1,1,Benign skin neoplasm
+H35.3190,"Nonexudative age-related mclr degn, unsp, stage unspecified",3607,,1,Macular degeneration
+I27.21,Secondary pulmonary arterial hypertension,3601,1,1,Pulmonary hypertension
+F10.10,"Alcohol abuse, uncomplicated",3599,,1,Alcohol use disorder
+C44.319,Basal cell carcinoma of skin of other parts of face,3594,1,1,Basal cell carcinoma
+C92.02,"Acute myeloblastic leukemia, in relapse",3592,,1,Leukemia
+E61.1,Iron deficiency,3587,1,1,Iron deficiency
+J45.21,Mild intermittent asthma with (acute) exacerbation,3574,,1,Asthma
+C83.10,"Mantle cell lymphoma, unspecified site",3552,,1,Lymphoma
+D04.39,Carcinoma in situ of skin of other parts of face,3539,,1,Skin cancer
+C16.0,Malignant neoplasm of cardia,3535,,1,Stomach cancer
+I42.1,Obstructive hypertrophic cardiomyopathy,3530,1,1,Cardiomyopathy
+B02.29,Other postherpetic nervous system involvement,3510,1,1,Herpes zoster
+K59.01,Slow transit constipation,3510,,1,Constipation
+F34.1,Dysthymic disorder,3502,1,1,Mood disorder
+J34.3,Hypertrophy of nasal turbinates,3502,,1,Hypertrophy of nasal turbinates
+G56.02,"Carpal tunnel syndrome, left upper limb",3496,,1,Carpal tunnel syndrome
+K12.30,"Oral mucositis (ulcerative), unspecified",3496,,1,Oral mucositis
+C77.0,"Sec and unsp malig neoplasm of nodes of head, face and neck",3471,1,1,Head and neck cancer
+J41.0,Simple chronic bronchitis,3467,,1,Bronchitis
+N20.1,Calculus of ureter,3466,,1,Kidney stone
+M70.61,"Trochanteric bursitis, right hip",3464,,1,Trochanteric bursitis
+G91.2,(Idiopathic) normal pressure hydrocephalus,3462,1,1,Normal pressure hydrocephalus
+L72.0,Epidermal cyst,3460,,1,Skin cyst
+C34.10,"Malignant neoplasm of upper lobe, unsp bronchus or lung",3438,1,1,Lung cancer
+J45.901,Unspecified asthma with (acute) exacerbation,3430,,1,Asthma
+R93.5,"Abn findings on dx imaging of abd regions, inc retroperiton",3420,,1,Abnormal imaging of abdominal region
+M19.072,"Primary osteoarthritis, left ankle and foot",3415,,1,Osteoarthritis
+N81.6,Rectocele,3410,,1,Rectocele
+M70.62,"Trochanteric bursitis, left hip",3407,,1,Trochanteric bursitis
+H53.9,Unspecified visual disturbance,3406,,1,Visual disturbance
+H81.10,"Benign paroxysmal vertigo, unspecified ear",3403,,1,Benign paroxysmal vertigo
+K64.9,Unspecified hemorrhoids,3395,,1,Hemorrhoid
+I78.1,"Nevus, non-neoplastic",3380,,1,Nevus
+B25.9,"Cytomegaloviral disease, unspecified",3379,1,1,Cytomegalovirus infection
+H61.20,"Impacted cerumen, unspecified ear",3371,,1,Impacted cerumen
+D75.89,Other specified diseases of blood and blood-forming organs,3365,,1,Disease of blood and blood-forming organs
+K75.4,Autoimmune hepatitis,3364,,1,Autoimmune hepatitis
+K83.1,Obstruction of bile duct,3354,,1,Occlusion of bile duct
+M65.9,"Synovitis and tenosynovitis, unspecified",3350,,1,Synovitis and tenosynovitis
+M54.30,"Sciatica, unspecified side",3348,,1,Sciatica
+N13.5,Crossing vessel and stricture of ureter w/o hydronephrosis,3348,,1,Ureteral stricture
+R06.89,Other abnormalities of breathing,3344,,1,Abnormal breathing
+N81.11,"Cystocele, midline",3341,,1,Cystocele
+M20.41,"Other hammer toe(s) (acquired), right foot",3336,,1,Hammer toe(s)
+I50.21,Acute systolic (congestive) heart failure,3329,1,1,Heart failure
+J96.11,Chronic respiratory failure with hypoxia,3328,,1,Respiratory failure
+C48.2,"Malignant neoplasm of peritoneum, unspecified",3320,,1,Peritoneal cancer
+D68.51,Activated protein C resistance,3298,,1,Thrombophilia
+R10.12,Left upper quadrant pain,3294,,1,Abdominal pain
+E74.39,Other disorders of intestinal carbohydrate absorption,3288,,1,Disorder of carbohydrate absorption
+R04.2,Hemoptysis,3280,,1,Hemoptysis
+R13.14,"Dysphagia, pharyngoesophageal phase",3269,,1,Dysphagia
+D53.9,"Nutritional anemia, unspecified",3260,1,1,Nutritional anemia
+N18.31,"Chronic kidney disease, stage 3a",3248,1,1,Chronic kidney disease
+M79.606,"Pain in leg, unspecified",3246,,1,Leg pain
+M41.9,"Scoliosis, unspecified",3244,,1,Scoliosis
+E44.0,Moderate protein-calorie malnutrition,3240,,1,Protein-calorie malnutrition
+M75.101,"Unsp rotatr-cuff tear/ruptr of right shoulder, not trauma",3227,,1,Shoulder rotator cuff injury
+I77.89,Other specified disorders of arteries and arterioles,3225,,1,Arterial disorder
+D51.9,"Vitamin B12 deficiency anemia, unspecified",3222,1,1,Vitamin B12 deficiency
+R92.1,Mammographic calcifcn found on diagnostic imaging of breast,3216,,1,Mammographic calcification
+G43.009,"Migraine w/o aura, not intractable, w/o status migrainosus",3210,,1,Migraine
+F43.9,"Reaction to severe stress, unspecified",3205,1,1,Reaction to severe stress
+M33.90,"Dermatopolymyositis, unsp, organ involvement unspecified",3203,,1,Dermatopolymyositis
+C79.89,Secondary malignant neoplasm of other specified sites,3192,1,1,Secondary neoplasm
+R17,Unspecified jaundice,3190,,1,Jaundice
+E11.49,Type 2 diabetes w oth diabetic neurological complication,3187,1,1,Diabetes
+C50.512,Malig neoplasm of lower-outer quadrant of left female breast,3186,,1,Breast cancer
+R22.0,"Localized swelling, mass and lump, head",3184,,1,"Localized swelling, mass and lump"
+L40.0,Psoriasis vulgaris,3180,,1,Psoriasis
+B00.9,"Herpesviral infection, unspecified",3178,1,1,Herpes simplex infection
+H20.9,Unspecified iridocyclitis,3175,1,1,Iridocyclitis
+M41.20,"Other idiopathic scoliosis, site unspecified",3172,,1,Scoliosis
+C10.9,"Malignant neoplasm of oropharynx, unspecified",3168,,1,Oropharyngeal cancer
+M05.9,"Rheumatoid arthritis with rheumatoid factor, unspecified",3168,,1,Rheumatoid arthritis
+G47.09,Other insomnia,3164,,1,Insomnia
+J47.1,Bronchiectasis with (acute) exacerbation,3158,,1,Bronchiectasis
+R11.10,"Vomiting, unspecified",3158,,1,Vomiting
+C84.19,"Sezary disease, extranodal and solid organ sites",3154,,1,Lymphoma
+N08,Glomerular disorders in diseases classified elsewhere,3152,,1,Glomerular disorder
+N63.10,"Unspecified lump in the right breast, unspecified quadrant",3152,,1,Breast lump
+C19,Malignant neoplasm of rectosigmoid junction,3148,,1,Colorectal cancer
+M79.662,Pain in left lower leg,3147,,1,Leg pain
+C85.10,"Unspecified B-cell lymphoma, unspecified site",3144,,1,Lymphoma
+M19.041,"Primary osteoarthritis, right hand",3140,,1,Osteoarthritis
+C77.2,Secondary and unsp malignant neoplasm of intra-abd nodes,3132,1,1,Secondary malignant neoplasm
+D68.61,Antiphospholipid syndrome,3128,,1,Thrombophilia
+E13.9,Other specified diabetes mellitus without complications,3127,1,1,Diabetes
+E16.2,"Hypoglycemia, unspecified",3121,1,1,Hypoglycemia
+C50.511,Malig neoplm of lower-outer quadrant of right female breast,3109,,1,Breast cancer
+D46.Z,Other myelodysplastic syndromes,3105,,1,Leukemia
+C85.89,"Oth types of non-hodg lymph, extrnod and solid organ sites",3103,,1,Lymphoma
+K31.84,Gastroparesis,3102,,1,Gastroparesis
+I44.30,Unspecified atrioventricular block,3097,,1,Atrioventricular block
+I20.0,Unstable angina,3091,,1,Unstable angina
+R59.1,Generalized enlarged lymph nodes,3082,,1,Enlarged lymph nodes
+F32.1,"Major depressive disorder, single episode, moderate",3079,1,1,Depression
+F32.0,"Major depressive disorder, single episode, mild",3078,1,1,Depression
+C56.2,Malignant neoplasm of left ovary,3071,,1,Ovarian cancer
+M20.11,"Hallux valgus (acquired), right foot",3065,,1,Hallux valgus
+E27.8,Other specified disorders of adrenal gland,3056,,1,Disorder of adrenal gland
+C25.2,Malignant neoplasm of tail of pancreas,3055,1,1,Pancreatic cancer
+K58.0,Irritable bowel syndrome with diarrhea,3053,,1,Irritable bowel syndrome
+M75.121,"Complete rotatr-cuff tear/ruptr of r shoulder, not trauma",3048,,1,Shoulder rotator cuff injury
+N94.89,Oth cond assoc w female genital organs and menstrual cycle,3046,,1,Disorder of female gential organs and menstrual cycle
+D3A.00,Benign carcinoid tumor of unspecified site,3045,1,1,Benign carcinoid tumor
+F33.41,"Major depressive disorder, recurrent, in partial remission",3044,1,1,Depression
+E11.59,Type 2 diabetes mellitus with oth circulatory complications,3037,1,1,Diabetes
+R07.0,Pain in throat,3037,,1,Throat pain
+C18.0,Malignant neoplasm of cecum,3035,,1,Colon cancer
+J91.0,Malignant pleural effusion,3028,1,1,Malignant pleural effusion
+R33.8,Other retention of urine,3025,1,1,Urinary retention
+J96.01,Acute respiratory failure with hypoxia,3022,,1,Respiratory failure
+R10.10,"Upper abdominal pain, unspecified",3021,,1,Abdominal pain
+L12.0,Bullous pemphigoid,3012,,1,Bullous pemphigoid
+M27.2,Inflammatory conditions of jaws,3012,,1,Disorder of jaw
+N31.9,"Neuromuscular dysfunction of bladder, unspecified",3004,,1,Disorder of bladder
+B35.3,Tinea pedis,2988,,1,Ringworm
+I70.213,"Athscl native arteries of extrm w intrmt claud, bi legs",2987,1,1,Peripheral arterial disease
+H40.1190,"Primary open-angle glaucoma, unsp, stage unspecified",2986,,1,Glaucoma
+F43.10,"Post-traumatic stress disorder, unspecified",2984,1,1,Post-traumatic stress disorder
+M54.10,"Radiculopathy, site unspecified",2977,1,1,Radiculopathy
+K51.00,Ulcerative (chronic) pancolitis without complications,2971,,1,Ulcerative colitis
+R94.2,Abnormal results of pulmonary function studies,2971,,1,Respiratory impairment
+M79.661,Pain in right lower leg,2969,,1,Leg pain
+R16.1,"Splenomegaly, not elsewhere classified",2969,,1,Splenomegaly
+A04.72,"Enterocolitis d/t Clostridium difficile, not spcf as recur",2957,,1,Clostridium difficile infection
+F33.0,"Major depressive disorder, recurrent, mild",2956,1,1,Depression
+H54.7,Unspecified visual loss,2956,,1,Visual disturbance
+K22.2,Esophageal obstruction,2956,,1,Esophageal obstruction
+I05.0,Rheumatic mitral stenosis,2953,1,1,Rheumatic valve disease
+D62,Acute posthemorrhagic anemia,2952,1,1,Anemia
+M20.12,"Hallux valgus (acquired), left foot",2949,,1,Hallux valgus
+R43.2,Parageusia,2946,,1,Parageusia
+C44.329,Squamous cell carcinoma of skin of other parts of face,2943,,1,Skin cancer
+I77.819,"Aortic ectasia, unspecified site",2940,,1,Aortic ectasia
+K70.30,Alcoholic cirrhosis of liver without ascites,2939,,1,Liver cirrhosis
+N30.01,Acute cystitis with hematuria,2911,1,1,Urinary tract infection
+B34.9,"Viral infection, unspecified",2909,,1,Viral infection
+C32.0,Malignant neoplasm of glottis,2907,1,1,Laryngeal cancer
+I46.9,"Cardiac arrest, cause unspecified",2904,1,1,Cardiac arrest
+R62.7,Adult failure to thrive,2902,,1,Failure to thrive
+C78.02,Secondary malignant neoplasm of left lung,2900,1,1,Lung cancer
+H02.831,Dermatochalasis of right upper eyelid,2896,,1,Dermatochalasis
+M20.42,"Other hammer toe(s) (acquired), left foot",2896,,1,Hammer toe(s)
+H02.834,Dermatochalasis of left upper eyelid,2891,,1,Dermatochalasis
+M19.079,"Primary osteoarthritis, unspecified ankle and foot",2886,,1,Osteoarthritis
+K70.31,Alcoholic cirrhosis of liver with ascites,2866,,1,Liver cirrhosis
+R22.2,"Localized swelling, mass and lump, trunk",2850,,1,"Localized swelling, mass and lump"
+H47.393,"Other disorders of optic disc, bilateral",2841,,1,Disorder of optic disc
+I08.0,Rheumatic disorders of both mitral and aortic valves,2829,1,1,Rheumatic valve disease
+C23,Malignant neoplasm of gallbladder,2826,,1,Gallbladder cancer
+K13.79,Other lesions of oral mucosa,2825,,1,Lesions of oral mucosa
+M25.461,"Effusion, right knee",2824,,1,Joint effusion
+C18.1,Malignant neoplasm of appendix,2818,,1,Colon cancer
+I70.1,Atherosclerosis of renal artery,2806,1,1,Atherosclerosis
+C51.9,"Malignant neoplasm of vulva, unspecified",2801,,1,Vulvar cancer
+E11.649,Type 2 diabetes mellitus with hypoglycemia without coma,2791,1,1,Diabetes
+E78.01,Familial hypercholesterolemia,2779,,1,Dyslipidemia
+C83.39,"Diffuse large B-cell lymphoma, extrnod and solid organ sites",2766,,1,Lymphoma
+L30.8,Other specified dermatitis,2759,,1,Dermatitis
+M85.88,"Oth disrd of bone density and structure, other site",2749,,1,Osteoporosis
+M79.673,Pain in unspecified foot,2740,,1,Ankle and foot pain
+N32.89,Other specified disorders of bladder,2735,,1,Disorder of bladder
+M35.9,"Systemic involvement of connective tissue, unspecified",2734,,1,Connective tissue disorder
+H93.12,"Tinnitus, left ear",2730,,1,Tinnitus
+H92.01,"Otalgia, right ear",2708,,1,Otalgia
+J15.9,Unspecified bacterial pneumonia,2706,1,1,Pneumonia
+F09,Unsp mental disorder due to known physiological condition,2706,,1,Mental disorder
+F20.9,"Schizophrenia, unspecified",2702,,1,Schizophrenia
+R70.0,Elevated erythrocyte sedimentation rate,2700,,1,Elevated erythrocyte sedimentation rate
+J41.1,Mucopurulent chronic bronchitis,2698,,1,Bronchitis
+C34.81,Malignant neoplasm of ovrlp sites of right bronchus and lung,2697,1,1,Lung cancer
+G43.109,"Migraine with aura, not intractable, w/o status migrainosus",2692,,1,Migraine
+L25.9,"Unspecified contact dermatitis, unspecified cause",2688,,1,Dermatitis
+L50.9,"Urticaria, unspecified",2687,,1,Urticaria
+K12.1,Other forms of stomatitis,2677,,1,Stomatitis
+R79.9,"Abnormal finding of blood chemistry, unspecified",2669,,1,Abnormal blood chemistry result
+N64.59,Other signs and symptoms in breast,2664,,1,Symptom of breast
+R79.1,Abnormal coagulation profile,2658,,1,Coagulopathy
+I25.110,Athscl heart disease of native cor art w unstable ang pctrs,2654,1,1,Coronary artery disease
+H35.3210,"Exudative age-rel mclr degn, right eye, stage unspecified",2652,,1,Macular degeneration
+F20.0,Paranoid schizophrenia,2650,,1,Schizophrenia
+M19.042,"Primary osteoarthritis, left hand",2648,,1,Osteoarthritis
+D36.9,"Benign neoplasm, unspecified site",2645,,1,Benign neoplasm
+H92.02,"Otalgia, left ear",2644,,1,Otalgia
+G45.8,Oth transient cerebral ischemic attacks and related synd,2641,1,1,Transient ischemic attack
+R39.198,Other difficulties with micturition,2637,,1,Urinary symptoms
+H02.403,Unspecified ptosis of bilateral eyelids,2636,,1,Ptosis
+M79.644,Pain in right finger(s),2631,,1,Finger pain
+H53.40,Unspecified visual field defects,2630,,1,Visual disturbance
+M75.41,Impingement syndrome of right shoulder,2625,,1,Shoulder impingement syndrome
+R45.89,Other symptoms and signs involving emotional state,2624,,1,Symptom of emotional state
+K62.89,Other specified diseases of anus and rectum,2616,,1,Anorectal disease
+H93.19,"Tinnitus, unspecified ear",2611,,1,Tinnitus
+K76.82,Hepatic encephalopathy,2606,,1,Hepatic encephalopathy
+I83.893,Varicose veins of bi low extrem w oth complications,2604,,1,Varicose veins of lower extremities
+C88.4,Extrnod mrgnl zn B-cell lymph of mucosa-assoc lymphoid tiss,2602,,1,Lymphoma
+H35.373,"Puckering of macula, bilateral",2602,,1,Macular puckering
+C50.312,Malig neoplasm of lower-inner quadrant of left female breast,2594,,1,Breast cancer
+R94.5,Abnormal results of liver function studies,2593,,1,Abnormal results of liver function studies
+N40.3,Nodular prostate with lower urinary tract symptoms,2591,,1,Prostate abnormality
+M62.830,Muscle spasm of back,2585,,1,Musculoskeletal pain
+N18.32,"Chronic kidney disease, stage 3b",2577,1,1,Chronic kidney disease
+G51.0,Bell's palsy,2567,,1,Bell's palsy
+I77.1,Stricture of artery,2566,,1,Arterial stenosis
+M72.0,Palmar fascial fibromatosis [Dupuytren],2563,,1,Dupuytren's disease
+D18.01,Hemangioma of skin and subcutaneous tissue,2561,1,1,Skin hemangioma
+H10.13,"Acute atopic conjunctivitis, bilateral",2561,,1,Conjunctivitis
+R23.2,Flushing,2559,,1,Flushing
+K42.9,Umbilical hernia without obstruction or gangrene,2558,,1,Hernia
+R40.0,Somnolence,2551,,1,Somnolence
+G63,Polyneuropathy in diseases classified elsewhere,2549,1,1,Neuropathy
+N83.202,"Unspecified ovarian cyst, left side",2548,1,1,Ovarian cyst
+R23.8,Other skin changes,2542,,1,Skin changes
+C56.1,Malignant neoplasm of right ovary,2537,,1,Ovarian cancer
+E23.0,Hypopituitarism,2524,1,1,Hypopituitarism
+L20.9,"Atopic dermatitis, unspecified",2518,,1,Atopic dermatitis
+E34.0,Carcinoid syndrome,2513,,1,Carcinoid syndrome
+F03.91,"Unsp dementia, unspecified severity, with behavioral disturb",2509,,1,Dementia
+J45.991,Cough variant asthma,2509,,1,Asthma
+L97.929,Non-prs chronic ulc unsp prt of l low leg w unsp severity,2507,,1,Chronic ulcer
+N81.84,Pelvic muscle wasting,2504,,1,Pelvic muscle wasting
+K74.3,Primary biliary cirrhosis,2494,,1,Primary biliary cirrhosis
+C50.311,Malig neoplm of lower-inner quadrant of right female breast,2492,,1,Breast cancer
+I45.9,"Conduction disorder, unspecified",2491,,1,Heart conduction disorder
+G31.83,Neurocognitive disorder with Lewy bodies,2490,,1,Dementia
+I21.9,"Acute myocardial infarction, unspecified",2483,1,1,Myocardial infarction
+I72.3,Aneurysm of iliac artery,2466,,1,Arterial aneurysm
+M25.522,Pain in left elbow,2462,,1,Elbow pain
+C53.9,"Malignant neoplasm of cervix uteri, unspecified",2460,,1,Cervical cancer
+C82.00,"Follicular lymphoma grade I, unspecified site",2456,,1,Lymphoma
+J45.41,Moderate persistent asthma with (acute) exacerbation,2439,,1,Asthma
+D46.20,"Refractory anemia with excess of blasts, unspecified",2438,,1,Leukemia
+I50.43,Acute on chronic combined systolic and diastolic hrt fail,2437,1,1,Heart failure
+R79.0,Abnormal level of blood mineral,2436,,1,Abnormal blood chemistry result
+T50.905D,"Adverse effect of unsp drug/meds/biol subst, subs",2432,,1,Adverse effect of drug
+D22.5,Melanocytic nevi of trunk,2428,,1,Melanocytic nevi
+I50.31,Acute diastolic (congestive) heart failure,2425,1,1,Heart failure
+L03.119,Cellulitis of unspecified part of limb,2422,1,1,Cellulitis
+C44.90,"Unspecified malignant neoplasm of skin, unspecified",2421,,1,Skin cancer
+I63.89,Other cerebral infarction,2417,1,1,Stroke
+G93.89,Other specified disorders of brain,2404,,1,Disorder of brain
+N34.2,Other urethritis,2395,1,1,Urethritis
+E08.21,Diabetes due to underlying condition w diabetic nephropathy,2394,1,1,Diabetes
+E27.40,Unspecified adrenocortical insufficiency,2392,1,1,Adrenal insufficiency
+M25.462,"Effusion, left knee",2391,,1,Joint effusion
+I71.9,"Aortic aneurysm of unspecified site, without rupture",2383,1,1,Aortic anneurysm
+K64.8,Other hemorrhoids,2383,,1,Hemorrhoid
+I26.09,Other pulmonary embolism with acute cor pulmonale,2375,1,,Pulmonary embolism
+J98.8,Other specified respiratory disorders,2359,1,,Respiratory disorder
+J69.0,Pneumonitis due to inhalation of food and vomit,2353,1,,Pneumonitis
+I71.019,"Dissection of thoracic aorta, unspecified",2347,1,,Aortic dissection
+E11.311,Type 2 diabetes w unsp diabetic retinopathy w macular edema,2345,1,,Diabetes
+N19,Unspecified kidney failure,2344,1,,Kidney failure
+N83.201,"Unspecified ovarian cyst, right side",2302,1,,Ovarian cyst
+F33.42,"Major depressive disorder, recurrent, in full remission",2291,1,,Depression
+E11.319,Type 2 diabetes w unsp diabetic rtnop w/o macular edema,2288,1,,Diabetes
+A69.20,"Lyme disease, unspecified",2284,1,,Lyme disease
+I70.90,Unspecified atherosclerosis,2260,1,,Atherosclerosis
+D59.10,"Autoimmune hemolytic anemia, unspecified",2235,1,,Hemolytic anemia
+I33.0,Acute and subacute infective endocarditis,2142,1,,Endocarditis
+F43.23,Adjustment disorder with mixed anxiety and depressed mood,2099,1,,Adjustment disorder
+J32.4,Chronic pansinusitis,2071,1,,Chronic sinusitis
+I13.0,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny,2063,1,,Hypertension
+D49.2,"Neoplasm of unsp behavior of bone, soft tissue, and skin",2062,1,,Bone neoplasm
+I21.3,ST elevation (STEMI) myocardial infarction of unsp site,2057,1,,Myocardial infarction
+I12.0,Hyp chr kidney disease w stage 5 chr kidney disease or ESRD,2050,1,,Hypertension
+K90.0,Celiac disease,2038,1,,Celiac disease
+R58,"Hemorrhage, not elsewhere classified",2038,1,,Hemorrhage
+I15.8,Other secondary hypertension,2024,1,,Hypertension
+E87.0,Hyperosmolality and hypernatremia,2009,1,,Hypernatremia
+D18.00,Hemangioma unspecified site,2008,1,,Hemangioma
+C32.1,Malignant neoplasm of supraglottis,1999,1,,Laryngeal cancer
+C34.30,"Malignant neoplasm of lower lobe, unsp bronchus or lung",1999,1,,Lung cancer
+I50.1,"Left ventricular failure, unspecified",1997,1,,Heart failure
+N30.90,"Cystitis, unspecified without hematuria",1951,1,,Urinary tract infection
+B96.89,Oth bacterial agents as the cause of diseases classd elswhr,1948,1,,Bacterial infection
+D61.9,"Aplastic anemia, unspecified",1946,1,,Aplastic anemia
+I49.01,Ventricular fibrillation,1941,1,,Ventricular fibrillation
+F31.81,Bipolar II disorder,1936,1,,Bipolar disorder
+C34.02,Malignant neoplasm of left main bronchus,1917,1,,Lung cancer
+I60.9,"Nontraumatic subarachnoid hemorrhage, unspecified",1910,1,,Subarachnoid hemorrhage
+I63.81,Other cereb infrc due to occls or stenosis of small artery,1898,1,,Stroke
+C34.82,Malignant neoplasm of ovrlp sites of left bronchus and lung,1878,1,,Lung cancer
+C77.3,Sec and unsp malig neoplasm of axilla and upper limb nodes,1874,1,,Secondary malignant neoplasm
+E83.39,Other disorders of phosphorus metabolism,1862,1,,Phosphorous metabolic disorder
+C44.519,Basal cell carcinoma of skin of other part of trunk,1857,1,,Skin cancer
+A31.9,"Mycobacterial infection, unspecified",1820,1,,Mycobacterial disease
+E10.65,Type 1 diabetes mellitus with hyperglycemia,1818,1,,Diabetes
+G60.3,Idiopathic progressive neuropathy,1808,1,,Neuropathy
+D49.89,Neoplasm of unspecified behavior of other specified sites,1798,1,,Neoplasm
+I15.9,"Secondary hypertension, unspecified",1779,1,,Hypertension
+I70.229,"Athscl native arteries of extrm w rest pain, unsp extremity",1751,1,,Peripheral arterial disease
+R57.0,Cardiogenic shock,1750,1,,Cardiogenic shock
+E11.3599,"Type 2 diab with prolif diab rtnop without mclr edema, unsp",1739,1,,Diabetes
+I71.00,Dissection of unspecified site of aorta,1736,1,,Aortic dissection
+F43.0,Acute stress reaction,1733,1,,Acute stress reaction
+R50.81,Fever presenting with conditions classified elsewhere,1722,1,,Fever
+E11.3293,"Type 2 diab with mild nonp rtnop without macular edema, bi",1703,1,,Diabetes
+N83.209,"Unspecified ovarian cyst, unspecified side",1697,1,,Ovarian cyst
+E10.8,Type 1 diabetes mellitus with unspecified complications,1674,1,,Diabetes
+I50.810,"Right heart failure, unspecified",1674,1,,Heart failure
+I82.403,"Acute embolism and thombos unsp deep veins of low extrm, bi",1673,1,,Venous embolism and thrombosis
+F33.9,"Major depressive disorder, recurrent, unspecified",1671,1,,Depression
+I16.0,Hypertensive urgency,1661,1,,Hypertension
+C84.00,"Mycosis fungoides, unspecified site",1660,1,,Lymphoma
+I06.0,Rheumatic aortic stenosis,1639,1,,Rheumatic valve disease
+C7A.090,Malignant carcinoid tumor of the bronchus and lung,1628,1,,Lung cancer
+E08.22,Diabetes due to undrl cond w diabetic chronic kidney disease,1624,1,,Diabetes
+M51.16,"Intervertebral disc disorders w radiculopathy, lumbar region",1610,1,,Degenerative disc disease
+M47.22,"Other spondylosis with radiculopathy, cervical region",1587,1,,Spondylosis
+C25.7,Malignant neoplasm of other parts of pancreas,1578,1,,Pancreatic cancer
+C44.41,Basal cell carcinoma of skin of scalp and neck,1576,1,,Skin cancer
+E11.43,Type 2 diabetes w diabetic autonomic (poly)neuropathy,1569,1,,Diabetes
+F43.20,"Adjustment disorder, unspecified",1536,1,,Adjustment disorder
+I71.03,Dissection of thoracoabdominal aorta,1527,1,,Aortic dissection
+B00.1,Herpesviral vesicular dermatitis,1521,1,,Herpes simplex
+K81.0,Acute cholecystitis,1521,1,,Cholecystitis
+D38.1,"Neoplasm of uncertain behavior of trachea, bronchus and lung",1502,1,,Lung cancer
+J67.9,Hypersensitivity pneumonitis due to unspecified organic dust,1502,1,,Hypersensitivity pneumonitis
+I27.29,Other secondary pulmonary hypertension,1496,1,,Pulmonary hypertension
+J20.8,Acute bronchitis due to other specified organisms,1493,1,,Bronchitis
+J01.80,Other acute sinusitis,1474,1,,Acute sinusitis
+I15.0,Renovascular hypertension,1428,1,,Hypertension
+G62.89,Other specified polyneuropathies,1424,1,,Neuropathy
+C34.80,Malignant neoplasm of ovrlp sites of unsp bronchus and lung,1421,1,,Lung cancer
+N30.10,Interstitial cystitis (chronic) without hematuria,1407,1,,Urinary tract infection
+I50.40,Unsp combined systolic and diastolic (congestive) hrt fail,1364,1,,Heart failure
+D3A.090,Benign carcinoid tumor of the bronchus and lung,1360,1,,Lung cancer
+I82.411,Acute embolism and thrombosis of right femoral vein,1358,1,,Venous embolism and thrombosis
+C11.9,"Malignant neoplasm of nasopharynx, unspecified",1335,1,,Nasopharyngeal cancer
+I71.60,"Thoracoabdominal aortic aneurysm, without rupture, unsp",1334,1,,Aortic anneurysm
+E11.3593,"Type 2 diab with prolif diab rtnop without macular edema, bi",1331,1,,Diabetes
+F32.2,"Major depressv disord, single epsd, sev w/o psych features",1327,1,,Depression
+D56.3,Thalassemia minor,1325,1,,Thalassemia
+D61.3,Idiopathic aplastic anemia,1313,1,,Aplastic anemia
+F42.9,"Obsessive-compulsive disorder, unspecified",1292,1,,Obsessive-compulsive disorder
+J01.01,Acute recurrent maxillary sinusitis,1280,1,,Acute sinusitis
+I21.19,STEMI involving oth coronary artery of inferior wall,1267,1,,Myocardial infarction
+E08.9,Diabetes due to underlying condition w/o complications,1254,1,,Diabetes
+K57.90,"Dvrtclos of intest, part unsp, w/o perf or abscess w/o bleed",1252,1,,Diverticulosis
+J01.10,"Acute frontal sinusitis, unspecified",1251,1,,Acute sinusitis
+I82.412,Acute embolism and thrombosis of left femoral vein,1244,1,,Venous embolism and thrombosis
+I13.10,"Hyp hrt & chr kdny dis w/o hrt fail, w stg 1-4/unsp chr kdny",1220,1,,Hypertension
+M00.9,"Pyogenic arthritis, unspecified",1217,1,,Pyogenic arthritis
+T46.6X5A,"Adverse effect of antihyperlip and antiarterio drugs, init",1174,1,,Adverse effect of drug
+I27.24,Chronic thromboembolic pulmonary hypertension,1169,1,,Pulmonary hypertension
+K81.9,"Cholecystitis, unspecified",1153,1,,Cholecystitis
+G45.3,Amaurosis fugax,1148,1,,Transient vision loss
+F43.22,Adjustment disorder with anxiety,1146,1,,Adjustment disorder
+C76.3,Malignant neoplasm of pelvis,1126,1,,Pelvic cancer
+F32.5,"Major depressive disorder, single episode, in full remission",1121,1,,Depression
+E06.5,Other chronic thyroiditis,1110,1,,Thyroiditis
+F33.40,"Major depressive disorder, recurrent, in remission, unsp",1110,1,,Depression
+I63.50,Cereb infrc due to unsp occls or stenos of unsp cereb artery,1091,1,,Stroke
+E11.610,Type 2 diabetes mellitus w diabetic neuropathic arthropathy,1085,1,,Diabetes
+I25.3,Aneurysm of heart,1076,1,,Heart aneurysm
+I21.09,STEMI involving oth coronary artery of anterior wall,1057,1,,Myocardial infarction
+E08.42,Diabetes due to underlying condition w diabetic polyneurop,1039,1,,Diabetes
+N30.40,Irradiation cystitis without hematuria,1039,1,,Urinary tract infection
+J81.1,Chronic pulmonary edema,1019,1,,Pulmonary edema
+F02.81,"Dem in other dis classd elswhr, unsp sev, with beh distrb",1016,1,,Dementia
+C7A.019,"Malignant carcinoid tumor of the sm int, unsp portion",1015,1,,Intestinal cancer
+N41.1,Chronic prostatitis,1013,1,,Prostatitis
+G60.0,Hereditary motor and sensory neuropathy,1010,1,,Neuropathy
+C78.89,Secondary malignant neoplasm of other digestive organs,1009,1,,Gastrointestinal cancer
+D59.9,"Acquired hemolytic anemia, unspecified",1001,1,,Hemolytic anemia
+E01.0,Iodine-deficiency related diffuse (endemic) goiter,1001,1,,Hypothyroidism
+C44.310,Basal cell carcinoma of skin of unspecified parts of face,999,1,,Skin cancer
+I31.9,"Disease of pericardium, unspecified",996,1,,Pericardial disease
+D61.810,Antineoplastic chemotherapy induced pancytopenia,995,1,,Chemotherapy related pancytopenia
+C79.2,Secondary malignant neoplasm of skin,974,1,,Skin cancer
+E06.9,"Thyroiditis, unspecified",969,1,,Thyroiditis
+I70.209,"Unsp athscl native arteries of extremities, unsp extremity",967,1,,Peripheral arterial disease
+I21.02,STEMI involving left anterior descending coronary artery,952,1,,Myocardial infarction
+I49.49,Other premature depolarization,931,1,,Premature cardiac depolarization
+M86.60,"Other chronic osteomyelitis, unspecified site",917,1,,Osteomyelitis
+E08.40,"Diabetes due to underlying condition w diabetic neurop, unsp",916,1,,Diabetes
+I05.1,Rheumatic mitral insufficiency,912,1,,Rheumatic valve disease
+T78.3XXA,"Angioneurotic edema, initial encounter",902,1,,Angioedema
+I26.02,Saddle embolus of pulmonary artery with acute cor pulmonale,890,1,,Pulmonary embolism
+I63.00,Cerebral infarction due to thombos unsp precerebral artery,881,1,,Stroke
+N30.41,Irradiation cystitis with hematuria,875,1,,Radiation cystitis
+J12.82,Pneumonia due to coronavirus disease 2019,873,1,,COVID-19 Pneumonia
+D59.12,Cold autoimmune hemolytic anemia,865,1,,Hemolytic anemia
+R57.9,"Shock, unspecified",860,1,,Shock
+I70.219,"Athscl native arteries of extrm w intrmt claud, unsp extrm",857,1,,Peripheral arterial disease
+I82.4Z1,Ac emblsm and thombos unsp deep veins of r dist low extrm,855,1,,Pulmonary embolism
+E11.628,Type 2 diabetes mellitus with other skin complications,848,1,,Diabetes
+E11.3313,"Type 2 diab with moderate nonp rtnop with macular edema, bi",843,1,,Diabetes
+K57.20,Dvtrcli of lg int w perforation and abscess w/o bleeding,842,1,,Diverticulitis
+G45.0,Vertebro-basilar artery syndrome,833,1,,Vertebro-basilar artery syndrome
+I70.211,"Athscl native arteries of extrm w intrmt claud, right leg",833,1,,Peripheral arterial disease
+L03.114,Cellulitis of left upper limb,831,1,,Cellulitis
+G60.8,Other hereditary and idiopathic neuropathies,830,1,,Neuropathy
+J01.91,"Acute recurrent sinusitis, unspecified",827,1,,Acute sinusitis
+G95.20,Unspecified cord compression,825,1,,Spinal cord compression
+I27.22,Pulmonary hypertension due to left heart disease,817,1,,Pulmonary hypertension
+D49.1,Neoplasm of unspecified behavior of respiratory system,816,1,,Lung neoplasm
+G45.4,Transient global amnesia,816,1,,Transient global amnesia
+I82.4Z2,Ac emblsm and thombos unsp deep veins of left dist low extrm,815,1,,Venous embolism and thrombosis
+T40.2X5A,"Adverse effect of other opioids, initial encounter",811,1,,Adverse effect of opioid
+I95.2,Hypotension due to drugs,807,1,,Drug-related hypotension
+F05,Delirium due to known physiological condition,806,1,,Delirium
+I15.2,Hypertension secondary to endocrine disorders,805,1,,Hypertension
+M47.16,"Other spondylosis with myelopathy, lumbar region",805,1,,Spondylosis
+I95.89,Other hypotension,803,1,,Hypotension
+G45.1,Carotid artery syndrome (hemispheric),798,1,,Carotid artery stenosis
+E10.649,Type 1 diabetes mellitus with hypoglycemia without coma,793,1,,Diabetes
+F31.70,"Bipolar disord, currently in remis, most recent episode unsp",775,1,,Bipolar disorder
+E05.20,Thyrotxcosis w toxic multinod goiter w/o thyrotoxic crisis,773,1,,Hyperthyroidism
+M86.171,"Other acute osteomyelitis, right ankle and foot",770,1,,Osteomyelitis
+D37.05,Neoplasm of uncertain behavior of pharynx,767,1,,Oropharyngeal neoplasm
+N41.0,Acute prostatitis,767,1,,Acute prostatitis
+I06.1,Rheumatic aortic insufficiency,766,1,,Rheumatic valve disease
+E08.621,Diabetes mellitus due to underlying condition w foot ulcer,761,1,,Diabetes
+L03.113,Cellulitis of right upper limb,759,1,,Cellulitis
+F32.4,"Major depressv disorder, single episode, in partial remis",758,1,,Depression
+I82.4Y9,Acute emblsm and thombos unsp deep vn unsp prox low extrm,758,1,,Venous embolism and thrombosis
+E10.22,Type 1 diabetes mellitus w diabetic chronic kidney disease,752,1,,Diabetes
+K57.31,Dvrtclos of lg int w/o perforation or abscess w bleeding,752,1,,Diverticulosis
+M62.82,Rhabdomyolysis,751,1,,Rhabdomyolysis
+D58.2,Other hemoglobinopathies,743,1,,Hemoglobinopathy
+N10,Acute pyelonephritis,733,1,,Pyelonephritis
+E11.622,Type 2 diabetes mellitus with other skin ulcer,726,1,,Diabetes
+I63.512,Cereb infrc d/t unsp occls or stenos of left mid cereb art,726,1,,Stroke
+I82.431,Acute embolism and thrombosis of right popliteal vein,715,1,,Venous embolism and thrombosis
+I21.11,STEMI involving right coronary artery,708,1,,Myocardial infarction
+A31.8,Other mycobacterial infections,706,1,,Mycobacterial disease
+E11.3513,"Type 2 diab with prolif diab rtnop with macular edema, bi",691,1,,Diabetes
+E04.0,Nontoxic diffuse goiter,690,1,,Thyroid abnormality
+N73.9,"Female pelvic inflammatory disease, unspecified",685,1,,Pelvic inflammatory disease
+I34.2,Nonrheumatic mitral (valve) stenosis,682,1,,Nonrheumatic valve disorder
+I82.4Z9,Acute emblsm and thombos unsp deep vn unsp distal low extrm,676,1,,Venous embolism and thrombosis
+C44.212,Basal cell carcinoma skin/ r ear and external auric canal,664,1,,Skin cancer
+I50.41,Acute combined systolic and diastolic (congestive) hrt fail,664,1,,Heart failure
+M86.10,"Other acute osteomyelitis, unspecified site",663,1,,Osteomyelitis
+M10.071,"Idiopathic gout, right ankle and foot",661,1,,Gout
+L03.011,Cellulitis of right finger,657,1,,Cellulitis
+I82.4Y2,Ac emblsm and thombos unsp deep veins of left prox low extrm,655,1,,Venous embolism and thrombosis
+H65.21,"Chronic serous otitis media, right ear",653,1,,Otitis media
+I82.432,Acute embolism and thrombosis of left popliteal vein,651,1,,Venous embolism and thrombosis
+I95.0,Idiopathic hypotension,647,1,,Hypotension
+M86.172,"Other acute osteomyelitis, left ankle and foot",641,1,,Osteomyelitis
+K55.1,Chronic vascular disorders of intestine,639,1,,Vascular disorder of intestine
+I70.212,"Athscl native arteries of extrm w intrmt claud, left leg",638,1,,Peripheral arterial disease
+J61,Pneumoconiosis due to asbestos and other mineral fibers,636,1,,Pneumoconiosis
+K65.1,Peritoneal abscess,636,1,,Peritoneal abscess
+C44.719,"Basal cell carcinoma skin/ left lower limb, including hip",633,1,,Skin cancer
+M54.14,"Radiculopathy, thoracic region",630,1,,Radiculopathy
+C25.4,Malignant neoplasm of endocrine pancreas,628,1,,Pancreatic cancer
+N17.0,Acute kidney failure with tubular necrosis,627,1,,Kidney failure
+C44.01,Basal cell carcinoma of skin of lip,625,1,,Skin cancer
+T78.3XXD,"Angioneurotic edema, subsequent encounter",625,1,,Angioedema
+I62.00,"Nontraumatic subdural hemorrhage, unspecified",624,1,,Subdural hemorrhage
+J81.0,Acute pulmonary edema,624,1,,Pulmonary edema
+D15.1,Benign neoplasm of heart,623,1,,Benign heart neoplasm
+I50.812,Chronic right heart failure,622,1,,Right heart failure
+H65.22,"Chronic serous otitis media, left ear",621,1,,Otitis media
+C44.712,"Basal cell carcinoma skin/ right lower limb, including hip",620,1,,Skin cancer
+C44.219,Basal cell carcinoma skin/ left ear and external auric canal,616,1,,Skin cancer
+E11.39,Type 2 diabetes w oth diabetic ophthalmic complication,614,1,,Diabetes
+I16.1,Hypertensive emergency,612,1,,Hypertension
+E21.1,"Secondary hyperparathyroidism, not elsewhere classified",611,1,,Hyperparathyroidism
+I26.92,Saddle embolus of pulmonary artery w/o acute cor pulmonale,607,1,,Pulmonary embolism
+J15.1,Pneumonia due to Pseudomonas,607,1,,Pneumonia
+I31.4,Cardiac tamponade,606,1,,Cardiac tamponade
+I42.7,Cardiomyopathy due to drug and external agent,606,1,,Cardiomyopathy
+T46.4X5A,"Adverse effect of angiotens-convert-enzyme inhibitors, init",599,1,,Adverse effect of ACE inhibitor
+I42.5,Other restrictive cardiomyopathy,597,1,,Cardiomyopathy
+D56.1,Beta thalassemia,594,1,,Thalassemia
+H66.91,"Otitis media, unspecified, right ear",587,1,,Otitis media
+F31.32,"Bipolar disorder, current episode depressed, moderate",584,1,,Bipolar disorder
+C25.8,Malignant neoplasm of overlapping sites of pancreas,576,1,,Pancreatic cancer
+I13.2,Hyp hrt & chr kdny dis w hrt fail and w stg 5 chr kdny/ESRD,575,1,,Hypertension
+I25.708,"Atherosclerosis of CABG, unsp, w oth angina pectoris",573,1,,Coronary artery disease
+I82.4Y1,Ac emblsm and thombos unsp deep veins of r prox low extrm,568,1,,Venous embolism and thrombosis
+F33.3,"Major depressv disorder, recurrent, severe w psych symptoms",566,1,,Depression
+R41.9,Unsp symptoms and signs w cognitive functions and awareness,561,1,,Cognitive symptoms
+B02.8,Zoster with other complications,559,1,,Herpes zoster
+I70.25,Athscl native arteries of extremities w ulceration,559,1,,Peripheral arterial disease
+M10.072,"Idiopathic gout, left ankle and foot",558,1,,Gout
+E11.10,Type 2 diabetes mellitus with ketoacidosis without coma,557,1,,Diabetes
+F31.30,"Bipolar disord, crnt epsd depress, mild or mod severt, unsp",556,1,,Bipolar disorder
+B19.10,Unspecified viral hepatitis B without hepatic coma,553,1,,Viral hepatitis
+T46.2X5A,"Adverse effect of other antidysrhythmic drugs, init encntr",552,1,,Adverse effect of drug
+C44.612,"Basal cell carcinoma skin/ right upper limb, inc shoulder",549,1,,Skin cancer
+M47.14,"Other spondylosis with myelopathy, thoracic region",549,1,,Spondylosis
+M47.27,"Other spondylosis with radiculopathy, lumbosacral region",547,1,,Spondylosis
+I82.502,Chronic embolism and thombos unsp deep veins of l low extrem,546,1,,Venous embolism and thrombosis
+I63.412,Cereb infrc due to embolism of left middle cerebral artery,544,1,,Stroke
+N85.00,"Endometrial hyperplasia, unspecified",544,1,,Endometrial hyperplasia
+E05.80,Other thyrotoxicosis without thyrotoxic crisis or storm,543,1,,Hyperthyroidism
+I27.9,"Pulmonary heart disease, unspecified",541,1,,Pulmonary hypertension
+C7A.012,Malignant carcinoid tumor of the ileum,538,1,,Intestinal cancer
+C44.619,"Basal cell carcinoma skin/ left upper limb, inc shoulder",537,1,,Skin cancer
+C7A.00,Malignant carcinoid tumor of unspecified site,533,1,,Malignant carcinoid tumor
+E86.1,Hypovolemia,531,1,,Volume depletion
+I82.419,Acute embolism and thrombosis of unspecified femoral vein,529,1,,Venous embolism and thrombosis
+I82.509,Chronic embolism and thombos unsp deep vn unsp low extrm,524,1,,Venous embolism and thrombosis
+F40.10,"Social phobia, unspecified",522,1,,Social phobia
+G11.9,"Hereditary ataxia, unspecified",522,1,,Ataxia
+I25.111,Athscl heart disease of native cor art w ang pctrs w spasm,522,1,,Coronary artery disease
+G61.82,Multifocal motor neuropathy,521,1,,Neuropathy
+H66.92,"Otitis media, unspecified, left ear",519,1,,Otitis media
+I71.23,"Aneurysm of the descending thoracic aorta, without rupture",517,1,,Aortic anneurysm
+D61.89,Oth aplastic anemias and other bone marrow failure syndromes,516,1,,Aplastic anemia
+I26.90,Septic pulmonary embolism without acute cor pulmonale,516,1,,Pulmonary embolism
+I45.81,Long QT syndrome,516,1,,Long QT syndrome
+E10.21,Type 1 diabetes mellitus with diabetic nephropathy,507,1,,Diabetes
+K55.069,"Acute infarction of intestine, part and extent unspecified",504,1,,Intestinal infarct
+H66.90,"Otitis media, unspecified, unspecified ear",501,1,,Otitis media
+I71.010,Dissection of ascending aorta,501,1,,Aortic dissection
+H60.391,"Other infective otitis externa, right ear",500,1,,Otitis externa
+L03.031,Cellulitis of right toe,500,1,,Cellulitis
+I71.22,"Aneurysm of the aortic arch, without rupture",492,1,,Aortic anneurysm
+G04.90,"Encephalitis and encephalomyelitis, unspecified",491,1,,Encephalitis and encephalomyelitis
+G61.0,Guillain-Barre syndrome,484,1,,Guillain-Barre Syndrome
+L03.032,Cellulitis of left toe,484,1,,Cellulitis
+L03.211,Cellulitis of face,484,1,,Cellulitis
+E11.3393,"Type 2 diab with mod nonp rtnop without macular edema, bi",481,1,,Diabetes
+D51.3,Other dietary vitamin B12 deficiency anemia,479,1,,Vitamin B12 Deficiency
+E10.69,Type 1 diabetes mellitus with other specified complication,479,1,,Diabetes
+I63.511,Cereb infrc d/t unsp occls or stenos of right mid cereb art,479,1,,Stroke
+E27.49,Other adrenocortical insufficiency,476,1,,Adrenal insufficiency
+M51.06,"Intervertebral disc disorders with myelopathy, lumbar region",475,1,,Intervertebral disc disorder
+I21.29,STEMI involving oth sites,473,1,,Myocardial infarction
+K63.1,Perforation of intestine (nontraumatic),473,1,,Perforated intestine
+C7B.02,Secondary carcinoid tumors of liver,467,1,,Liver cancer
+F40.240,Claustrophobia,465,1,,Claustrophobia
+L02.211,Cutaneous abscess of abdominal wall,465,1,,Abdominal wall abscess
+I26.01,Septic pulmonary embolism with acute cor pulmonale,457,1,,Pulmonary embolism
+T45.1X5S,"Adverse effect of antineopl and immunosup drugs, sequela",457,1,,Adverse drug effect
+E27.1,Primary adrenocortical insufficiency,453,1,,Adrenal insufficiency
+L03.012,Cellulitis of left finger,453,1,,Cellulitis
+I63.30,Cerebral infarction due to thombos unsp cerebral artery,452,1,,Stroke
+H65.91,"Unspecified nonsuppurative otitis media, right ear",451,1,,Otitis media
+E84.0,Cystic fibrosis with pulmonary manifestations,450,1,,Cystic fibrosis
+I25.700,"Atherosclerosis of CABG, unsp, w unstable angina pectoris",448,1,,Coronary artery disease
+H60.392,"Other infective otitis externa, left ear",446,1,,Otitis externa
+I31.1,Chronic constrictive pericarditis,445,1,,Pericarditis
+N61.0,Mastitis without abscess,445,1,,Mastitis
+I63.411,Cereb infrc due to embolism of right middle cerebral artery,443,1,,Stroke
+J18.1,"Lobar pneumonia, unspecified organism",440,1,,Pneumonia
+D18.03,Hemangioma of intra-abdominal structures,433,1,,Intra-abdominal hemangioma
+I35.2,Nonrheumatic aortic (valve) stenosis with insufficiency,431,1,,Nonrheumatic valve disorder
+I70.203,"Unsp athscl native arteries of extremities, bilateral legs",419,1,,Peripheral arterial disease
+E10.40,"Type 1 diabetes mellitus with diabetic neuropathy, unsp",418,1,,Diabetes
+L03.019,Cellulitis of unspecified finger,413,1,,Cellulitis
+L03.213,Periorbital cellulitis,413,1,,Cellulitis
+B02.30,"Zoster ocular disease, unspecified",412,1,,Herpes zoster
+D56.9,"Thalassemia, unspecified",412,1,,Thalassemia
+D57.3,Sickle-cell trait,410,1,,Sickle-cell trait
+D59.19,Other autoimmune hemolytic anemia,410,1,,Hemolytic anemia
+E11.41,Type 2 diabetes mellitus with diabetic mononeuropathy,410,1,,Diabetes
+F31.4,"Bipolar disord, crnt epsd depress, sev, w/o psych features",407,1,,Bipolar disorder
+J16.8,Pneumonia due to other specified infectious organisms,407,1,,Pneumonia
+J91.8,Pleural effusion in other conditions classified elsewhere,407,1,,Pleural effusion
+I61.0,"Nontraumatic intcrbl hemorrhage in hemisphere, subcortical",406,1,,Intracerebral hemorrhage
+M50.00,"Cervical disc disorder with myelopathy, unsp cervical region",406,1,,Cervical disc disorder
+B00.52,Herpesviral keratitis,394,1,,Herpes simplex
+G83.4,Cauda equina syndrome,392,1,,Cauda equina syndrome
+E61.2,Magnesium deficiency,391,1,,Magnesium deficiency
+I25.41,Coronary artery aneurysm,390,1,,Coronary artery disease
+H60.8X3,"Other otitis externa, bilateral",389,1,,Otitis externa
+K12.2,Cellulitis and abscess of mouth,389,1,,Cellulitis
+H65.93,"Unspecified nonsuppurative otitis media, bilateral",388,1,,Otitis media
+G24.01,Drug induced subacute dyskinesia,386,1,,Drug-induced dyskinesia
+G37.3,Acute transverse myelitis in demyelinating disease of cnsl,386,1,,Transverse myelitis
+G03.9,"Meningitis, unspecified",385,1,,Meningitis
+I27.23,Pulmonary hypertension due to lung diseases and hypoxia,382,1,,Pulmonary hypertension
+E11.3312,"Type 2 diab with mod nonp rtnop with macular edema, l eye",381,1,,Diabetes
+H65.499,"Other chronic nonsuppurative otitis media, unspecified ear",381,1,,Otitis media
+H93.A2,"Pulsatile tinnitus, left ear",381,1,,Tinnitus
+E03.1,Congenital hypothyroidism without goiter,376,1,,Hypothyroidism
+I82.499,Acute embolism and thrombosis of deep vein of unsp low extrm,376,1,,Venous embolism and thrombosis
+D38.0,Neoplasm of uncertain behavior of larynx,375,1,,Laryngeal neoplasm
+C7B.00,"Secondary carcinoid tumors, unspecified site",374,1,,Secondary carcinoid tumor
+E10.42,Type 1 diabetes mellitus with diabetic polyneuropathy,374,1,,Diabetes
+H91.22,"Sudden idiopathic hearing loss, left ear",373,1,,Hearing loss
+E11.3219,"Type 2 diab with mild nonp rtnop with macular edema, unsp",371,1,,Diabetes
+I63.49,Cerebral infarction due to embolism of other cerebral artery,371,1,,Stroke
+I71.30,"Abdominal aortic aneurysm, ruptured, unspecified",371,1,,Aortic anneurysm
+B02.33,Zoster keratitis,370,1,,Herpes zoster
+H71.92,"Unspecified cholesteatoma, left ear",369,1,,Cholesteatoma
+I82.501,Chronic embolism and thombos unsp deep veins of r low extrem,362,1,,Venous embolism and thrombosis
+D04.22,Ca in situ skin of left ear and external auricular canal,360,1,,Carcinoid tumor of skin
+E11.3291,"Type 2 diab with mild nonp rtnop without mclr edema, r eye",360,1,,Diabetes
+I25.709,"Atherosclerosis of CABG, unsp, w unsp angina pectoris",360,1,,Coronary artery disease
+J12.89,Other viral pneumonia,357,1,,Pneumonia
+E51.9,"Thiamine deficiency, unspecified",354,1,,Thiamine deficiency
+G96.01,"Cranial cerebrospinal fluid leak, spontaneous",352,1,,CSF leak
+I25.710,Athscl autologous vein CABG w unstable angina pectoris,351,1,,Coronary artery disease
+E11.3591,"Type 2 diab with prolif diab rtnop without mclr edema, r eye",350,1,,Diabetes
+H65.92,"Unspecified nonsuppurative otitis media, left ear",350,1,,Otitis media
+I82.512,Chronic embolism and thrombosis of left femoral vein,350,1,,Venous embolism and thrombosis
+E08.65,Diabetes due to underlying condition w hyperglycemia,347,1,,Diabetes
+H65.01,"Acute serous otitis media, right ear",347,1,,Otitis media
+I70.223,"Athscl native arteries of extrm w rest pain, bilateral legs",344,1,,Peripheral arterial disease
+D56.8,Other thalassemias,343,1,,Thalassemia
+F32.3,"Major depressv disord, single epsd, severe w psych features",343,1,,Depression
+H91.21,"Sudden idiopathic hearing loss, right ear",343,1,,Hearing loss
+D3A.019,"Benign carcinoid tumor of the small intestine, unsp portion",342,1,,Benign intestinal carcinoid tumor
+E02,Subclinical iodine-deficiency hypothyroidism,342,1,,Hypothyroidism
+J01.40,"Acute pansinusitis, unspecified",342,1,,Acute sinusitis
+M86.00,"Acute hematogenous osteomyelitis, unspecified site",342,1,,Osteomyelitis
+M86.671,"Other chronic osteomyelitis, right ankle and foot",339,1,,Osteomyelitis
+G96.00,"Cerebrospinal fluid leak, unspecified",335,1,,CSF leak
+I63.019,Cerebral infarction due to thombos unsp vertebral artery,334,1,,Stroke
+I63.031,Cerebral infrc due to thrombosis of right carotid artery,334,1,,Stroke
+B02.23,Postherpetic polyneuropathy,331,1,,Post-herpetic neuropathy
+I82.492,Acute embolism and thrombosis of deep vein of l low extrem,329,1,,Venous embolism and thrombosis
+I63.033,Cerebral infrc due to thombos of bilateral carotid arteries,328,1,,Stroke
+D49.59,Neoplasm of unspecified behavior of other GU organ,327,1,,Genitourinary neoplasm
+I63.02,Cerebral infarction due to thrombosis of basilar artery,326,1,,Stroke
+T50.2X5A,"Advrs eff of crbnc-anhydr inhibtr, benzo/oth diuretc, init",326,1,,Adverse effect of diuretic
+G99.2,Myelopathy in diseases classified elsewhere,325,1,,Myelopathy
+I82.491,Acute embolism and thrombosis of deep vein of r low extrem,325,1,,Venous embolism and thrombosis
+D59.4,Other nonautoimmune hemolytic anemias,322,1,,Hemolytic anemia
+I25.89,Other forms of chronic ischemic heart disease,320,1,,Chronic ischemic heart disease
+F40.01,Agoraphobia with panic disorder,316,1,,Agoraphobia
+J18.0,"Bronchopneumonia, unspecified organism",316,1,,Pneumonia
+E11.3311,"Type 2 diab with mod nonp rtnop with macular edema, r eye",315,1,,Diabetes
+D18.09,Hemangioma of other sites,314,1,,Hemangioma
+I25.811,Athscl native cor art of transplanted heart w/o ang pctrs,312,1,,Coronary artery disease
+B17.10,Acute hepatitis C without hepatic coma,310,1,,Viral hepatitis
+M10.09,"Idiopathic gout, multiple sites",309,1,,Gout
+B25.8,Other cytomegaloviral diseases,308,1,,Cytomegalovirus
+E11.52,Type 2 diabetes w diabetic peripheral angiopathy w gangrene,308,1,,Diabetes
+F40.243,Fear of flying,308,1,,Fear of flying
+I70.245,Athscl native arteries of left leg w ulceration oth prt foot,308,1,,Peripheral arterial disease
+D3A.098,Benign carcinoid tumors of other sites,306,1,,Benign carcinoid tumor
+E13.40,"Oth diabetes mellitus with diabetic neuropathy, unspecified",306,1,,Diabetes
+H93.A1,"Pulsatile tinnitus, right ear",306,1,,Tinnitus
+D21.4,Benign neoplasm of connective and oth soft tissue of abdomen,304,1,,Benign connective tissue neoplasm
+D60.9,"Acquired pure red cell aplasia, unspecified",304,1,,Pure red cell aplasia
+G40.901,"Epilepsy, unsp, not intractable, with status epilepticus",304,1,,Seizure disorder
+I63.10,Cerebral infarction due to embolism of unsp precerb artery,304,1,,Stroke
+E10.3599,"Type 1 diab with prolif diab rtnop without mclr edema, unsp",303,1,,Diabetes
+K65.4,Sclerosing mesenteritis,303,1,,Sclerosing mesenteritis
+I42.6,Alcoholic cardiomyopathy,302,1,,Cardiomyopathy
+C79.81,Secondary malignant neoplasm of breast,301,1,,Breast cancer
+H16.001,"Unspecified corneal ulcer, right eye",297,1,,Corneal ulcer
+I77.71,Dissection of carotid artery,297,1,,Carotid dissection
+I63.312,Cerebral infrc due to thombos of left middle cerebral artery,295,1,,Stroke
+T78.3XXS,"Angioneurotic edema, sequela",295,1,,Angioedema
+F43.12,"Post-traumatic stress disorder, chronic",293,1,,Post-traumatic stress disorder
+I50.82,Biventricular heart failure,293,1,,Heart failure
+A15.0,Tuberculosis of lung,291,1,,Mycobacterial disease
+F31.31,"Bipolar disorder, current episode depressed, mild",291,1,,Bipolar disorder
+E11.01,Type 2 diabetes mellitus with hyperosmolarity with coma,289,1,,Diabetes
+H65.02,"Acute serous otitis media, left ear",289,1,,Otitis media
+I63.239,Cereb infrc due to unsp occls or stenos of unsp crtd artery,289,1,,Stroke
+E08.8,Diabetes due to underlying condition w unsp complications,288,1,,Diabetes
+E10.319,Type 1 diabetes w unsp diabetic rtnop w/o macular edema,288,1,,Diabetes
+I82.413,"Acute embolism and thrombosis of femoral vein, bilateral",288,1,,Venous embolism and thrombosis
+E11.3511,"Type 2 diab with prolif diab rtnop with macular edema, r eye",287,1,,Diabetes
+H66.002,"Acute suppr otitis media w/o spon rupt ear drum, left ear",287,1,,Otitis media
+H71.91,"Unspecified cholesteatoma, right ear",285,1,,Cholesteatoma
+D14.1,Benign neoplasm of larynx,283,1,,Benign laryngeal neoplasm
+I62.03,Nontraumatic chronic subdural hemorrhage,283,1,,Subdural hemorrhage
+D04.21,Ca in situ skin of right ear and external auricular canal,281,1,,Skin cancer
+E11.641,Type 2 diabetes mellitus with hypoglycemia with coma,281,1,,Diabetes
+H65.23,"Chronic serous otitis media, bilateral",281,1,,Otitis media
+E10.29,Type 1 diabetes mellitus w oth diabetic kidney complication,280,1,,Diabetes
+I71.02,Dissection of abdominal aorta,279,1,,Aortic dissection
+J68.3,"Oth ac & subac resp cond d/t chemicals, gas, fumes & vapors",279,1,,Respiratory condition from environmental exposure
+D57.20,Sickle-cell/Hb-C disease without crisis,277,1,,Sickle-cell
+I82.5Y2,Chr emblsm and thombos unsp deep vn of left prox low extrm,277,1,,Venous embolism and thrombosis
+C84.08,"Mycosis fungoides, lymph nodes of multiple sites",276,1,,Lymphoma
+D59.39,Other hemolytic-uremic syndrome,276,1,,Hemolytic-uremic syndrome
+I63.311,Cereb infrc due to thombos of right middle cerebral artery,276,1,,Stroke
+C76.2,Malignant neoplasm of abdomen,274,1,,Abdominal cancer
+E11.3519,"Type 2 diab with prolif diab rtnop with macular edema, unsp",274,1,,Diabetes
+I00,Rheumatic fever without heart involvement,274,1,,Rheumatic fever
+N28.0,Ischemia and infarction of kidney,274,1,,Kidney infarction
+E11.3292,"Type 2 diab with mild nonp rtnop without mclr edema, l eye",272,1,,Diabetes
+H20.00,Unspecified acute and subacute iridocyclitis,272,1,,Iridocyclitis
+I82.511,Chronic embolism and thrombosis of right femoral vein,272,1,,Venous embolism and thrombosis
+E11.3512,"Type 2 diab with prolif diab rtnop with macular edema, l eye",271,1,,Diabetes
+D48.7,Neoplasm of uncertain behavior of other specified sites,270,1,,Neoplasm
+E10.51,Type 1 diabetes w diabetic peripheral angiopath w/o gangrene,270,1,,Diabetes
+E11.3213,"Type 2 diabetes with mild nonp rtnop with macular edema, bi",270,1,,Diabetes
+H20.13,"Chronic iridocyclitis, bilateral",270,1,,Iridocyclitis
+C25.3,Malignant neoplasm of pancreatic duct,269,1,,Pancreatic cancer
+M86.672,"Other chronic osteomyelitis, left ankle and foot",267,1,,Osteomyelitis
+L03.311,Cellulitis of abdominal wall,266,1,,Cellulitis
+D3A.012,Benign carcinoid tumor of the ileum,265,1,,Benign carcinoid tumor
+K37,Unspecified appendicitis,265,1,,Appendicitis
+D58.9,"Hereditary hemolytic anemia, unspecified",264,1,,Hemolytic anemia
+H16.002,"Unspecified corneal ulcer, left eye",263,1,,Corneal ulcer
+K57.80,"Dvtrcli of intest, part unsp, w perf and abscess w/o bleed",263,1,,Diverticulitis with perforation
+H66.001,"Acute suppr otitis media w/o spon rupt ear drum, right ear",262,1,,Otitis media
+C32.3,Malignant neoplasm of laryngeal cartilage,260,1,,Laryngeal cancer
+E08.41,Diabetes due to undrl condition w diabetic mononeuropathy,260,1,,Diabetes
+E87.29,Other acidosis,259,1,,Acidosis
+I63.59,Cereb infrc due to unsp occls or stenosis of cerebral artery,259,1,,Stroke
+J01.11,Acute recurrent frontal sinusitis,259,1,,Acute sinusitis
+I21.01,STEMI involving left main coronary artery,257,1,,Myocardial infarction
+I70.8,Atherosclerosis of other arteries,256,1,,Atherosclerosis
+J80,Acute respiratory distress syndrome,256,1,,Acute respiratory distress syndrome
+D37.8,Neoplasm of uncertain behavior of oth digestive organs,255,1,,Digestive tract neoplasm
+H66.3X2,"Other chronic suppurative otitis media, left ear",255,1,,Otitis media
+J84.116,Cryptogenic organizing pneumonia,255,1,,Cryptogenic organizing pneumonia
+E08.29,Diabetes due to undrl condition w oth diabetic kidney comp,253,1,,Diabetes
+I82.503,"Chronic emblsm and thombos unsp deep veins of low extrm, bi",253,1,,Venous embolism and thrombosis
+E07.89,Other specified disorders of thyroid,252,1,,Thyroid disorder
+E11.3399,"Type 2 diab with mod nonp rtnop without macular edema, unsp",252,1,,Diabetes
+G06.0,Intracranial abscess and granuloma,252,1,,Intracranial abscess
+T45.515A,"Adverse effect of anticoagulants, initial encounter",252,1,,Adverse effect of anticoagulant
+H66.3X1,"Other chronic suppurative otitis media, right ear",251,1,,Otitis media
+B37.49,Other urogenital candidiasis,250,1,,Urogenital Candidiasis
+C11.2,Malignant neoplasm of lateral wall of nasopharynx,250,1,,Nasopharyngeal cancer
+D73.5,Infarction of spleen,250,1,,Splenic infarction
+C79.82,Secondary malignant neoplasm of genital organs,248,1,,Secondary malignant neoplasm
+F43.81,Prolonged grief disorder,248,1,,Prolonged fried disorder
+B02.39,Other herpes zoster eye disease,247,1,,Herpes zoster
+C44.209,Unsp malig neoplasm skin/ left ear and external auric canal,247,1,,Skin cancer
+F33.8,Other recurrent depressive disorders,247,1,,Depression
+I82.5Z9,Chr emblsm and thombos unsp deep vn unsp distal low extrm,246,1,,Venous embolism and thrombosis
+J01.81,Other acute recurrent sinusitis,245,1,,Acute sinusitis
+I70.221,"Athscl native arteries of extremities w rest pain, right leg",244,1,,Peripheral arterial disease
+D53.1,"Other megaloblastic anemias, not elsewhere classified",241,1,,Megaloblastic anemia
+I70.235,Athscl native arteries of right leg w ulcer oth prt foot,239,1,,Peripheral arterial disease
+N30.80,Other cystitis without hematuria,239,1,,Urinary tract infection
+T78.2XXA,"Anaphylactic shock, unspecified, initial encounter",239,1,,Anaphylactic shock
+G61.9,"Inflammatory polyneuropathy, unspecified",238,1,,Neuropathy
+E05.10,Thyrotxcosis w toxic sing thyroid nodule w/o thyrotxc crisis,237,1,,Hyperthyroidism
+M10.079,"Idiopathic gout, unspecified ankle and foot",235,1,,Gout
+N61.1,Abscess of the breast and nipple,235,1,,Abscess of breast
+I71.10,"Thoracic aortic aneurysm, ruptured, unspecified",234,1,,Aortic anneurysm
+K82.9,"Disease of gallbladder, unspecified",233,1,,Gallbladder disease
+D02.0,Carcinoma in situ of larynx,232,1,,Laryngeal cancer
+I08.1,Rheumatic disorders of both mitral and tricuspid valves,232,1,,Rheumatic valve disease
+T46.2X1A,"Poisoning by oth antidysrhythmic drugs, accidental, init",232,1,,Adverse effect of ant-arrhythmic drug
+L03.221,Cellulitis of neck,231,1,,Cellulitis
+H93.A9,"Pulsatile tinnitus, unspecified ear",230,1,,Tinnitus
+D3A.092,Benign carcinoid tumor of the stomach,229,1,,Benign carcinoid tumor
+G62.2,Polyneuropathy due to other toxic agents,229,1,,Neuropathy
+H65.00,"Acute serous otitis media, unspecified ear",228,1,,Otitis media
+I50.813,Acute on chronic right heart failure,227,1,,Heart failure
+L03.319,"Cellulitis of trunk, unspecified",226,1,,Cellulitis
+K57.91,"Dvrtclos of intest, part unsp, w/o perf or abscess w bleed",225,1,,Diverticulosis
+E21.5,"Disorder of parathyroid gland, unspecified",224,1,,Parathyroid disorder
+C49.4,Malignant neoplasm of connective and soft tissue of abdomen,223,1,,Abdominal cancer
+E10.10,Type 1 diabetes mellitus with ketoacidosis without coma,223,1,,Diabetes
+M46.46,"Discitis, unspecified, lumbar region",223,1,,Discitis
+K65.9,"Peritonitis, unspecified",222,1,,Peritonitis
+H66.93,"Otitis media, unspecified, bilateral",221,1,,Otitis media
+I25.82,Chronic total occlusion of coronary artery,221,1,,Coronary artery disease
+H65.493,"Other chronic nonsuppurative otitis media, bilateral",220,1,,Otitis media
+I70.201,"Unsp athscl native arteries of extremities, right leg",220,1,,Peripheral arterial disease
+Q79.60,"Ehlers-Danlos syndrome, unspecified",219,1,,Ehlers-Danlos syndrome
+H66.3X3,"Other chronic suppurative otitis media, bilateral",218,1,,Otitis media
+E13.42,Oth diabetes mellitus with diabetic polyneuropathy,217,1,,Diabetes
+I25.758,Athscl native cor art of transplanted heart w oth ang pctrs,217,1,,Coronary artery disease
+L03.818,Cellulitis of other sites,216,1,,Cellulitis
+H16.9,Unspecified keratitis,215,1,,Keratitis
+I70.261,"Athscl native arteries of extremities w gangrene, right leg",215,1,,Peripheral arterial disease
+T39.395A,"Adverse effect of nonsteroidal anti-inflammatory drugs, init",215,1,,Adverse effect of NSAID
+I63.139,Cerebral infarction due to embolism of unsp carotid artery,213,1,,Stroke
+K61.1,Rectal abscess,212,1,,Rectal abscess
+B02.22,Postherpetic trigeminal neuralgia,209,1,,Post-herpetic neuropathy
+F43.29,Adjustment disorder with other symptoms,209,1,,Adjustment disorder
+A41.01,Sepsis due to Methicillin susceptible Staphylococcus aureus,207,1,,Sepsis
+E21.2,Other hyperparathyroidism,207,1,,Hyperparathyroidism
+H20.12,"Chronic iridocyclitis, left eye",207,1,,Iridocyclitis
+N83.299,"Other ovarian cyst, unspecified side",207,1,,Ovarian cyst
+E84.9,"Cystic fibrosis, unspecified",206,1,,Cystic fibrosis
+F31.76,"Bipolar disorder, in full remis, most recent episode depress",206,1,,Bipolar disorder
+H60.312,"Diffuse otitis externa, left ear",206,1,,Otitis externa
+H60.92,"Unspecified otitis externa, left ear",206,1,,Otitis externa
+B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis,205,1,,Herpes simplex
+D13.6,Benign neoplasm of pancreas,204,1,,Benign pancreatic neoplasm
+E53.1,Pyridoxine deficiency,204,1,,Vitamin B6 deficiency
+I50.84,End stage heart failure,203,1,,Heart failure
+K22.3,Perforation of esophagus,202,1,,Esophageal perforation
+B39.9,"Histoplasmosis, unspecified",201,1,,Histoplasmosis
+H60.91,"Unspecified otitis externa, right ear",201,1,,Otitis externa
+E10.621,Type 1 diabetes mellitus with foot ulcer,199,1,,Diabetes
+I40.1,Isolated myocarditis,199,1,,Myocarditis
+H60.311,"Diffuse otitis externa, right ear",198,1,,Otitis externa
+K61.2,Anorectal abscess,198,1,,Anorectal abscess
+D53.8,Other specified nutritional anemias,197,1,,Anemia
+N30.91,"Cystitis, unspecified with hematuria",197,1,,Urinary tract infection
+H93.A3,"Pulsatile tinnitus, bilateral",196,1,,Tinnitus
+H15.002,"Unspecified scleritis, left eye",195,1,,Scleritis
+H16.223,"Keratoconjunct sicca, not specified as Sjogren's, bilateral",195,1,,Keratitis
+E11.3592,"Type 2 diab with prolif diab rtnop without mclr edema, l eye",194,1,,Diabetes
+H65.492,"Other chronic nonsuppurative otitis media, left ear",194,1,,Otitis media
+I82.441,Acute embolism and thrombosis of right tibial vein,194,1,,Venous embolism and thrombosis
+J01.20,"Acute ethmoidal sinusitis, unspecified",194,1,,Acute sinusitis
+G90.01,Carotid sinus syncope,193,1,,Syncope
+H65.491,"Other chronic nonsuppurative otitis media, right ear",193,1,,Otitis media
+I30.9,"Acute pericarditis, unspecified",193,1,,Pericarditis
+C44.202,Unsp malig neoplasm skin/ right ear and external auric canal,192,1,,Skin cancer
+I70.222,"Athscl native arteries of extremities w rest pain, left leg",192,1,,Peripheral arterial disease
+N30.20,Other chronic cystitis without hematuria,192,1,,Urinary tract infection
+G93.2,Benign intracranial hypertension,191,1,,Benign intracranial hypertension
+K81.1,Chronic cholecystitis,191,1,,Cholecystitis
+C44.1192,"Basal cell carcinoma skin/ left lower eyelid, inc canthus",190,1,,Skin cancer
+C7A.092,Malignant carcinoid tumor of the stomach,190,1,,Stomach cancer
+I82.5Z2,Chr emblsm and thombos unsp deep vn of left dist low extrm,190,1,,Venous embolism and thrombosis
+E10.3593,"Type 1 diab with prolif diab rtnop without macular edema, bi",189,1,,Diabetes
+G06.1,Intraspinal abscess and granuloma,188,1,,Intraspinal abscess
+I63.039,Cerebral infarction due to thrombosis of unsp carotid artery,188,1,,Stroke
+F31.2,"Bipolar disord, crnt episode manic severe w psych features",187,1,,Bipolar disorder
+G08,Intracranial and intraspinal phlebitis and thrombophlebitis,187,1,,Intracranial and intraspinal phlebitis and thrombophlebitis
+H15.001,"Unspecified scleritis, right eye",187,1,,Scleritis
+N17.8,Other acute kidney failure,187,1,,Kidney failure
+H60.501,"Unspecified acute noninfective otitis externa, right ear",185,1,,Otitis externa
+I71.43,"Infrarenal abdominal aortic aneurysm, without rupture",184,1,,Aortic anneurysm
+I71.012,Dissection of descending thoracic aorta,183,1,,Aortic dissection
+I82.4Z3,"Ac emblsm and thombos unsp deep veins of dist low extrm, bi",183,1,,Venous embolism and thrombosis
+H60.313,"Diffuse otitis externa, bilateral",182,1,,Otitis externa
+I70.262,"Athscl native arteries of extremities w gangrene, left leg",182,1,,Peripheral arterial disease
+E11.3493,"Type 2 diab with severe nonp rtnop without macular edema, bi",180,1,,Diabetes
+A15.9,Respiratory tuberculosis unspecified,179,1,,Mycobacterial disease
+I82.531,Chronic embolism and thrombosis of right popliteal vein,179,1,,Venous embolism and thrombosis
+C44.1122,"Basal cell carcinoma skin/ right lower eyelid, inc canthus",177,1,,Skin cancer
+D59.5,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],176,1,,Paroxysmal nocturnal hemoglobinuria
+I63.09,Cerebral infarction due to thrombosis of precerebral artery,176,1,,Stroke
+F40.298,Other specified phobia,175,1,,Other phobia
+F31.74,"Bipolar disorder, in full remis, most recent episode manic",174,1,,Bipolar disorder
+I63.032,Cerebral infarction due to thrombosis of left carotid artery,172,1,,Stroke
+I63.20,Cereb infrc due to unsp occls or stenos of unsp precerb art,172,1,,Stroke
+D61.82,Myelophthisis,170,1,,Myelophthistic anemia
+I63.231,Cereb infrc due to unsp occls or stenos of right carotid art,169,1,,Stroke
+J12.9,"Viral pneumonia, unspecified",169,1,,Viral pneumonia
+M72.6,Necrotizing fasciitis,169,1,,Necrotizing fasciitis
+E10.43,Type 1 diabetes w diabetic autonomic (poly)neuropathy,168,1,,Diabetes
+J15.211,Pneumonia due to methicillin suscep staph,168,1,,Pneumonia
+H60.502,"Unspecified acute noninfective otitis externa, left ear",167,1,,Otitis externa
+C7A.021,Malignant carcinoid tumor of the cecum,166,1,,Colorectal cancer
+E08.01,Diabetes due to underlying condition w hyprosm w coma,166,1,,Diabetes
+M86.661,"Other chronic osteomyelitis, right tibia and fibula",166,1,,Osteomyelitis
+E13.319,Oth diabetes w unsp diabetic retinopathy w/o macular edema,165,1,,Diabetes
+L03.317,Cellulitis of buttock,165,1,,Cellulitis
+K61.0,Anal abscess,164,1,,Anorectal abscess
+I63.232,Cereb infrc due to unsp occls or stenos of left carotid art,163,1,,Stroke
+I82.5Y1,Chr emblsm and thombos unsp deep veins of r prox low extrm,163,1,,Venous embolism and thrombosis
+I82.5Z1,Chr emblsm and thombos unsp deep veins of r dist low extrm,163,1,,Venous embolism and thrombosis
+M31.5,Giant cell arteritis with polymyalgia rheumatica,163,1,,Giant cell arteritis
+E11.3391,"Type 2 diab with mod nonp rtnop without macular edema, r eye",162,1,,Diabetes
+I63.22,Cereb infrc due to unsp occls or stenosis of basilar artery,162,1,,Stroke
+I77.74,Dissection of vertebral artery,162,1,,Arterial dissection
+I82.442,Acute embolism and thrombosis of left tibial vein,162,1,,Venous embolism and thrombosis
+J98.51,Mediastinitis,162,1,,Mediastinitis
+H65.20,"Chronic serous otitis media, unspecified ear",160,1,,Otitis media
+F42.2,Mixed obsessional thoughts and acts,159,1,,Obsessive-compulsive disorder
+I50.814,Right heart failure due to left heart failure,159,1,,Heart failure
+I82.451,Acute embolism and thrombosis of right peroneal vein,159,1,,Venous embolism and thrombosis
+E11.3413,"Type 2 diab with severe nonp rtnop with macular edema, bi",158,1,,Diabetes
+I25.42,Coronary artery dissection,158,1,,Coronary artery disease
+J18.8,"Other pneumonia, unspecified organism",158,1,,Pneumonia
+K57.10,Dvrtclos of sm int w/o perforation or abscess w/o bleeding,157,1,,Diverticulosis
+M51.17,"Intvrt disc disorders w radiculopathy, lumbosacral region",157,1,,Intervertebral disc disorder
+J84.111,"Idiopathic interstitial pneumonia, not otherwise specified",156,1,,Interstitial lung disease
+K57.33,Dvtrcli of lg int w/o perforation or abscess w bleeding,156,1,,Diverticulitis
+F31.0,"Bipolar disorder, current episode hypomanic",155,1,,Bipolar disorder
+F31.5,"Bipolar disord, crnt epsd depress, severe, w psych features",155,1,,Bipolar disorder
+I21.21,STEMI involving left circumflex coronary artery,155,1,,Myocardial infarction
+I70.202,"Unsp athscl native arteries of extremities, left leg",155,1,,Peripheral arterial disease
+D52.0,Dietary folate deficiency anemia,154,1,,Folic acid deficiency
+F31.10,"Bipolar disord, crnt episode manic w/o psych features, unsp",154,1,,Bipolar disorder
+I70.208,"Unsp athscl native arteries of extremities, oth extremity",154,1,,Peripheral arterial disease
+H65.03,"Acute serous otitis media, bilateral",153,1,,Otitis media
+I95.81,Postprocedural hypotension,153,1,,Hypotension
+E08.3519,"Diabetes with prolif diabetic rtnop with macular edema, unsp",151,1,,Diabetes
+E11.618,Type 2 diabetes mellitus with other diabetic arthropathy,151,1,,Diabetes
+H60.543,"Acute eczematoid otitis externa, bilateral",150,1,,Otitis externa
+I63.132,Cerebral infarction due to embolism of left carotid artery,150,1,,Stroke
+I71.011,Dissection of aortic arch,149,1,,Aortic dissection
+J82.83,Eosinophilic asthma,149,1,,Asthma
+C7B.09,Secondary carcinoid tumors of other sites,148,1,,Secondary carcinoid tumor
+J82.89,"Other pulmonary eosinophilia, not elsewhere classified",148,1,,Pulmonary eosinophilia
+E13.49,Oth diabetes w oth diabetic neurological complication,145,1,,Diabetes
+F31.60,"Bipolar disorder, current episode mixed, unspecified",145,1,,Bipolar disorder
+C32.8,Malignant neoplasm of overlapping sites of larynx,144,1,,Laryngeal cancer
+I60.7,Nontraumatic subarachnoid hemorrhage from unsp intracran art,144,1,,Subarachnoid hemorrhage
+I82.422,Acute embolism and thrombosis of left iliac vein,144,1,,Venous embolism and thrombosis
+J85.1,Abscess of lung with pneumonia,143,1,,Lung abscess
+J14,Pneumonia due to Hemophilus influenzae,142,1,,Pneumonia
+M86.271,"Subacute osteomyelitis, right ankle and foot",142,1,,Osteomyelitis
+N15.1,Renal and perinephric abscess,142,1,,Renal abscess
+H60.393,"Other infective otitis externa, bilateral",141,1,,Otitis externa
+C44.509,Unsp malignant neoplasm of skin of other part of trunk,139,1,,Skin cancer
+G90.09,Other idiopathic peripheral autonomic neuropathy,139,1,,Neuropathy
+H40.2230,"Chronic angle-closure glaucoma, bilateral, stage unspecified",139,1,,Glaucoma
+I30.0,Acute nonspecific idiopathic pericarditis,139,1,,Pericarditis
+J13,Pneumonia due to Streptococcus pneumoniae,139,1,,Pneumonia
+R50.82,Postprocedural fever,139,1,,Fever
+K65.2,Spontaneous bacterial peritonitis,138,1,,Spontaneous bacterial peritonitis
+E80.1,Porphyria cutanea tarda,137,1,,Porphyria
+H16.212,"Exposure keratoconjunctivitis, left eye",136,1,,Keratitis
+C7A.029,"Malignant carcinoid tumor of the lg int, unsp portion",135,1,,Colorectal cancer
+E10.311,Type 1 diabetes w unsp diabetic retinopathy w macular edema,135,1,,Diabetes
+E11.44,Type 2 diabetes mellitus with diabetic amyotrophy,135,1,,Diabetes
+C7A.026,Malignant carcinoid tumor of the rectum,134,1,,Rectal cancer
+L03.313,Cellulitis of chest wall,134,1,,Cellulitis
+E83.30,"Disorder of phosphorus metabolism, unspecified",133,1,,Phosphorous metabolic disorder
+G61.89,Other inflammatory polyneuropathies,133,1,,Neuropathy
+B45.1,Cerebral cryptococcosis,132,1,,Cerebral cryptococcosis
+E27.3,Drug-induced adrenocortical insufficiency,132,1,,Adrenocortical insufficiency
+H60.399,"Other infective otitis externa, unspecified ear",131,1,,Otitis externa
+H60.63,"Unspecified chronic otitis externa, bilateral",130,1,,Otitis externa
+I63.531,Cereb infrc d/t unsp occls or stenos of right post cereb art,130,1,,Stroke
+I82.5Y9,Chronic emblsm and thombos unsp deep vn unsp prox low extrm,130,1,,Venous embolism and thrombosis
+J01.41,Acute recurrent pansinusitis,130,1,,Acute sinusitis
+E13.621,Other specified diabetes mellitus with foot ulcer,129,1,,Diabetes
+F42.3,Hoarding disorder,129,1,,Hoarding disorder
+G32.81,Cerebellar ataxia in diseases classified elsewhere,129,1,,Cerebellar ataxia
+F31.64,"Bipolar disord, crnt episode mixed, severe, w psych features",128,1,,Bipolar disorder
+I82.452,Acute embolism and thrombosis of left peroneal vein,128,1,,Venous embolism and thrombosis
+M46.40,"Discitis, unspecified, site unspecified",128,1,,Discitis
+T38.0X5D,"Adverse effect of glucocort/synth analog, subs",128,1,,Adverse effect of glucocorticoid
+H15.009,"Unspecified scleritis, unspecified eye",127,1,,Scleritis
+E11.3553,"Type 2 diabetes with stable prolif diabetic rtnop, bilateral",126,1,,Diabetes
+E13.8,Oth diabetes mellitus with unspecified complications,126,1,,Diabetes
+F31.75,"Bipolar disord, in partial remis, most recent epsd depress",126,1,,Bipolar disorder
+F31.78,"Bipolar disorder, in full remis, most recent episode mixed",126,1,,Bipolar disorder
+H20.022,"Recurrent acute iridocyclitis, left eye",126,1,,Iridocyclitis
+A41.89,Other specified sepsis,125,1,,Sepsis
+E06.4,Drug-induced thyroiditis,125,1,,Thyroiditis
+E13.69,Oth diabetes mellitus with other specified complication,124,1,,Diabetes
+H16.232,"Neurotrophic keratoconjunctivitis, left eye",124,1,,Keratitis
+I63.131,Cerebral infarction due to embolism of right carotid artery,124,1,,Stroke
+E11.3499,"Type 2 diab with severe nonp rtnop without mclr edema, unsp",123,1,,Diabetes
+M10.30,"Gout due to renal impairment, unspecified site",123,1,,Gout
+T78.2XXD,"Anaphylactic shock, unspecified, subsequent encounter",123,1,,Anaphylactic shock
+G62.1,Alcoholic polyneuropathy,122,1,,Alcoholic neuropathy
+B02.21,Postherpetic geniculate ganglionitis,121,1,,Varicella zoster
+I70.234,Athscl native art of right leg w ulcer of heel and midfoot,121,1,,Peripheral arterial disease
+E10.3293,"Type 1 diab with mild nonp rtnop without macular edema, bi",120,1,,Diabetes
+E60,Dietary zinc deficiency,120,1,,Zinc deficiency
+H40.20X0,"Unsp primary angle-closure glaucoma, stage unspecified",120,1,,Glaucoma
+H91.20,"Sudden idiopathic hearing loss, unspecified ear",120,1,,Hearing loss
+H40.2233,"Chronic angle-closure glaucoma, bilateral, severe stage",119,1,,Glaucoma
+I70.91,Generalized atherosclerosis,119,1,,Atherosclerosis
+I77.79,Dissection of other specified artery,119,1,,Arterial dissection
+F40.00,"Agoraphobia, unspecified",118,1,,Agoraphobia
+I63.12,Cerebral infarction due to embolism of basilar artery,118,1,,Stroke
+I82.493,"Acute embolism and thombos of deep vein of low extrm, bi",118,1,,Pulmonary embolism
+E03.3,Postinfectious hypothyroidism,117,1,,Hypothyroidism
+E08.43,Diab due to undrl cond w diabetic autonm (poly)neuropathy,117,1,,Diabetes
+H20.021,"Recurrent acute iridocyclitis, right eye",117,1,,Iridocyclitis
+I63.011,Cerebral infarction due to thrombosis of r verteb art,117,1,,Stroke
+B27.00,Gammaherpesviral mononucleosis without complication,116,1,,Infectious mononucleosis
+D61.01,Constitutional (pure) red blood cell aplasia,116,1,,Pure red cell aplasia
+F41.3,Other mixed anxiety disorders,116,1,,Anxiety
+H15.003,"Unspecified scleritis, bilateral",116,1,,Scleritis
+I63.39,Cerebral infarction due to thrombosis of oth cerebral artery,116,1,,Stroke
+J01.21,Acute recurrent ethmoidal sinusitis,116,1,,Acute sinusitis
+C44.201,Unsp malig neoplasm skin/ unsp ear and external auric canal,115,1,,Skin cancer
+I63.432,Cerebral infrc due to embolism of left post cerebral artery,115,1,,Stroke
+I82.421,Acute embolism and thrombosis of right iliac vein,115,1,,Venous embolism and thrombosis
+I06.2,Rheumatic aortic stenosis with insufficiency,114,1,,Rheumatic valve disease
+M00.861,"Arthritis due to other bacteria, right knee",114,1,,Septic arthritis
+H10.89,Other conjunctivitis,113,1,,Conjunctivitis
+B15.9,Hepatitis A without hepatic coma,112,1,,Viral hepatitis
+C11.0,Malignant neoplasm of superior wall of nasopharynx,112,1,,Nasopharyngeal cancer
+C7A.098,Malignant carcinoid tumors of other sites,112,1,,Malignant carcinoid tumor
+M51.04,"Intervertebral disc disorders w myelopathy, thoracic region",112,1,,Intervertebral disc disorder
+M86.68,"Other chronic osteomyelitis, other site",112,1,,Osteomyelitis
+F31.77,"Bipolar disord, in partial remis, most recent episode mixed",111,1,,Bipolar disorder
+J63.2,Berylliosis,111,1,,Berylliosis
+B18.0,Chronic viral hepatitis B with delta-agent,110,1,,Viral hepatitis
+B27.90,"Infectious mononucleosis, unspecified without complication",110,1,,Infectious mononucleosis
+J82.81,Chronic eosinophilic pneumonia,109,1,,Pulmonary eosinophilia
+I82.592,Chronic embolism and thrombosis of deep vein of l low extrem,108,1,,Venous embolism and thrombosis
+N83.291,"Other ovarian cyst, right side",108,1,,Ovarian cyst
+T38.0X5S,"Adverse effect of glucocort/synth analog, sequela",108,1,,Adverse effect of glucocorticoid
+E13.3299,"Oth diab with mild nonp rtnop without macular edema, unsp",107,1,,Diabetes
+H60.8X1,"Other otitis externa, right ear",107,1,,Otitis externa
+I63.532,Cereb infrc d/t unsp occls or stenos of left post cereb art,107,1,,Stroke
+I82.4Y3,"Ac emblsm and thombos unsp deep veins of prox low extrm, bi",107,1,,Venous embolism and thrombosis
+D56.0,Alpha thalassemia,106,1,,Thalassemia
+G04.81,Other encephalitis and encephalomyelitis,106,1,,Encephalitis and encephalomyelitis
+I63.419,Cereb infrc due to embolism of unsp middle cerebral artery,106,1,,Stroke
+I25.718,Athscl autologous vein CABG w oth angina pectoris,105,1,,Coronary artery disease
+I82.591,Chronic embolism and thrombosis of deep vein of r low extrem,105,1,,Venous embolism and thrombosis
+I25.812,Athscl bypass of cor art of transplanted heart w/o ang pctrs,104,1,,Coronary artery disease
+I50.811,Acute right heart failure,104,1,,Heart failure
+I70.244,Athscl native art of left leg w ulcer of heel and midfoot,104,1,,Peripheral arterial disease
+I82.433,"Acute embolism and thrombosis of popliteal vein, bilateral",104,1,,Venous embolism and thrombosis
+R68.0,"Hypothermia, not associated w low environmental temperature",104,1,,Hypothermia
+B00.89,Other herpesviral infection,103,1,,Herpes viral infection
+C32.2,Malignant neoplasm of subglottis,103,1,,Laryngeal cancer
+T78.2XXS,"Anaphylactic shock, unspecified, sequela",103,1,,Anaphylactic shock
+B02.32,Zoster iridocyclitis,102,1,,Herpes zoster
+E08.49,Diabetes due to undrl condition w oth diabetic neuro comp,102,1,,Diabetes
+H16.8,Other keratitis,102,1,,Keratitis
+M46.22,"Osteomyelitis of vertebra, cervical region",102,1,,Osteomyelitis
+I95.3,Hypotension of hemodialysis,101,1,,Hypotension
+M00.062,"Staphylococcal arthritis, left knee",101,1,,Septic arthritis
+F31.89,Other bipolar disorder,100,1,,Bipolar disorder

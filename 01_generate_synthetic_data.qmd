@@ -1,0 +1,277 @@
+---
+title: "INTERLACE - Generate Synthetic Data"
+author: "Weissman Lab"
+date: June 2026
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    theme: lumen
+    embed-resources: true
+---
+
+```{r setup}
+library(data.table)
+library(lubridate)
+library(dplyr)
+library(purrr)
+
+set.seed(1234)
+DATA_DIR <- "data/"
+```
+
+# Introduction
+
+This file creates synthetic data that is used to show the use of the data pipeline and model. It also includes instructions on how to format your data should you want to use this process. While this example is simple, your pipeline should extract and transform data from a 12 month lookback period from the date of the encounter.
+
+# Data Creation
+
+## Demographics
+
+This file contains patient demographic information. It should have the following columns:
+
+-pat_enc_csn_id: encounter identifier
+
+-pat_female: a binary 1/0 variable that is 1 when the patient is female, 0 when the patient is not female
+
+-pat_age: the age of the patient at the time of the encounter
+
+```{r deomgraphics}
+demos <- data.frame(pat_enc_csn_id = 1:500,
+                    pat_female = sample(c(1, 0), size = 500, replace = TRUE, prob = c(0.65, 0.35)),
+                    pat_age = 65 + rpois(500, lambda = 7))
+
+fwrite(demos, paste0(DATA_DIR, "demographics.csv"))
+```
+
+## Prior Diagnoses
+
+The file contains the encounter identifier (pat_enc_csn_id) and 669 ICD code category levels. See `icd_dx_crosswalk.csv` in the `resources/` folder for the mappings.
+
+```{r priordx}
+icd_cols <- fread("resources/icd_category_list.csv")$column_name
+prior_dx <- tibble(pat_enc_csn_id = 1:500)
+icd_cats <- icd_cols[icd_cols != "pat_enc_csn_id"] %>%
+  map_dfc(~ {vals <- rep(0, 500)
+             idx <- sample(1:500, sample(5:20, 1))
+             vals[idx] <- sample(1:5, length(idx), replace = TRUE)
+             tibble(!!.x := vals)})
+prior_dx <- bind_cols(prior_dx, icd_cats)
+
+fwrite(prior_dx, paste0(DATA_DIR, "icd_features.csv"))
+```
+
+## Labs
+
+This file contains the encounter identifier (pat_enc_csn_id) and columns for the min, median, max, sd, and count for each of the following labs:
+
+-ALKALINE.PHOSPHATASE
+
+-ALT
+
+-AST
+
+-BILIRUBIN.TOTAL
+
+-CARBON.DIOXIDE
+
+-CHOLESTEROL.HIGH.DENSITY.LIPOPROTEIN
+
+-CREATININE
+
+-HEMOGLOBIN
+
+-HEMOGLOBIN.A1C
+
+-INR
+
+-PLATELETS
+
+-POTASSIUM
+
+-SODIUM
+
+-THYROID.STIMULATING.HORMONE
+
+-UREA.NITROGEN
+
+-WBC
+
+```{r labs}
+lab_ranges <- list(ALKALINE.PHOSPHATASE = c(20, 140),
+                   ALT = c(7, 100),
+                   AST = c(10, 80),
+                   BILIRUBIN.TOTAL = c(0.1, 2.5),
+                   CARBON.DIOXIDE = c(18, 32),
+                   CHOLESTEROL.HIGH.DENSITY.LIPOPROTEIN = c(20, 100),
+                   CREATININE = c(0.4, 3.5),
+                   HEMOGLOBIN = c(6, 18),
+                   HEMOGLOBIN.A1C = c(4, 12),
+                   INR = c(0.8, 4.0),
+                   PLATELETS = c(50, 450),
+                   POTASSIUM = c(3.0, 6.0),
+                   SODIUM = c(125, 148),
+                   THYROID.STIMULATING.HORMONE = c(0.1, 10),
+                   UREA.NITROGEN = c(5, 60),
+                   WBC = c(1.5, 20))
+
+labs <- tibble(pat_enc_csn_id = 1:500)
+
+for (lab in names(lab_ranges)) {
+  lo <- lab_ranges[[lab]][1]
+  hi <- lab_ranges[[lab]][2]
+  
+  counts <- sample(1:20, 500, replace = TRUE)
+  
+  min_vals    <- numeric(500)
+  median_vals <- numeric(500)
+  max_vals    <- numeric(500)
+  sd_vals     <- numeric(500)
+  
+  for (i in 1:500) {raw <- runif(counts[i], lo, hi)
+                    min_vals[i] <- round(min(raw), 2)
+                    median_vals[i] <- round(median(raw), 2)
+                    max_vals[i] <- round(max(raw), 2)
+                    sd_vals[i] <- round(ifelse(counts[i] > 1, sd(raw), 0), 2)}
+  
+  labs <- labs %>% mutate("min_{lab}" := min_vals, "median_{lab}" := median_vals, "max_{lab}" := max_vals, "sd_{lab}" := sd_vals, "count_{lab}" := counts)}
+
+fwrite(labs, paste0(DATA_DIR, "lab_results.csv"))
+```
+
+## Meds
+
+This file contains the encounter identifier (pat_enc_csn_id) and columns with counts for each medication class. See `meds_crosswalk.csv` in the `resources/` folder for the mappings.
+
+```{r meds}
+med_cols <- fread("resources/med_class_list.csv")$column_name
+meds <- tibble(pat_enc_csn_id = 1:500)
+med_classes <- med_cols[med_cols != "pat_enc_csn_id"] %>%
+  map_dfc(~ {vals <- rep(0, 500)
+             idx <- sample(1:500, sample(5:20, 1))
+             vals[idx] <- sample(1:5, length(idx), replace = TRUE)
+             tibble(!!.x := vals)})
+meds <- bind_cols(meds, med_classes)
+
+fwrite(meds, paste0(DATA_DIR, "meds.csv"))
+```
+
+## Notes
+
+This file contains the encounter identifier (pat_enc_csn_id) and clean_note_text which contains the free text of the clinical notes from that encounter.
+
+These notes will be used for 3 steps:
+
+-Prior Symptoms: metamap will be used to create variables for the symptoms noted in the lookback period
+
+-Current Symptoms: metamap will be used to create variables for the symptoms noted at the current encounter
+
+-Vectorized Notes: BioClinicalBERT will be used to vectorize the notes in the lookback period
+
+```{r notes}
+symptoms <- c("hypertension", "type 2 diabetes", "fatigue", "chest pain", "shortness of breath",
+              "back pain", "knee pain", "abdominal pain", "headache", "weight gain",
+              "weight loss", "depression", "anxiety", "cough", "upper respiratory infection")
+actions <- c("was seen for annual wellness visit", "presented for follow-up", "was evaluated in clinic",
+             "had a telehealth visit", "was seen for medication refill", "presented for routine screening",
+             "was evaluated for acute complaint", "was seen for chronic disease management")
+assessments <- c("symptoms are improving", "symptoms are stable", "condition remains unchanged",
+                 "patient is responding to treatment", "no acute distress noted",
+                 "vitals within normal limits", "labs reviewed and discussed with patient")
+plans <- c("continue current management", "order follow-up labs", "schedule outpatient follow-up",
+           "adjust medications", "monitor symptoms closely", "referral placed to specialist",
+           "no changes to treatment plan", "dietary and lifestyle counseling provided")
+
+notes <- tibble(pat_enc_csn_id = 1:500) %>% mutate(note_id = row_number(),
+                                                   clean_note_text = paste("Patient", sample(actions, n(), replace = TRUE), "with", sample(symptoms, n(), replace = TRUE), ".",
+                                                                           sample(assessments, n(), replace = TRUE), ".", sample(plans, n(), replace = TRUE), "."))
+
+fwrite(notes, paste0(DATA_DIR, "notes.csv"))
+```
+
+## Utilization
+
+This file contains the encounter identifier (pat_enc_csn_id) and count variables for each encounter type. See `encounter_type_list.csv` in the `resources/` folder for the list.
+
+```{r encounter}
+enc_cols <- fread("resources/encounter_type_list.csv")$column_name
+enc <- tibble(pat_enc_csn_id = 1:500)
+enc_types <- enc_cols[enc_cols != "pat_enc_csn_id"] %>%
+  map_dfc(~ {vals <- rep(0, 500)
+             idx <- sample(1:500, sample(5:20, 1))
+             vals[idx] <- sample(1:5, length(idx), replace = TRUE)
+             tibble(!!.x := vals)})
+enc <- bind_cols(enc, enc_types)
+
+fwrite(enc, paste0(DATA_DIR, "utilization.csv"))
+```
+
+## Prior Vitals
+
+This file contains the encounter identifier (pat_enc_csn_id) and columns for the min, median, max, sd, and count for each of the following vitals:
+
+-sbp (Systolic Blood Pressure)
+
+-dbp (Diastolic Blood Pressure)
+
+-temp (Temperature)
+
+-pulse (Heart Rate)
+
+-total_height_inches (Patient Height)
+
+```{r prior_vitals}
+vital_ranges <- list(sbp = c(90, 180),
+                     dbp = c(60, 110),
+                     temp = c(96.0, 101.5),
+                     pulse = c(50, 110),
+                     total_height_inches = c(60, 76))
+
+vitals <- tibble(pat_enc_csn_id = 1:500)
+
+for (vital in names(vital_ranges)) {
+  lo <- vital_ranges[[vital]][1]
+  hi <- vital_ranges[[vital]][2]
+  
+  counts <- sample(1:20, 500, replace = TRUE)
+  
+  min_vals    <- numeric(500)
+  median_vals <- numeric(500)
+  max_vals    <- numeric(500)
+  sd_vals     <- numeric(500)
+  
+  for (i in 1:500) {raw <- runif(counts[i], lo, hi)
+                    min_vals[i] <- round(min(raw), 2)
+                    median_vals[i] <- round(median(raw), 2)
+                    max_vals[i] <- round(max(raw), 2)
+                    sd_vals[i] <- round(ifelse(counts[i] > 1, sd(raw), 0), 2)}
+  
+  vitals <- vitals %>% mutate("min_{vital}" := min_vals, "median_{vital}" := median_vals, "max_{vital}" := max_vals, "sd_{vital}" := sd_vals, "count_{vital}" := counts)}
+
+fwrite(vitals, paste0(DATA_DIR, "prior_vitals.csv"))
+```
+
+## Current Visit Vitals
+
+This file contains the encounter identifier (pat_enc_csn_id) and columns for the recorded value at the encounter for each of the following vitals:
+
+-sbp (Systolic Blood Pressure)
+
+-dbp (Diastolic Blood Pressure)
+
+-temp (Temperature)
+
+-pulse (Heart Rate)
+
+-total_height_inches (Patient Height)
+
+```{r}
+vitals_curr <- tibble(pat_enc_csn_id = 1:500) %>% mutate(sbp = round(runif(500, 90, 180), 1),
+                                                         dbp = round(runif(500, 60, 110), 1),
+                                                         temp = round(runif(500, 96.0, 101.5), 1),
+                                                         pulse = round(runif(500, 50, 110), 0),
+                                                         total_height_inches = round(runif(500, 60, 76), 1))
+
+fwrite(vitals_curr, paste0(DATA_DIR, "current_visit_vitals.csv"))
+```
