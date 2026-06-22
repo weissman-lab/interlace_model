@@ -10,8 +10,8 @@ from transformers import AutoTokenizer, AutoModel, BertTokenizer, BertModel
 
 #Establish Paths and Models
 DATA_PATH = os.path.join('data/')
-tokenizer = BertTokenizer.from_pretrained("/share/projects/resources/Bio_ClinicalBERT") #set to location of BERT tokenizer
-model = BertModel.from_pretrained("/share/projects/resources/Bio_ClinicalBERT") #set to location of BERT model
+tokenizer = BertTokenizer.from_pretrained("/your_folder_with_bert/Bio_ClinicalBERT") #set to location of BERT tokenizer
+model = BertModel.from_pretrained("/your_folder_with_bert/Bio_ClinicalBERT") #set to location of BERT model
 
 #Set # of threads for PyTorch
 torch.set_num_threads(32) #set to num cpus

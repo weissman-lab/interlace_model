@@ -1,15 +1,15 @@
 # INTERLACE - dIagNosTic Excellence for oldeR aduLts in primAry CarE
 
-This repository accompanies the manuscript *TITLE*. The full citation is here:
+This repository accompanies the manuscript *Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning*. The full citation is here:
 
-Text citation
+Streiffer CD, Press MJ, Bishop NS, Schmid BE, Sliwa A, Vyas AL, Ungar LH, Peifer M, Weissman GE. Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning. _Under review_ 2026.
 
 or in BibTex format:
 
 ```bibtex
-@article{name,
-  author = {Author},
-  title = {Title},
+@article{weissman2026multitask,
+  author = {Streiffer, Christopher D. and Press, Matthew J. and Bishop, Nicholas S. and Schmid, Benjamin E. and Sliwa, Alyssa and Vyas, Anuradha L. and Ungar, Lyle H. and Peifer, MaryAnne and Weissman, Gary E.
+  title = {Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning},
   journal = {Under review},
   year = {2026},
   note = {Under review}
@@ -23,7 +23,7 @@ This repository contains resources to replicate a data pipeline that predicts di
 
 Step 1: Generate Synthetic Data (`01_generate_synthetic_data.qmd`) - this file creates synthetic patient data that mirrors the SQL Clarity extract and structured data processing. If adapting this to your dataset, you will need to replace this file with your data extract and reformatting. Please note that this file adjusts the synthetic data to result in final predictions that are representative of the training data.
 
-Step 2: Extract Symptoms Information (`02_extract_symptoms.py`) - this file extracts symptoms from notes using Metamap. Please note that you will need to update the path to the Metamap server.
+Step 2: Extract Symptoms Information (`02_extract_symptoms.py`) - this file extracts symptoms from notes using Metamap. Please note that you will need to update the path to the Metamap server. You can find more information about it here: http://metamap.nlm.nih.gov
 
 Step 3: Unstructured Data Processing (`03_vectorize_notes.py`) - this file vectorizes unstructured data using BioClinicalBERT. It is recommended to remove PHI from your text data prior to using this tool. Please note that you will need to update the paths for BioClinicalBERT to the location of the model. You can find more information about it here: https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT
 

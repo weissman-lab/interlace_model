@@ -23,7 +23,7 @@ if not os.path.exists(TEMP_SOSY_DIR):
     os.makedirs(TEMP_SOSY_DIR)
 
 #Set Up Servers
-metamap_base_dir = '/share/projects/resources/umls/public_mm/' #set to the location of the server
+metamap_base_dir = '/your_folder_with_metamap/umls/public_mm/' #set to the location of the server
 metamap_bin_dir = 'bin/metamap20'
 metamap_pos_server_dir = 'bin/skrmedpostctl'
 metamap_wsd_server_dir = 'bin/wsdserverctl'
