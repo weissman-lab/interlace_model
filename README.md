@@ -2,7 +2,7 @@
 
 This repository accompanies the manuscript *Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning*. The full citation is here:
 
-Streiffer CD, Press MJ, Bishop NS, Schmid BE, Sliwa A, Vyas AL, Ungar LH, Peifer M, Weissman GE. Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning. _Under review_ 2026.
+Streiffer CD, Press MJ, Bishop NS, Schmid BE, Sliwa A, Vyas AL, Ungar LH, Peifer M, Weissman GE. Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning. _J Am Med Inform Assoc_ 2026. https://doi.org/10.1093/jamia/ocag132
 
 or in BibTex format:
 
@@ -10,9 +10,11 @@ or in BibTex format:
 @article{weissman2026multitask,
   author = {Streiffer, Christopher D. and Press, Matthew J. and Bishop, Nicholas S. and Schmid, Benjamin E. and Sliwa, Alyssa and Vyas, Anuradha L. and Ungar, Lyle H. and Peifer, MaryAnne and Weissman, Gary E.
   title = {Artificial intelligence-based diagnostic decision support for primary care of older adults using collective intelligence and imitation learning},
-  journal = {Under review},
+  journal = {J Am Med Inform Assoc},
   year = {2026},
-  note = {Under review}
+  month = {September},
+  page = {ocag132},
+  url = {https://doi.org/10.1093/jamia/ocag132}
 }
 
 ```
